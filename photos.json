@@ -198,5 +198,55 @@
    "page_url": "https://commons.wikimedia.org/wiki/File:The_Omni_Grove_Park_Inn,_2013.jpg",
    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/The_Omni_Grove_Park_Inn%2C_2013.jpg/1920px-The_Omni_Grove_Park_Inn%2C_2013.jpg"
   }
+ ],
+ "lp": [
+  {
+   "local": "img/lp-1.jpg",
+   "subject": "Mirror Lake frozen under snow, High Peaks and village shoreline behind",
+   "author": "Chris1093",
+   "license": "CC BY-SA 3.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mirror_Lake_in_Lake_Placid.JPG",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Mirror_Lake_in_Lake_Placid.JPG/1920px-Mirror_Lake_in_Lake_Placid.JPG"
+  },
+  {
+   "local": "img/lp-2.jpg",
+   "subject": "Whiteface Mountain ski runs in snow, view from the gondola area",
+   "author": "Baombaom",
+   "license": "CC BY-SA 4.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Whiteface_Mountain_Ski_Area_off_the_Gondola_Lift.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Whiteface_Mountain_Ski_Area_off_the_Gondola_Lift.jpg/1920px-Whiteface_Mountain_Ski_Area_off_the_Gondola_Lift.jpg"
+  },
+  {
+   "local": "img/lp-3.jpg",
+   "subject": "Olympic Speed Skating Oval at dusk, snow and ice with the Lake Placid Middle/High School building lit behind",
+   "author": "LunchboxLarry from Burlington, Vermont",
+   "license": "CC BY 2.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Olympic_Speed_Skating_Oval_(Lake_Placid).jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Olympic_Speed_Skating_Oval_%28Lake_Placid%29.jpg/1920px-Olympic_Speed_Skating_Oval_%28Lake_Placid%29.jpg"
+  },
+  {
+   "local": "img/lp-4.jpg",
+   "subject": "High Peaks in winter, snowshoer looking at snow-dusted summits",
+   "author": "Martin Morissette",
+   "license": "CC BY 2.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:High_peaks_winter_1.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/High_peaks_winter_1.jpg/1920px-High_peaks_winter_1.jpg"
+  },
+  {
+   "local": "img/lp-5.jpg",
+   "subject": "Mt Van Hoevenberg sliding track area in snow: racks of luge sleds",
+   "author": "DanielPenfield",
+   "license": "CC BY-SA 4.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:ESWG2020MtVanHoevenbergRecreationAreaLuges.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/ESWG2020MtVanHoevenbergRecreationAreaLuges.jpg/1920px-ESWG2020MtVanHoevenbergRecreationAreaLuges.jpg"
+  },
+  {
+   "local": "img/lp-6.jpg",
+   "subject": "Main Street at night in holiday lights",
+   "author": "LunchboxLarry from Burlington, Vermont",
+   "license": "CC BY 2.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Lake_Placid_Night_(44626152240).jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Lake_Placid_Night_%2844626152240%29.jpg/1920px-Lake_Placid_Night_%2844626152240%29.jpg"
+  }
  ]
 }

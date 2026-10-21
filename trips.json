@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "The Week After Christmas",
-    "subtitle": "Four places that work for all ten of us. Sunday December 27, 2026 to Sunday January 3, 2027.",
+    "subtitle": "Five places that work for all ten of us. Sunday December 27, 2026 to Sunday January 3, 2027.",
     "built": "October 21, 2026",
     "disclaimer": "Preliminary. Nothing is booked, quoted or decided. Every price is an estimate for ten people at holiday-week rates unless it says published. Flight days are as the airlines announced them and still need to be checked for these dates.",
     "party": "Mom, Patrick and Sara, Andrew and Trisha, Kristina and Michael with Bennett (7) and Taylor (3), and Daniel. Seven fly from Norfolk, two from Richmond, one from Austin.",
@@ -1211,6 +1211,371 @@
           "name": "Asheville airport (AVL)",
           "lat": 35.4362,
           "lng": -82.5418,
+          "kind": "airport"
+        }
+      ],
+      "zoom": 9
+    },
+    {
+      "key": "lp",
+      "name": "Lake Placid",
+      "place": "The Olympic village, upstate New York",
+      "tag": "The known quantity, as a fallback",
+      "lat": 44.2795,
+      "lng": -73.9799,
+      "pitch": "The family's own February base, done again with the two things that were missing: a house with a hot tub and the kids along. Main Street, the Mirror Lake loop, the Olympic Center and the skating oval are all on foot, Whiteface is twenty minutes by car, and everyone including Mom skied it last time. Two things hold it to a fallback as of October 21: the bobsled ride is listed as unavailable for track updates, and the walkable six-bedroom houses with hot tubs already show booked for the week.",
+      "why": [
+        "The village passes the walk-out test easily: Main Street shops and restaurants, the paved 2.7-mile Mirror Lake loop, outdoor skating on the Olympic oval, dog-sled rides on Mirror Lake daily from December 26, the Olympic Museum and the 1980 arena.",
+        "Whiteface, the mountain all five riders skied in February, with snowmaking on nearly every acre; cross-country on the 1932 and 1980 Nordic trails at Mt Van Hoevenberg for Mom at the 70-and-up rate.",
+        "A drive, not a flight day: about 10 hours 40 minutes from Virginia Beach with an overnight in the Hudson Valley on the way up, the way Patrick did it last time. Daniel flies to Albany.",
+        "The Mirror Lake Inn spa and a reformer studio on Main Street for Sara, the Wild Center and the skating oval for the kids (Taylor skates free), a hot tub for Mom.",
+        "About $28,000 to $36,000 for ten with the one house confirmed open, which overlaps Asheville and sits under Puerto Rico."
+      ],
+      "catch": [
+        "The bobsled, Kristina's stated reason to come back, is not bookable: the venue's page redirects and the tourism site says it is unavailable for track updates. The skeleton ride that is offered is ages 13 and up, so only the adults could slide.",
+        "The walkable six-bedroom houses with hot tubs (Hillcrest Haven, the Stevens house, the Waterfront house) all show booked for December 27 to January 3. The one house confirmed open, Cliff View Loj, is under a mile out, which one reviewer called a 30-minute walk. Camp Kobl Hill, which would decide it, needs a call.",
+        "A third winter trip in two years, and the coldest week on the list: highs near 28 degrees, nights near zero.",
+        "Ten to eleven hours of driving each way, with winter on I-87 and Route 73 able to add hours.",
+        "No dedicated gluten-free restaurant in town; a list of celiac-literate kitchens and the house carry Sara's week. The toboggan chute needs a foot of lake ice, unlikely before January."
+      ],
+      "weather": "Reliably wintry and short-day: December highs about 28 degrees, nights near zero, about 104 inches of snow a year. Whiteface runs on snowmaking across nearly all of its skiable acres.",
+      "notes": [
+        {
+          "title": "Vermont and Canada, compared",
+          "paragraphs": [
+            "Stowe, Vermont wins on the things Lake Placid lacked last time: a house with a hot tub, a real spa at Topnotch or the Trapp Family Lodge, an Epic mountain for all five riders, and the groomed recreation path from the village. It loses on the drive (12 to 13 hours from Virginia Beach, one to two more than Lake Placid), on the walk-out test unless the house is in the small village, on gluten-free depth and a reformer, and it has no bobsled. Roughly $26,000 to $42,000 for ten, with two six-bedroom hot-tub houses found and neither priced for the week.",
+            "Mont-Tremblant, Quebec is the best village of the three: a car-free resort at the lift base, a low mountain (about 750 to 2,900 feet, so altitude is no issue), six-bedroom hot-tub homes a few minutes' walk from the village, the Scandinave spa, dog sledding, tubing and an indoor water park for the kids. It loses on access, which is the thing Mom flags: a one-connection flight to Montreal for all ten plus a 90-minute winter drive and a border crossing, passports for everyone including the kids, Canadian dollars, and cold to 5 below. Roughly $30,000 to $50,000 for ten.",
+            "Quebec City scored low in the first round (the old city is a day trip from any ski chalet), and Banff fails on altitude and the Calgary transfer. If the family wants snow more than ease, Tremblant is the one to build out; if it wants the known quantity and a drive, Lake Placid is, once two phone calls settle the bobsled and the house."
+          ]
+        }
+      ],
+      "getting_there": [
+        {
+          "from": "Norfolk (7)",
+          "how": "Drive: 10 hours 41 minutes without stops by Google Maps, the family's 11 hours in February. Two cars, an overnight in the Hudson Valley on Saturday December 26, check-in Sunday. Flying is one stop to Albany (American via Philadelphia, United via Washington, Southwest via Baltimore) then about 2.5 hours north.",
+          "est": "Gas about $250 to $300 a car, or $510 to $580 a seat to Albany",
+          "link": "https://www.google.com/maps/dir/Virginia+Beach,+VA/Lake+Placid,+NY/"
+        },
+        {
+          "from": "Richmond (2)",
+          "how": "Drive: about 10 hours by Google Maps, longer with stops. Or one stop to Albany via Washington or Baltimore.",
+          "est": "Gas, or $520 to $630 a seat",
+          "link": "https://www.google.com/maps/dir/Richmond,+VA/Lake+Placid,+NY/"
+        },
+        {
+          "from": "Austin (1)",
+          "how": "One stop to Albany (Southwest lands late afternoon on the sample itinerary), then a ride north with the family cars or a rental. Burlington is the alternate.",
+          "est": "$450 to $700",
+          "link": "https://www.google.com/travel/flights?q=Flights%20to%20ALB%20from%20AUS%20on%202026-12-27%20through%202027-01-03&curr=USD&hl=en"
+        },
+        {
+          "from": "On the ground",
+          "how": "The three family cars cover Whiteface (10 miles) and Mt Van Hoevenberg (8 miles). Montreal, Plattsburgh and Saranac Lake add nothing over Albany.",
+          "est": "Included in the drive",
+          "link": ""
+        }
+      ],
+      "houses": [
+        {
+          "name": "Cliff View Loj",
+          "detail": "Six bedrooms including a bunk room, 3.5 baths, sleeps 14, hot tub and a six-person sauna, a front-yard playground. Under a mile to Main Street; the listing says a 10-minute walk to Mirror Lake, a July 2026 reviewer called it an easy 30-minute walk to town. The hot tub has no gate.",
+          "price": "Quoted October 21 for December 27 to January 3: $18,757 on Vrbo, $19,310 on Airbnb, fees included",
+          "url": "https://www.vrbo.com/7945703ha",
+          "verdict": "The only six-bedroom house confirmed open for the week. Marginal on the walk."
+        },
+        {
+          "name": "Camp Kobl Hill (Adirondack Premier Properties)",
+          "detail": "A 1918 Adirondack estate on two acres beside Cobble Hill and Mirror Lake: seven bedrooms, sleeps 15, a covered outdoor hot tub, a pickleball court. The listing headline says walk to town.",
+          "price": "From $950 a night before fees; the holiday rate is not posted",
+          "url": "https://adkpp.com/vacation-rentals/camp-kobl-hill/",
+          "verdict": "The house that would make Lake Placid work. Not in the open online results, so it is a phone call."
+        },
+        {
+          "name": "Mirror Lake Retreat (Adirondack Premier Properties)",
+          "detail": "Six bedrooms with a twin-bunk room, sleeps exactly ten, on Mirror Lake Drive with a shared beachfront, a short walk to Main Street. No hot tub.",
+          "price": "From $750 a night before fees; holiday rate not posted",
+          "url": "https://adkpp.com/vacation-rentals/mirror-lake-retreat/",
+          "verdict": "Right location, no hot tub. A phone call."
+        },
+        {
+          "name": "Hillcrest Haven",
+          "detail": "Seven bedrooms, four baths, sleeps 14, a six-person spa off the deck, one block from the center of town. The model house.",
+          "price": "Shows unavailable for December 27 to January 3",
+          "url": "https://www.expedia.com/Lake-Placid-Hotels-Lake-Placid-Hillcrest-Haven-Sleeps-14-1-Block-To-Main-Street.h34269925.Hotel-Information",
+          "verdict": "Booked for the week; worth a cancellation-list ask."
+        }
+      ],
+      "agenda": [
+        {
+          "day": "Sun Dec 27",
+          "all": "Arrive from the Hudson Valley overnight by late afternoon; Andrew and Trisha from Richmond; Daniel picked up at Albany or in by rental. Groceries, the hot tub, a simple dinner.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Mon Dec 28",
+          "all": "Dinner at the house.",
+          "crew": "Whiteface day one, tickets bought online ahead.",
+          "relax": "The Mirror Lake loop walk, coffee on Main Street, Sara's first reformer class at The Studio Upstate. Kids: skating on the oval, where Taylor is free."
+        },
+        {
+          "day": "Tue Dec 29",
+          "all": "",
+          "crew": "Whiteface day two. Mom: a cross-country morning at Mt Van Hoevenberg.",
+          "relax": "Mirror Lake Inn spa for Sara and Trisha. Kids with Michael to the Wild Center in Tupper Lake, open holiday hours through December 31."
+        },
+        {
+          "day": "Wed Dec 30",
+          "all": "The Olympic day together: the museum and the 1980 arena, skating on the oval, lunch at The Cottage, the ski-jump Skyride. Kristina, Andrew and Daniel: the skeleton ride at Mt Van Hoevenberg if it is running.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Thu Dec 31",
+          "all": "New Year's Eve chef dinner at the house.",
+          "crew": "Whiteface day three, or a guided ice-climbing intro in Keene.",
+          "relax": "Cobble Hill, the short climb above the village, or a slow Main Street morning and reformer class two. Kids: sledding at Teddy Bear Park."
+        },
+        {
+          "day": "Fri Jan 1",
+          "all": "Mom's day: a walk around Mirror Lake or across the plowed ice, dog sleds for anyone who missed them, the toboggan chute if the ice has reached a foot.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Sat Jan 2",
+          "all": "A last dinner out or a second chef night.",
+          "crew": "Whiteface day four or cross-country at Mt Van Hoevenberg.",
+          "relax": "A last spa or salt-room session. Kids: sledding, the Skyride if it was missed."
+        },
+        {
+          "day": "Sun Jan 3",
+          "all": "Check out by 10. The Virginia cars drop Daniel at Albany and drive home, or split it with a night on the road.",
+          "crew": "",
+          "relax": ""
+        }
+      ],
+      "pricing": [
+        {
+          "item": "House, seven nights",
+          "low": 18757,
+          "high": 19310,
+          "note": "Cliff View Loj, quoted October 21 for the week; if Camp Kobl Hill is open at its posted starting rate the line drops to about $8,300 and the total to about $17,000"
+        },
+        {
+          "item": "Travel: three cars plus Daniel's flight",
+          "low": 1300,
+          "high": 1900,
+          "note": "Fuel at about 1,250 miles a car, plus one one-stop fare from Austin"
+        },
+        {
+          "item": "Lift tickets, five riders, three or four days",
+          "low": 1758,
+          "high": 2344,
+          "note": "Last season's peak window rates: $134 adult, $50 for Mom at 70 and up; 2026-27 rates not published"
+        },
+        {
+          "item": "Skeleton rides",
+          "low": 0,
+          "high": 225,
+          "note": "Three adult rides at $75; the bobsled is not offered"
+        },
+        {
+          "item": "Skating, dog sleds, toboggan",
+          "low": 300,
+          "high": 810,
+          "note": "Oval skating about $219 a session for ten; dog sleds about $20 a person"
+        },
+        {
+          "item": "Cross-country at Mt Van Hoevenberg",
+          "low": 50,
+          "high": 330,
+          "note": "Posted day passes and rentals"
+        },
+        {
+          "item": "Chef, one or two nights",
+          "low": 1500,
+          "high": 3000,
+          "note": "Simply Catering's private-chef service, to quote"
+        },
+        {
+          "item": "Groceries and dining",
+          "low": 3000,
+          "high": 5500,
+          "note": "A planning allowance"
+        },
+        {
+          "item": "Spa",
+          "low": 390,
+          "high": 930,
+          "note": "Mirror Lake Inn signature massages at $195, salt room at $75"
+        },
+        {
+          "item": "Rentals, tolls, a night on the road",
+          "low": 800,
+          "high": 2000,
+          "note": "Ski and board rentals, tolls, the Hudson Valley hotel"
+        }
+      ],
+      "links": {
+        "Activities": [
+          {
+            "label": "Whiteface lift tickets",
+            "url": "https://whiteface.com/tickets-passes/lift-tickets/"
+          },
+          {
+            "label": "Bobsled Experience status (unavailable for track updates)",
+            "url": "https://www.lakeplacid.com/attractions/bobsled-rides-olympic-sports-complex"
+          },
+          {
+            "label": "Skeleton Experience, Mt Van Hoevenberg (13 and up)",
+            "url": "https://mtvanhoevenberg.com/todo/skeleton-experience/"
+          },
+          {
+            "label": "Cross-country skiing, Mt Van Hoevenberg",
+            "url": "https://mtvanhoevenberg.com/todo/cross-country-skiing/"
+          },
+          {
+            "label": "Olympic Center skating",
+            "url": "https://lakeplacidolympiccenter.com/skating/"
+          },
+          {
+            "label": "Lake Placid Olympic Museum",
+            "url": "https://www.lakeplacid.com/history/lake-placid-olympic-museum"
+          },
+          {
+            "label": "Olympic Jumping Complex, the Skyride",
+            "url": "https://olympicjumpingcomplex.com/visit/"
+          },
+          {
+            "label": "Dog sled rides on Mirror Lake",
+            "url": "https://www.lakeplacid.com/do/activities/dog-sled-rides"
+          },
+          {
+            "label": "Lake Placid Toboggan Chute",
+            "url": "https://www.lakeplacid.com/do/activities/lake-placid-toboggan-chute"
+          },
+          {
+            "label": "Mirror Lake Inn spa",
+            "url": "https://mirrorlakeinn.com/spa-salon/spa-treatments/"
+          },
+          {
+            "label": "The Studio Upstate, reformer Pilates on Main Street",
+            "url": "https://www.thestudioupstate.com/"
+          },
+          {
+            "label": "The Wild Center, Tupper Lake",
+            "url": "https://wildcenter.org/webassets/visit"
+          },
+          {
+            "label": "Ice climbing with Adirondack Rock and River",
+            "url": "https://lakeplacid.com/do/activities/adirondack-rock-river-guide-service-inc"
+          }
+        ],
+        "Food": [
+          {
+            "label": "Find Me Gluten Free: Lake Placid celiac ratings",
+            "url": "https://www.findmeglutenfree.com/us/ny/lake-placid"
+          },
+          {
+            "label": "Simply Catering, private chef services",
+            "url": "https://www.eatlakeplacid.com/location/simply-catering/"
+          }
+        ],
+        "Travel": [
+          {
+            "label": "Vrbo search for the week, five or more bedrooms",
+            "url": "https://www.vrbo.com/search?destination=Lake%20Placid%2C%20New%20York%2C%20United%20States%20of%20America&regionId=6055989&startDate=2026-12-27&endDate=2027-01-03&adults=8&children=1_7%2C1_3&bedroom_count_gt=5&sort=RECOMMENDED"
+          },
+          {
+            "label": "Adirondack Premier Properties, private home rentals",
+            "url": "https://adkpp.com/vacation-rentals/homes/"
+          },
+          {
+            "label": "Google Flights, Norfolk to Albany for the dates",
+            "url": "https://www.google.com/travel/flights?q=Flights%20to%20ALB%20from%20ORF%20on%202026-12-27%20through%202027-01-03&curr=USD&hl=en"
+          },
+          {
+            "label": "Stowe, Vermont: Sylvan Rhapsody, six bedrooms with a hot tub in the village",
+            "url": "https://www.vrbo.com/2710951"
+          },
+          {
+            "label": "Mont-Tremblant: Panache 784, six bedrooms with a hot tub near the village",
+            "url": "https://www.airbnb.co.uk/rooms/49223746"
+          }
+        ]
+      },
+      "markers": [
+        {
+          "name": "Village of Lake Placid, Main Street",
+          "lat": 44.2795,
+          "lng": -73.9799,
+          "kind": "town"
+        },
+        {
+          "name": "Mirror Lake and the loop walk",
+          "lat": 44.2904,
+          "lng": -73.982,
+          "kind": "spot"
+        },
+        {
+          "name": "Olympic Center, museum and skating oval",
+          "lat": 44.2837,
+          "lng": -73.9853,
+          "kind": "spot"
+        },
+        {
+          "name": "Toboggan chute, Parkside Drive",
+          "lat": 44.2849,
+          "lng": -73.9827,
+          "kind": "spot"
+        },
+        {
+          "name": "Mirror Lake Inn and spa",
+          "lat": 44.2942,
+          "lng": -73.9825,
+          "kind": "spot"
+        },
+        {
+          "name": "Cliff View Loj area (under a mile out)",
+          "lat": 44.273,
+          "lng": -73.97,
+          "kind": "house"
+        },
+        {
+          "name": "Olympic Jumping Complex",
+          "lat": 44.2571,
+          "lng": -73.9653,
+          "kind": "spot"
+        },
+        {
+          "name": "Mt Van Hoevenberg: sliding track and cross-country",
+          "lat": 44.217,
+          "lng": -73.925,
+          "kind": "spot"
+        },
+        {
+          "name": "Whiteface Mountain, Wilmington",
+          "lat": 44.3745,
+          "lng": -73.8924,
+          "kind": "spot"
+        },
+        {
+          "name": "The Wild Center, Tupper Lake",
+          "lat": 44.2198,
+          "lng": -74.4386,
+          "kind": "spot"
+        },
+        {
+          "name": "Albany airport (ALB), about 2.5 hours",
+          "lat": 42.7482,
+          "lng": -73.7986,
+          "kind": "airport"
+        },
+        {
+          "name": "Burlington airport (BTV), about 2.5 hours",
+          "lat": 44.4729,
+          "lng": -73.1515,
           "kind": "airport"
         }
       ],

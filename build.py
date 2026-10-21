@@ -9,7 +9,7 @@ photos = json.load(open(HERE / 'photos.json', encoding='utf-8')) if (HERE / 'pho
 E = lambda s: html.escape(str(s), quote=True)
 money = lambda n: '$' + format(int(n), ',')
 
-ACCENT = {'pr': '#0f7c8c', 'ami': '#d9772f', 'pc': '#3b5b8f', 'avl': '#3f7a4d'}
+ACCENT = {'pr': '#0f7c8c', 'ami': '#d9772f', 'pc': '#3b5b8f', 'avl': '#3f7a4d', 'lp': '#7a4a8c'}
 
 def photo_block(key, which):
     ph = photos.get(key, [])
@@ -26,6 +26,9 @@ def section(t):
         f'<div class="hero-text"><span class="tag">{E(t["tag"])}</span><h2>{E(t["name"])}</h2><p>{E(t["place"])}</p></div></div>'
     hero_credit = f'<p class="credit">{credit(hero)}</p>' if hero else ''
     why = ''.join(f'<li>{E(x)}</li>' for x in t['why']); catch = ''.join(f'<li>{E(x)}</li>' for x in t['catch'])
+    notes = ''
+    for n in t.get('notes', []):
+        notes += f'<div class="note"><h4>{E(n["title"])}</h4>' + ''.join(f'<p>{E(x)}</p>' for x in n['paragraphs']) + '</div>'
     gal = ''
     if gallery:
         gal = '<div class="gallery">' + ''.join(f'<figure><img loading="lazy" src="{E(p["local"])}" alt="{E(p.get("subject",""))}"><figcaption>{credit(p)}</figcaption></figure>' for p in gallery) + '</div>'
@@ -47,6 +50,7 @@ def section(t):
       <div><h3>The catch</h3><ul>{catch}</ul></div>
     </div>
     <p class="weather"><strong>Weather that week.</strong> {E(t['weather'])}</p>
+    {notes}
     {gal}
     <h3>The map</h3>
     <div class="mapwrap"><div id="map-{key}" class="map"></div><ul class="legend">{markers}</ul></div>
@@ -117,6 +121,7 @@ section.trip{{margin-top:48px;border-top:1px solid var(--line)}}
 .credit{{font-size:.75rem;color:var(--muted);text-align:right;margin:4px 16px 0}}
 .pitch{{font-size:1.15rem;margin:20px 0 10px}}
 .weather{{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 14px;font-size:.95rem}}
+.note{{background:#fff;border:1px solid var(--line);border-left:4px solid var(--acc);border-radius:10px;padding:12px 16px;margin:14px 0;font-size:.95rem}} .note h4{{margin:0 0 .3em;color:var(--acc)}} .note p{{margin:.4em 0}}
 .gallery{{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:18px 0}}
 .gallery figure{{margin:0}} .gallery img{{width:100%;height:190px;object-fit:cover;border-radius:10px;display:block}} .gallery figcaption{{font-size:.72rem;color:var(--muted);margin-top:4px}}
 .mapwrap{{display:grid;grid-template-columns:2fr 1fr;gap:16px}} @media(max-width:720px){{.mapwrap{{grid-template-columns:1fr}}}}
