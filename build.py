@@ -31,7 +31,7 @@ def section(t):
         gal = '<div class="gallery">' + ''.join(f'<figure><img loading="lazy" src="{E(p["local"])}" alt="{E(p.get("subject",""))}"><figcaption>{credit(p)}</figcaption></figure>' for p in gallery) + '</div>'
     gt = ''.join(f'<tr><th>{E(g["from"])}</th><td>{E(g["how"])}' + (f' <a href="{E(g["link"])}" rel="noopener">Link</a>' if g.get('link') else '') + f'</td><td class="num">{E(g["est"])}</td></tr>' for g in t['getting_there'])
     houses = ''.join(f'<div class="card"><h4><a href="{E(h["url"])}" rel="noopener">{E(h["name"])}</a></h4><p>{E(h["detail"])}</p><p class="price">{E(h["price"])}</p><p class="verdict">{E(h["verdict"])}</p></div>' for h in t['houses'])
-    ag = ''.join(f'<tr><th>{E(a["day"])}</th><td>{E(a["all"])}</td><td>{E(a["crew"])}</td><td>{E(a["relax"])}</td></tr>' for a in t['agenda'])
+    ag = ''.join(f'<tr><th>{E(a["day"])}</th><td data-label="Everyone">{E(a["all"])}</td><td data-label="Adventure crew">{E(a["crew"])}</td><td data-label="Relaxed crew and kids">{E(a["relax"])}</td></tr>' for a in t['agenda'])
     low = sum(p['low'] for p in t['pricing']); high = sum(p['high'] for p in t['pricing'])
     pr = ''.join(f'<tr><td>{E(p["item"])}</td><td class="num">{money(p["low"])}</td><td class="num">{money(p["high"])}</td><td class="note">{E(p["note"])}</td></tr>' for p in t['pricing'])
     pr += f'<tr class="total"><td>Total for ten</td><td class="num">{money(low)}</td><td class="num">{money(high)}</td><td class="note">About {money(low/10)} to {money(high/10)} a head, kids included</td></tr>'
@@ -129,6 +129,7 @@ th,td{{text-align:left;vertical-align:top;padding:10px 12px;border-top:1px solid
 thead th{{background:#f1ece3;border-top:none;font-weight:600}} tbody th{{font-weight:600;white-space:nowrap;background:#fbf9f5}}
 .num{{text-align:right;white-space:nowrap}} .note{{color:var(--muted);font-size:.88rem}} tr.total td{{font-weight:700;background:#f1ece3}}
 .scroll{{overflow-x:auto}} .agenda th:first-child{{width:110px}}
+@media(max-width:720px){{.agenda thead{{display:none}} .agenda tr{{display:block;border-top:2px solid var(--line);padding:6px 0}} .agenda th,.agenda td{{display:block;border:none;padding:4px 12px;white-space:normal}} .agenda tbody th{{background:none;font-size:1rem;color:var(--acc)}} .agenda td:empty{{display:none}} .agenda td::before{{content:attr(data-label);display:block;font-size:.75rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}} .pricing{{min-width:560px}}}}
 .cards{{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px}}
 .card{{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px}} .card p{{margin:.4em 0;font-size:.93rem}} .card .price{{font-weight:600}} .card .verdict{{color:var(--muted)}}
 .links{{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}} .links ul{{padding-left:1.1em;margin:.3em 0}} .links li{{margin:.3em 0;font-size:.95rem}}
