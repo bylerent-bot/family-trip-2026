@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "The Week After Christmas",
-    "subtitle": "Five places that work for all ten of us. Sunday December 27, 2026 to Sunday January 3, 2027.",
+    "subtitle": "Six places that work for all ten of us. Sunday December 27, 2026 to Sunday January 3, 2027.",
     "built": "October 21, 2026",
     "disclaimer": "Preliminary. Nothing is booked, quoted or decided. Every price is an estimate for ten people at holiday-week rates unless it says published. Flight days are as the airlines announced them and still need to be checked for these dates.",
     "party": "Mom, Patrick and Sara, Andrew and Trisha, Kristina and Michael with Bennett (7) and Taylor (3), and Daniel. Seven fly from Norfolk, two from Richmond, one from Austin.",
@@ -1576,6 +1576,365 @@
           "name": "Burlington airport (BTV), about 2.5 hours",
           "lat": 44.4729,
           "lng": -73.1515,
+          "kind": "airport"
+        }
+      ],
+      "zoom": 9
+    },
+    {
+      "key": "mt",
+      "name": "Mont-Tremblant",
+      "place": "The pedestrian village, Quebec",
+      "tag": "The snow village, with passports",
+      "lat": 46.2136,
+      "lng": -74.5855,
+      "pitch": "A car-free village at the base of the mountain, lit up at night, with the skating rink, the Aquaclub water park, the open-air Cabriolet gondola and two dozen restaurants on foot. The mountain is low (about 750 to 2,900 feet) and on the Ikon pass. One six-bedroom house with a private hot tub is open and priced for the exact week. The catches are access, which is Mom's flag: a one-connection flight to Montreal for every household, then 90 minutes to two hours of winter driving, a border, passports for all ten including the kids, and nights near 5 degrees.",
+      "why": [
+        "The best village of the snow options: heated walkways, a free lit skating rink with ice slides and free skate loans, the Cabriolet, sleigh rides from the village, the Brind'O Aquaclub for a cold afternoon.",
+        "Low altitude for Sara (base about 750 feet) and the Scandinave spa ten minutes away: an outdoor thermal circuit with silence as the house rule.",
+        "Real adventure beside the skiing: dog sledding seven minutes away where the kids ride with the guide from age 3, guided snowmobiles, an ice-climbing intro, 80 kilometers of Nordic trails at Domaine Saint-Bernard.",
+        "Tremblant's own advice for the holiday week: start on the North Side and ride the upper lifts to skip the 10 AM South Side line; January 1 is usually lighter.",
+        "Panache 784 is open and priced for December 27 to January 3: six bedrooms, a private outdoor hot tub, about $27,900 to $31,000 for the week, fees included."
+      ],
+      "catch": [
+        "Access is Mom's flag: every household connects once to Montreal, then drives 90 minutes to two hours north in winter, likely after dark on arrival day, with a border each way.",
+        "Passports for all ten, including Bennett and Taylor. Child books are in-person with both parents; routine processing runs four to twelve weeks and the trip is about nine weeks out, so anyone short applies now and expedites.",
+        "The house is a shuttle ride from the village, not a walk: the listing says shuttle or a short drive, one guest calls it a 25-minute uphill hike, another a five-minute walk from the shuttle stop. The family accepts the free resort shuttle as the way home, or this option is out.",
+        "Nights near 5 degrees and highs in the 20s; wind can close the summit lifts. A third winter trip in two years.",
+        "No hospital in Mont-Tremblant; the nearest 24-hour ER is about 40 minutes away in Sainte-Agathe. Carry epinephrine from home. No dedicated gluten-free restaurant; the house kitchen plus celiac-literate places in town and the village.",
+        "The honest total is about $45,000 to $66,000 for ten, second only to Park City. The house alone equals the whole Lake Placid week."
+      ],
+      "weather": "Real winter: December highs about 27 degrees, lows about 14; January highs about 19, lows about 5. Snow likely. Wind can close the summit lifts and leave the lower half open.",
+      "notes": [
+        {
+          "title": "Money, in two currencies",
+          "paragraphs": [
+            "Prices here are in US dollars at 1.42 Canadian dollars to the US dollar, the mid-October rate; the rate moved from 1.40 to 1.42 over the previous month, so Canadian-priced lines can shift a few percent either way. Vrbo quotes in US dollars; Airbnb and the operators quote in Canadian dollars with about 18 percent of tax and resort royalty on activities.",
+            "Not in any line: the Kidz Club and Snow School, which do not publish prices and fill months ahead for this week."
+          ]
+        }
+      ],
+      "getting_there": [
+        {
+          "from": "Norfolk (7)",
+          "how": "No nonstop. One connection to Montreal on American via Philadelphia or Delta via LaGuardia, 4 to 8 hours; sampled December fares $650 to $900, the holiday week likely higher. US preclearance at Montreal on the way home.",
+          "est": "$650 to $1,200 a seat",
+          "link": "https://www.kayak.com/flight-routes/Norfolk-ORF/Montreal-YMQ"
+        },
+        {
+          "from": "Richmond (2)",
+          "how": "One connection via LaGuardia, Newark, Washington or Philadelphia on Delta, United or American, about 4 to 6 hours.",
+          "est": "$650 to $1,200 a seat",
+          "link": "https://www.kayak.com/flight-routes/Richmond-Byrd-Intl-RIC/Montreal-Pierre-Elliott-Trudeau-Intl-YUL"
+        },
+        {
+          "from": "Austin (1)",
+          "how": "Air Canada's Austin to Montreal nonstop launched as a summer route and is unconfirmed for winter; plan on one stop via Detroit, Toronto, Atlanta or Fort Lauderdale.",
+          "est": "$500 to $1,000",
+          "link": "https://www.aircanada.com/en-ca/flights-from-austin-to-montreal"
+        },
+        {
+          "from": "Montreal to the mountain",
+          "how": "About 125 kilometers on Autoroute 15 and Route 117, 90 minutes to two hours in winter. Two rental SUVs on winter tires (required in Quebec through March 15), with a grocery stop in Saint-Jovite. The Skyport coach runs from the airport Thursday to Sunday only, 9:30 AM daily and 3 PM on weekends, about $115 an adult round trip, which fits a Sunday arrival but leaves the group without cars.",
+          "est": "$1,500 to $2,800 for two SUVs and fuel",
+          "link": "https://www.tremblant.ca/plan/getting-here/ground-transportation-montreal-airport/luxury-coach-transportation-montreal-airport"
+        }
+      ],
+      "houses": [
+        {
+          "name": "Panache 784 (Tremblant Living)",
+          "detail": "Six bedrooms (three kings, a queen, two rooms of singles with trundles), 3.5 baths, 3,200 square feet, a private outdoor hot tub, billiards, a garage, the Nansen ski trail about 150 meters away. The village is reached by the free resort shuttle or a short drive. An August 2026 review reports maintenance issues (a dishwasher, a railing, trundles that would not open), so get written confirmation of repairs.",
+          "price": "Quoted October 21 for December 27 to January 3: $30,948 on Vrbo fees included, or CAD 39,567 (about $27,900) on Airbnb. Vrbo's full refund ends October 28, half to November 27, none after.",
+          "url": "https://www.vrbo.com/4711856ha",
+          "verdict": "The one six-bedroom hot-tub house open for the week. Quote first, with the shuttle stop distance and hours in writing."
+        },
+        {
+          "name": "Havre des Legendes 102 (Tremblant Living)",
+          "detail": "Five bedrooms, 3.5 baths, sleeps 15, a private hot tub, a view of Lac Tremblant, the Nansen trail 100 meters away, about 0.6 miles from the village center.",
+          "price": "Quoted October 21: $28,651 on Vrbo or CAD 36,544 (about $25,700) on Airbnb for the week",
+          "url": "https://www.airbnb.com/rooms/49223744",
+          "verdict": "Five doors, so the kids room with Kristina and Michael. The fallback."
+        },
+        {
+          "name": "Verbier 13-203, Spasski",
+          "detail": "Five bedrooms plus a four-twin kids room, 3.5 baths, sleeps 16, about 1.2 kilometers from the village on the free shuttle line. The hot tub is shared in the Verbier spa pavilion.",
+          "price": "Quoted October 21: CAD 30,049 (about $21,200) on Airbnb with free cancellation, or $23,462 on Vrbo",
+          "url": "https://www.airbnb.com/rooms/1202984376613048967",
+          "verdict": "Cheapest fit; fails the private hot tub."
+        },
+        {
+          "name": "La Maison Blanche (Tremblant Living)",
+          "detail": "Six bedrooms, four baths, sleeps 15, an outdoor cedar hot tub and a sauna, less than a kilometer from the village with a shuttle stop about 50 meters away.",
+          "price": "No rate or calendar shown; a phone call",
+          "url": "https://www.tremblantliving.ca/maisonblanche",
+          "verdict": "Worth the call if Panache 784 goes."
+        }
+      ],
+      "agenda": [
+        {
+          "day": "Sun Dec 27",
+          "all": "Fly to Montreal with one connection, two winter-tire SUVs, groceries in Saint-Jovite, check in after 5 PM, the hot tub, an easy dinner.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Mon Dec 28",
+          "all": "The shuttle down to the village, a slow breakfast, the Cabriolet.",
+          "crew": "Lift tickets and a first South Side afternoon.",
+          "relax": "The Scandinave spa in the afternoon. Kids: skating and the ice slides, snow play at the house."
+        },
+        {
+          "day": "Tue Dec 29",
+          "all": "",
+          "crew": "Morning dog sledding, seven minutes away, with Bennett riding along.",
+          "relax": "Mom on the Domaine Saint-Bernard Nordic trails or a village walk. Sara's reformer class if the studio checks out. Kids: the Aquaclub after lunch, a Kidz Club half day for Taylor if the parents want it."
+        },
+        {
+          "day": "Wed Dec 30",
+          "all": "A sleigh ride before dinner, then dinner in the village at a place that has been called ahead.",
+          "crew": "An early start on the North Side to beat the South Side line.",
+          "relax": "Michael with the kids at evening tubing, 5 to 8 PM."
+        },
+        {
+          "day": "Thu Dec 31",
+          "all": "New Year's Eve chef dinner at the house, kids fed early.",
+          "crew": "A short ski morning for whoever wants it.",
+          "relax": "Massages at the Scandinave for Sara and Mom. Kids: the Aquaclub or the rink."
+        },
+        {
+          "day": "Fri Jan 1",
+          "all": "Nothing scheduled. Tremblant says January 1 is usually lighter on the hill, so the riders who want it ski. A late breakfast, the village on foot, the hot tub, games.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Sat Jan 2",
+          "all": "A farewell dinner in the village.",
+          "crew": "A two-hour guided snowmobile run or the three-hour ice-climbing intro, if it is running.",
+          "relax": "The Nordic trails or a second spa visit. Kids: tubing or skating."
+        },
+        {
+          "day": "Sun Jan 3",
+          "all": "Check out by 11, two hours to Montreal, three hours at the airport for US preclearance, home.",
+          "crew": "",
+          "relax": ""
+        }
+      ],
+      "pricing": [
+        {
+          "item": "House, seven nights (Panache 784)",
+          "low": 27900,
+          "high": 31000,
+          "note": "Airbnb CAD 39,567 at 1.42, or Vrbo $30,948 fees included; both live for the dates on October 21"
+        },
+        {
+          "item": "Flights for ten, one connection",
+          "low": 6500,
+          "high": 12000,
+          "note": "$650 to $1,200 a seat; holiday-week fares not yet quoted"
+        },
+        {
+          "item": "Two winter-tire SUVs, fuel, airport parking",
+          "low": 1500,
+          "high": 2800,
+          "note": "Estimate; the Skyport coach is about $1,100 to $1,200 for ten instead"
+        },
+        {
+          "item": "Lift tickets, five riders, about four days",
+          "low": 2600,
+          "high": 3100,
+          "note": "Last season's CAD 155 to 185 a day plus tax and royalty; Ikon holders pay nothing"
+        },
+        {
+          "item": "Scandinave spa and the Aquaclub",
+          "low": 800,
+          "high": 1600,
+          "note": "Six adults on the thermal circuit, two massages, family Aquaclub entries"
+        },
+        {
+          "item": "Dog sledding and snowmobiles",
+          "low": 1000,
+          "high": 2000,
+          "note": "From CAD 199 a person and CAD 267 a sled, plus tax and royalty"
+        },
+        {
+          "item": "Chef, two nights",
+          "low": 1500,
+          "high": 3500,
+          "note": "Estimate; celiac and tree-nut vetting in writing first"
+        },
+        {
+          "item": "Groceries and dining out",
+          "low": 2500,
+          "high": 4500,
+          "note": "Mostly house cooking plus village dinners"
+        },
+        {
+          "item": "Travel insurance for ten",
+          "low": 500,
+          "high": 2500,
+          "note": "Estimate; Medicare does not cover Canada"
+        },
+        {
+          "item": "Passport renewals and child books, if needed",
+          "low": 0,
+          "high": 1350,
+          "note": "Adult renewal $130, child book $100 plus $35, expedite $60 each"
+        },
+        {
+          "item": "Sleigh ride, tubing, kids' gear",
+          "low": 500,
+          "high": 1200,
+          "note": "A private sleigh for up to 16 is about CAD 500; tubing from CAD 38.50, Taylor free"
+        }
+      ],
+      "links": {
+        "Activities": [
+          {
+            "label": "Tremblant winter lift tickets",
+            "url": "https://www.tremblant.ca/plan/tickets-and-passes/winter-lift-tickets"
+          },
+          {
+            "label": "Ikon Pass",
+            "url": "https://www.ikonpass.com"
+          },
+          {
+            "label": "Tremblant's holiday-week tips (lighter days, lift timing)",
+            "url": "https://blogue.tremblant.ca/festive-season-in-tremblant-enjoy-it-to-the-fullest/"
+          },
+          {
+            "label": "Dog sledding, Tremblant Activity Centre",
+            "url": "https://www.tremblantactivities.com/tour/tremblant-dogsledding-tours/"
+          },
+          {
+            "label": "Guided snowmobile tours",
+            "url": "https://www.tremblantactivities.com/tour/snowmobiling-tremblant-guided-half-and-full-day-tours/"
+          },
+          {
+            "label": "Ice climbing initiation",
+            "url": "https://www.tremblantactivities.com/tour/ice-climbing-initiation/"
+          },
+          {
+            "label": "Snow tubing",
+            "url": "https://www.tremblantactivities.com/tour/snow-tubing/"
+          },
+          {
+            "label": "Sleigh ride",
+            "url": "https://www.tremblant.ca/things-to-do/activities/sleigh-ride"
+          },
+          {
+            "label": "Scandinave Spa Mont-Tremblant",
+            "url": "https://www.scandinave.com/mont-tremblant"
+          },
+          {
+            "label": "Tremblant Snow School, ages 3 to 12",
+            "url": "https://www.tremblant.ca/plan/tremblant-snow-school/lessons/ski-weeks"
+          },
+          {
+            "label": "Family guide to Tremblant (Kidz Club, transfers)",
+            "url": "https://www.snowthere.com/resorts/canada/mont-tremblant"
+          }
+        ],
+        "Food": [
+          {
+            "label": "Tremblant's guide to restaurants for dietary restrictions",
+            "url": "https://blogue.tremblant.ca/restaurants-tremblant-dietary-restrictions/"
+          },
+          {
+            "label": "Celiac map of Mont-Tremblant restaurants",
+            "url": "https://atly.com/best/gluten-free/restaurant-canada-quebec-mont-tremblant"
+          },
+          {
+            "label": "Tremblant Living chef services",
+            "url": "https://www.tremblantliving.ca/tremblant-food-beverage/chef-services/"
+          }
+        ],
+        "Travel": [
+          {
+            "label": "Panache 784 on Vrbo (open, $30,948 for the week)",
+            "url": "https://www.vrbo.com/4711856ha"
+          },
+          {
+            "label": "Panache 784 on Airbnb (CAD 39,567 for the week)",
+            "url": "https://www.airbnb.com/rooms/49223746"
+          },
+          {
+            "label": "Skyport coach, Montreal airport to Tremblant",
+            "url": "https://www.tremblant.ca/plan/getting-here/ground-transportation-montreal-airport/luxury-coach-transportation-montreal-airport"
+          },
+          {
+            "label": "Quebec winter-tire rule",
+            "url": "https://www.quebec.ca/en/transports/traffic-road-safety/winter-road-safety/requirements-for-winter-tires"
+          },
+          {
+            "label": "Canada: consent letter for a child traveling without both parents",
+            "url": "https://travel.gc.ca/travelling/children/consent-letter"
+          },
+          {
+            "label": "US passport fees",
+            "url": "https://travel.state.gov/content/dam/tsg_aem/passports/documents/forms-fees/Passport_Fees_OCT_2026.pdf"
+          }
+        ]
+      },
+      "markers": [
+        {
+          "name": "Pedestrian village, Place Saint-Bernard",
+          "lat": 46.2136,
+          "lng": -74.5855,
+          "kind": "town"
+        },
+        {
+          "name": "Panache 784 area, Chemin des Skieurs",
+          "lat": 46.2236,
+          "lng": -74.5967,
+          "kind": "house"
+        },
+        {
+          "name": "Havre des Legendes, the five-bedroom fallback",
+          "lat": 46.2207,
+          "lng": -74.5908,
+          "kind": "house"
+        },
+        {
+          "name": "North Side base (Versant Nord)",
+          "lat": 46.2246,
+          "lng": -74.5217,
+          "kind": "spot"
+        },
+        {
+          "name": "Scandinave Spa",
+          "lat": 46.1687,
+          "lng": -74.6061,
+          "kind": "spot"
+        },
+        {
+          "name": "Brind'O Aquaclub",
+          "lat": 46.2117,
+          "lng": -74.585,
+          "kind": "spot"
+        },
+        {
+          "name": "Mont-Tremblant town (Saint-Jovite), groceries",
+          "lat": 46.1187,
+          "lng": -74.5892,
+          "kind": "town"
+        },
+        {
+          "name": "Lac Tremblant",
+          "lat": 46.2465,
+          "lng": -74.6378,
+          "kind": "spot"
+        },
+        {
+          "name": "Nearest 24-hour ER, Sainte-Agathe (about 40 minutes)",
+          "lat": 46.0558,
+          "lng": -74.2889,
+          "kind": "spot"
+        },
+        {
+          "name": "Montreal airport (YUL), about 2 hours",
+          "lat": 45.4706,
+          "lng": -73.7408,
           "kind": "airport"
         }
       ],

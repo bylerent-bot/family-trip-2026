@@ -9,7 +9,7 @@ photos = json.load(open(HERE / 'photos.json', encoding='utf-8')) if (HERE / 'pho
 E = lambda s: html.escape(str(s), quote=True)
 money = lambda n: '$' + format(int(n), ',')
 
-ACCENT = {'pr': '#0f7c8c', 'ami': '#d9772f', 'pc': '#3b5b8f', 'avl': '#3f7a4d', 'lp': '#7a4a8c'}
+ACCENT = {'pr': '#0f7c8c', 'ami': '#d9772f', 'pc': '#3b5b8f', 'avl': '#3f7a4d', 'lp': '#7a4a8c', 'mt': '#b03a2e'}
 
 def photo_block(key, which):
     ph = photos.get(key, [])
