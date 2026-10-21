@@ -9,13 +9,28 @@
       "One roof, a bedroom for each couple, Mom, Daniel and the kids: six doors, or five plus a real bunk room.",
       "A base you can walk out of: a safe town with things to do on foot, and cars for the group. No compound.",
       "Mom's rule: a nice place to stay and walking options, one anchor a day, split up for specific things and reconvene for dinner.",
-      "Food: Sara is gluten-free at celiac level and eats real butter, dairy, eggs and meat. Kristina has a tree-nut allergy. Mom is pescatarian. Every option runs on a house kitchen plus one or two chef nights.",
+      "Food: Sara is strictly gluten-free, no cross-contact, and eats real butter, dairy, eggs and meat. Kristina has a tree-nut allergy. Mom is pescatarian. Every option runs on a house kitchen plus one or two chef nights.",
       "The adventure crew (Patrick, Daniel, Andrew, Mom, Kristina) and the relaxed crew (Sara, Trisha, Michael, the kids) each get a real week, in parallel, from the same house."
     ],
     "origins": [
-      {"name": "Virginia Beach (ORF)", "lat": 36.8946, "lng": -76.2012, "seats": 7},
-      {"name": "Richmond (RIC)", "lat": 37.5052, "lng": -77.3197, "seats": 2},
-      {"name": "Austin (AUS)", "lat": 30.1975, "lng": -97.6664, "seats": 1}
+      {
+        "name": "Virginia Beach (ORF)",
+        "lat": 36.8946,
+        "lng": -76.2012,
+        "seats": 7
+      },
+      {
+        "name": "Richmond (RIC)",
+        "lat": 37.5052,
+        "lng": -77.3197,
+        "seats": 2
+      },
+      {
+        "name": "Austin (AUS)",
+        "lat": 30.1975,
+        "lng": -97.6664,
+        "seats": 1
+      }
     ]
   },
   "trips": [
@@ -24,7 +39,8 @@
       "name": "Puerto Rico",
       "place": "Rincón, with Old San Juan at each end",
       "tag": "The lead",
-      "lat": 18.3400, "lng": -67.2500,
+      "lat": 18.34,
+      "lng": -67.25,
       "pitch": "A pool house in Rincón, a surf town you walk around, with a night in Old San Juan on the way in and the way out so nobody drives the west side in the dark with Taylor. No passports, nonstops from Norfolk and Richmond, US medicine, sea level, real winter surf and a boat dive for the crew, pool and the calm side of the beach for the kids.",
       "why": [
         "US soil: no passports, US hospitals and pharmacies, dollars, phones that just work.",
@@ -38,74 +54,300 @@
         "Gluten-free restaurants are thin. Most meals are at the house, with a chef for two nights.",
         "The best six-bedroom house found is about a mile from the plaza. The one that is an easy walk to town has five bedrooms.",
         "The Norfolk nonstop does not fly Saturdays, and its clock times still need to be confirmed on jetblue.com.",
-        "Rincón has no hospital. The nearest ER, with a separate one for kids, is in Aguadilla, about 25 to 30 minutes away."
+        "Rincón has no hospital. The nearest ER, with a separate one for kids, is in Aguadilla, about 25 to 30 minutes away by an estimate we still need to drive-check."
       ],
       "weather": "Dry-season tropics: highs in the mid-80s, lows around 70, brief trade-wind showers, sea about 80 degrees. Winter swell on the west coast.",
       "getting_there": [
-        {"from": "Norfolk (7)", "how": "JetBlue nonstop to San Juan, announced for Mon, Wed, Fri and Sun (flight 929 out, 928 back). Sunday Dec 27 out and Sunday Jan 3 back fit the pattern; Mon Dec 28 and Mon Jan 4 are the fallbacks. About 3.5 hours in the air.", "est": "$600 to $1,000 a seat", "link": "https://www.jetblue.com/flights-to-san-juan"},
-        {"from": "Richmond (2)", "how": "JetBlue nonstop Tue, Thu and Sat only, so Andrew and Trisha drive to Norfolk and fly with the group, or fly Sat Dec 26 and Sat Jan 2 with an extra San Juan night, or connect once via Charlotte or Atlanta on the Sundays.", "est": "$600 to $1,000 a seat", "link": "https://flyrichmond.com/jetblue-announces-nonstop-route-to-san-juan-from-ric/"},
-        {"from": "Austin (1)", "how": "One stop via Charlotte, Dallas, Atlanta or Houston. Southwest's seasonal Austin to San Juan nonstop is unconfirmed for the holiday window.", "est": "$600 to $1,000", "link": "https://www.southwest.com/en/flights/flights-from-austin-to-san-juan"},
-        {"from": "On the ground", "how": "Two seven-seat vehicles for the week. San Juan to Rincón is about 2.5 hours, done in daylight both ways.", "est": "$1,600 to $2,800", "link": ""}
+        {
+          "from": "Norfolk (7)",
+          "how": "JetBlue nonstop to San Juan, announced for Mon, Wed, Fri and Sun (flight 929 out, 928 back). Sunday Dec 27 out and Sunday Jan 3 back fit the pattern; Mon Dec 28 and Mon Jan 4 are the fallbacks. About 3.5 hours in the air.",
+          "est": "$600 to $1,000 a seat",
+          "link": "https://www.jetblue.com/flights-to-san-juan"
+        },
+        {
+          "from": "Richmond (2)",
+          "how": "JetBlue nonstop Tue, Thu and Sat only, so Andrew and Trisha drive to Norfolk and fly with the group, or fly Sat Dec 26 and Sat Jan 2 with an extra San Juan night, or connect once via Charlotte or Atlanta on the Sundays.",
+          "est": "$600 to $1,000 a seat",
+          "link": "https://flyrichmond.com/jetblue-announces-nonstop-route-to-san-juan-from-ric/"
+        },
+        {
+          "from": "Austin (1)",
+          "how": "One stop via Charlotte, Dallas, Atlanta or Houston. Southwest's seasonal Austin to San Juan nonstop is unconfirmed for the holiday window.",
+          "est": "$600 to $1,000",
+          "link": "https://www.southwest.com/en/flights/flights-from-austin-to-san-juan"
+        },
+        {
+          "from": "On the ground",
+          "how": "Two seven-seat vehicles for the week. San Juan to Rincón is about 2.5 hours, done in daylight both ways.",
+          "est": "$1,600 to $2,800",
+          "link": ""
+        }
       ],
       "houses": [
-        {"name": "Casa Cooky, Corcega side", "detail": "Six bedrooms as three two-bedroom suites, 6.5 baths. The whole property is fenced with privacy walls and a code-gated private pool. Steps from the beach; the plaza is about a mile down the road. Air conditioning in the bedrooms only.", "price": "Estimate $1,200 to $2,000 a night, unquoted", "url": "https://airbnb.com/h/casacookyrincon", "verdict": "Best fence and six doors. Quote first."},
-        {"name": "Maria's Luxury Villa, Maria's Beach", "detail": "Eight bedrooms, two full kitchens, a full-size pool and two hot tubs, a generator and Starlink. Gated oceanfront on a surf break, so the kids use the pool.", "price": "Published $2,350 a night in high season with a six-night holiday minimum, taxes and housekeeping included, about $14,100 for Dec 28 to Jan 3", "url": "https://www.airbnb.com/rooms/3292409", "verdict": "Strongest house systems and the only published rate. Quote second."},
-        {"name": "Ensenada five-bedroom, near Puntas", "detail": "Five bedrooms including a double-plus-bunk room for the kids, a main-level bedroom with a full bath for Mom, gated and walled, private pool, backup generator. The listing calls the plaza an easy walk.", "price": "Not shown without dates", "url": "https://www.airbnb.com.sg/rooms/16755813", "verdict": "The walk-to-town house. Five doors, so the kids share with Kristina and Michael."},
-        {"name": "Rincón Beach House at Sandy Beach, Puntas", "detail": "Six bedrooms in two units with two kitchens, whole-home generators and solar, a private pool, a minute's walk to Sandy Beach. About 15 minutes by car to the plaza.", "price": "About $890 to $1,030 a night off-peak; holiday rate unknown", "url": "https://www.vrbo.com/3859437", "verdict": "Six doors in the surf pocket. A car to town."}
+        {
+          "name": "Casa Cooky, Corcega side",
+          "detail": "Six bedrooms as three two-bedroom suites, 6.5 baths. The whole property is fenced with privacy walls and a code-access gate, with a private pool inside (whether the pool has its own fence is a question for the host). Steps from the beach; the plaza is about a mile down the road. Air conditioning in the bedrooms only.",
+          "price": "Estimate $1,200 to $2,000 a night, unquoted",
+          "url": "https://airbnb.com/h/casacookyrincon",
+          "verdict": "Best fence and six doors. Quote first."
+        },
+        {
+          "name": "Maria's Luxury Villa, Maria's Beach",
+          "detail": "Eight bedrooms, two full kitchens, a full-size pool and two hot tubs, a generator and Starlink. Gated oceanfront on a surf break, so the kids use the pool.",
+          "price": "Listed at $2,350 a night in high season in earlier research, to re-check, with a six-night holiday minimum, taxes and housekeeping included, about $14,100 for Dec 28 to Jan 3",
+          "url": "https://www.airbnb.com/rooms/3292409",
+          "verdict": "Strongest house systems and the only published rate. Quote second."
+        },
+        {
+          "name": "Ensenada five-bedroom, near Puntas",
+          "detail": "Five bedrooms including a double-plus-bunk room for the kids, a main-level bedroom with a full bath for Mom, gated and walled, private pool, backup generator. The listing calls the plaza an easy walk.",
+          "price": "Not shown without dates",
+          "url": "https://www.airbnb.com.sg/rooms/16755813",
+          "verdict": "The walk-to-town house. Five doors, so the kids share with Kristina and Michael."
+        },
+        {
+          "name": "Rincón Beach House at Sandy Beach, Puntas",
+          "detail": "Six bedrooms in two units with two kitchens, whole-home generators and solar, a private pool, a minute's walk to Sandy Beach. About 15 minutes by car to the plaza.",
+          "price": "About $890 to $1,030 a night off-peak; holiday rate unknown",
+          "url": "https://www.vrbo.com/3859437",
+          "verdict": "Six doors in the surf pocket. A car to town."
+        }
       ],
       "agenda": [
-        {"day": "Sun Dec 27", "all": "Fly in. Sleep in Old San Juan. Dinner in the old city.", "crew": "", "relax": ""},
-        {"day": "Mon Dec 28", "all": "Drive west in daylight with a grocery stop. Villa by early afternoon. Pool, then sunset at the Punta Higuera lighthouse.", "crew": "", "relax": ""},
-        {"day": "Tue Dec 29", "all": "Dinner at the house.", "crew": "Dawn surf at Maria's or Domes. Lessons at the Marina for Andrew, Daniel and Kristina.", "relax": "Corcega shallows, pool, a long lunch, the town on foot."},
-        {"day": "Wed Dec 30", "all": "First chef night.", "crew": "Desecheo two-tank boat dive for Mom and the certified divers, seas permitting. Patrick snorkels or fishes.", "relax": "Massage at the house. Sara's Pilates if the studio checks out. Kids in the pool."},
-        {"day": "Thu Dec 31", "all": "Gozalandia waterfall in the morning, about an hour away, splash pool for the kids, picnic. Kids' dinner early, New Year's Eve chef dinner on the terrace.", "crew": "", "relax": ""},
-        {"day": "Fri Jan 1", "all": "Nothing scheduled. Pool, cards, a lighthouse walk. Snorkel at Steps only if the sea is flat.", "crew": "Optional Isabela surf run (Jobos, Shacks).", "relax": "Sunset beach horseback ride with Bennett and Mom."},
-        {"day": "Sat Jan 2", "all": "Drive east. Old San Juan on foot: El Morro, the walls, dinner. Hotel night.", "crew": "", "relax": ""},
-        {"day": "Sun Jan 3", "all": "Morning flights home. Andrew and Trisha can take the Saturday Richmond nonstop the day before.", "crew": "", "relax": ""}
+        {
+          "day": "Sun Dec 27",
+          "all": "Fly in. Sleep in Old San Juan. Dinner in the old city.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Mon Dec 28",
+          "all": "Drive west in daylight with a grocery stop. Villa by early afternoon. Pool, then sunset at the Punta Higuera lighthouse.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Tue Dec 29",
+          "all": "Dinner at the house.",
+          "crew": "Dawn surf at Maria's or Domes. Lessons on a small-wave beach for Andrew, Daniel and Kristina.",
+          "relax": "Corcega shallows, pool, a long lunch, the town on foot."
+        },
+        {
+          "day": "Wed Dec 30",
+          "all": "First chef night.",
+          "crew": "Desecheo two-tank boat dive for Mom and the certified divers, seas permitting. Patrick snorkels or fishes.",
+          "relax": "Massage at the house. Sara's Pilates if the studio checks out. Kids in the pool."
+        },
+        {
+          "day": "Thu Dec 31",
+          "all": "Gozalandia waterfall in the morning, about an hour away, splash pool for the kids, picnic. Kids' dinner early, New Year's Eve chef dinner on the terrace.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Fri Jan 1",
+          "all": "A free day. Pool, cards, a lighthouse walk. Snorkel at Steps only if the sea is flat.",
+          "crew": "Optional Isabela surf run (Jobos, Shacks).",
+          "relax": "Sunset beach horseback ride with Bennett and Mom (confirm the stable runs on New Year's Day)."
+        },
+        {
+          "day": "Sat Jan 2",
+          "all": "Drive east. Old San Juan on foot: El Morro, the walls, dinner. Hotel night.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Sun Jan 3",
+          "all": "Flights home. Andrew and Trisha can take the Saturday Richmond nonstop the day before.",
+          "crew": "",
+          "relax": ""
+        }
       ],
       "pricing": [
-        {"item": "Villa, six nights", "low": 7000, "high": 14000, "note": "Casa Cooky estimate to Maria's published rate"},
-        {"item": "Flights, ten seats", "low": 6000, "high": 10000, "note": "Holiday-week nonstops and one-stops; Taylor needs a seat"},
-        {"item": "Old San Juan, two nights, five rooms", "low": 4000, "high": 7000, "note": "Estimate"},
-        {"item": "Two seven-seat vehicles", "low": 1600, "high": 2800, "note": "Estimate with insurance"},
-        {"item": "Chef, two dinners", "low": 1500, "high": 4400, "note": "Published per-guest menus run $140 to $220"},
-        {"item": "Dive, lessons, horses, waterfall", "low": 2500, "high": 4500, "note": "Estimate"},
-        {"item": "Groceries and dining", "low": 3500, "high": 5500, "note": "Estimate"},
-        {"item": "Massages and extras", "low": 500, "high": 1000, "note": "Estimate"}
+        {
+          "item": "Villa, six nights",
+          "low": 7400,
+          "high": 14000,
+          "note": "Casa Cooky estimate to Maria's published rate"
+        },
+        {
+          "item": "Flights, ten seats",
+          "low": 6000,
+          "high": 10000,
+          "note": "Holiday-week nonstops and one-stops; Taylor needs a seat"
+        },
+        {
+          "item": "Old San Juan, two nights, five rooms",
+          "low": 4000,
+          "high": 7000,
+          "note": "Estimate"
+        },
+        {
+          "item": "Two seven-seat vehicles",
+          "low": 1600,
+          "high": 2800,
+          "note": "Estimate with insurance"
+        },
+        {
+          "item": "Chef, two dinners",
+          "low": 1500,
+          "high": 3200,
+          "note": "Published per-guest menus run $140 to $220; two nights for ten"
+        },
+        {
+          "item": "Dive, lessons, horses, waterfall",
+          "low": 2500,
+          "high": 4500,
+          "note": "Estimate"
+        },
+        {
+          "item": "Groceries and dining",
+          "low": 3500,
+          "high": 5500,
+          "note": "Estimate"
+        },
+        {
+          "item": "Massages and extras",
+          "low": 500,
+          "high": 1000,
+          "note": "Estimate"
+        }
       ],
       "links": {
         "Activities": [
-          {"label": "Taino Divers, Desecheo Island boat dives", "url": "https://www.tainodivers.com/"},
-          {"label": "Tropical Trail Rides, sunset beach horseback", "url": "https://www.tropicaltrailrides.com/"},
-          {"label": "Punta Higuera lighthouse and the Rincón beaches (Discover Puerto Rico)", "url": "https://www.discoverpuertorico.com/regions/west/rincon"},
-          {"label": "Gozalandia Falls, San Sebastián", "url": "https://www.discoverpuertorico.com/profile/gozalandia-falls"},
-          {"label": "Rincón surf guide", "url": "https://trvlcollective.com/surfing-in-rincon-puerto-rico"},
-          {"label": "El Morro, Old San Juan (National Park Service)", "url": "https://www.nps.gov/saju/index.htm"}
+          {
+            "label": "Taino Divers, Desecheo Island boat dives",
+            "url": "https://www.tainodivers.com/"
+          },
+          {
+            "label": "Tropical Trail Rides, sunset beach horseback",
+            "url": "https://www.tropicaltrailrides.com/"
+          },
+          {
+            "label": "Punta Higuera lighthouse and the Rincón beaches (Discover Puerto Rico)",
+            "url": "https://www.discoverpuertorico.com/regions/west/rincon"
+          },
+          {
+            "label": "Gozalandia Falls, San Sebastián",
+            "url": "https://www.discoverpuertorico.com/profile/gozalandia-falls"
+          },
+          {
+            "label": "Rincón surf guide",
+            "url": "https://trvlcollective.com/surfing-in-rincon-puerto-rico"
+          },
+          {
+            "label": "El Morro, Old San Juan (National Park Service)",
+            "url": "https://www.nps.gov/saju/index.htm"
+          }
         ],
         "Food": [
-          {"label": "Wabbles Milk Bar, Rincón (tagged dedicated gluten-free, to confirm)", "url": "https://www.atly.com/best/gluten-free/puerto-rico"},
-          {"label": "Morton's at the Caribe Hilton, San Juan (gluten-free menu)", "url": "https://www.mortons.com/sanjuan/"},
-          {"label": "Chef Marta Pascual, private chef (Take a Chef)", "url": "https://www.takeachef.com/en-en/chef/marta-pascual-marta"},
-          {"label": "Rincon Caterers (lists nut-free and gluten-free)", "url": "https://www.weddingwire.com/biz/rincon-caterers/72115b11e4328218.html"}
+          {
+            "label": "Wabbles Milk Bar, Rincón (tagged dedicated gluten-free, to confirm)",
+            "url": "https://www.atly.com/best/gluten-free/puerto-rico"
+          },
+          {
+            "label": "Morton's at the Caribe Hilton, San Juan (gluten-free menu)",
+            "url": "https://www.mortons.com/sanjuan/"
+          },
+          {
+            "label": "Chef Marta Pascual, private chef (Take a Chef)",
+            "url": "https://www.takeachef.com/en-en/chef/marta-pascual-marta"
+          },
+          {
+            "label": "Rincon Caterers (lists nut-free and gluten-free)",
+            "url": "https://www.weddingwire.com/biz/rincon-caterers/72115b11e4328218.html"
+          }
         ],
         "Flights": [
-          {"label": "JetBlue Norfolk to San Juan announcement", "url": "https://www.wtvr.com/news/local-news/jetblue-puerto-rico-virginia-dec-4-2025"},
-          {"label": "JetBlue Richmond to San Juan announcement", "url": "https://flyrichmond.com/jetblue-announces-nonstop-route-to-san-juan-from-ric/"}
+          {
+            "label": "JetBlue Norfolk to San Juan announcement",
+            "url": "https://www.wtvr.com/news/local-news/jetblue-puerto-rico-virginia-dec-4-2025"
+          },
+          {
+            "label": "JetBlue Richmond to San Juan announcement",
+            "url": "https://flyrichmond.com/jetblue-announces-nonstop-route-to-san-juan-from-ric/"
+          }
         ]
       },
       "markers": [
-        {"name": "Rincón plaza", "lat": 18.3402, "lng": -67.2503, "kind": "town"},
-        {"name": "Casa Cooky area, Corcega side", "lat": 18.3230, "lng": -67.2570, "kind": "house"},
-        {"name": "Maria's Beach, Maria's Luxury Villa", "lat": 18.3686, "lng": -67.2655, "kind": "house"},
-        {"name": "Punta Higuera lighthouse, sunsets", "lat": 18.3617, "lng": -67.2706, "kind": "spot"},
-        {"name": "Domes and Steps beaches", "lat": 18.3645, "lng": -67.2698, "kind": "spot"},
-        {"name": "Sandy Beach, Puntas", "lat": 18.3755, "lng": -67.2560, "kind": "spot"},
-        {"name": "Desecheo Island, boat dive", "lat": 18.3836, "lng": -67.4783, "kind": "spot"},
-        {"name": "Gozalandia Falls", "lat": 18.3458, "lng": -66.9897, "kind": "spot"},
-        {"name": "Jobos Beach, Isabela surf day", "lat": 18.5133, "lng": -67.0783, "kind": "spot"},
-        {"name": "Aguadilla airport (BQN), 30 to 40 minutes", "lat": 18.4949, "lng": -67.1294, "kind": "airport"},
-        {"name": "Old San Juan, first and last nights", "lat": 18.4663, "lng": -66.1181, "kind": "town"},
-        {"name": "San Juan airport (SJU)", "lat": 18.4394, "lng": -66.0018, "kind": "airport"}
+        {
+          "name": "Rincón plaza",
+          "lat": 18.3402,
+          "lng": -67.2503,
+          "kind": "town"
+        },
+        {
+          "name": "Casa Cooky area, Corcega side",
+          "lat": 18.323,
+          "lng": -67.257,
+          "kind": "house"
+        },
+        {
+          "name": "Maria's Beach, Maria's Luxury Villa",
+          "lat": 18.3566,
+          "lng": -67.2692,
+          "kind": "house"
+        },
+        {
+          "name": "Punta Higuera lighthouse, sunsets",
+          "lat": 18.3617,
+          "lng": -67.2706,
+          "kind": "spot"
+        },
+        {
+          "name": "Domes Beach",
+          "lat": 18.3642,
+          "lng": -67.27,
+          "kind": "spot"
+        },
+        {
+          "name": "Steps Beach, Tres Palmas reserve",
+          "lat": 18.3489,
+          "lng": -67.2636,
+          "kind": "spot"
+        },
+        {
+          "name": "Sandy Beach, Puntas",
+          "lat": 18.3755,
+          "lng": -67.256,
+          "kind": "spot"
+        },
+        {
+          "name": "Desecheo Island, boat dive",
+          "lat": 18.3836,
+          "lng": -67.4783,
+          "kind": "spot"
+        },
+        {
+          "name": "Gozalandia Falls",
+          "lat": 18.3609,
+          "lng": -66.9831,
+          "kind": "spot"
+        },
+        {
+          "name": "Jobos Beach, Isabela surf day",
+          "lat": 18.5133,
+          "lng": -67.0783,
+          "kind": "spot"
+        },
+        {
+          "name": "Aguadilla airport (BQN), 30 to 40 minutes",
+          "lat": 18.4949,
+          "lng": -67.1294,
+          "kind": "airport"
+        },
+        {
+          "name": "Old San Juan, first and last nights",
+          "lat": 18.4663,
+          "lng": -66.1181,
+          "kind": "town"
+        },
+        {
+          "name": "San Juan airport (SJU)",
+          "lat": 18.4394,
+          "lng": -66.0018,
+          "kind": "airport"
+        }
       ],
       "zoom": 9
     },
@@ -114,84 +356,293 @@
       "name": "Anna Maria Island",
       "place": "Holmes Beach, Florida",
       "tag": "Easiest for the spouses and kids",
-      "lat": 27.4953, "lng": -82.7115,
+      "lat": 27.4953,
+      "lng": -82.7115,
       "pitch": "A pool house a short walk from the Gulf on a bike-everywhere island with walkable villages. The easiest flights on the list and the best week for the spouses and the kids. The crew gets a manatee morning, a boat day and bikes, not surf or snow.",
       "why": [
         "About six hours door to door: Breeze flies Norfolk to Tampa nonstop, Richmond has had the same, and Austin has nonstops to Tampa.",
         "Beach and pool every day for a three-year-old, bikes for a seven-year-old, Pine Avenue and Bridge Street for the adults.",
-        "Sarasota and St. Petersburg are 30 to 60 minutes away: the Ringling, Selby Gardens' holiday lights, the Chihuly Collection (Mom's September trip, continued), the Mote aquarium.",
-        "Crystal River manatee snorkel in peak season, a boat day to Egmont Key, mangrove paddles."
+        "Sarasota and St. Petersburg are 30 to 60 minutes away: the Ringling, Selby Gardens' holiday lights (2026 dates to confirm), the Chihuly Collection (Mom's July trip, continued), the Mote aquarium.",
+        "Crystal River manatee snorkel in peak season, about 2 to 2.5 hours up the coast, a boat day to Egmont Key, mangrove paddles."
       ],
       "catch": [
         "The thinnest week for the adventure crew. The Gulf is usually flat in December.",
         "Gulf water runs mid to upper sixties, so the pool carries the swimming.",
         "The flagship listing has five true bedrooms plus a den with a bunk and trundle; confirm a real sixth room.",
-        "Holiday-week availability on the island is the real question this late. Published peak rates for six-bedroom houses run $1,755 to $2,251 a night before taxes and fees.",
+        "Holiday-week availability on the island is the real question this late. Listed peak rates for six-bedroom houses run $1,755 to $2,251 a night before taxes and fees (checked Oct 21).",
         "One celiac-aware restaurant on the island (The Waterfront, a single undated review). Most meals at the house, with a chef for New Year's Eve."
       ],
       "weather": "Highs around 70 to 75, lows in the 50s, Gulf water in the high 60s. Beach and pool weather most days; a cold front can bring wind.",
       "getting_there": [
-        {"from": "Norfolk (7)", "how": "Breeze Airways nonstop to Tampa, about 2 hours 15 minutes, then about 1 hour 15 minutes by car to Holmes Beach. Frontier is seasonal.", "est": "$250 to $600 a seat", "link": "https://www.flybreeze.com/"},
-        {"from": "Richmond (2)", "how": "Breeze nonstop to Tampa on last year's schedule, or Sarasota via Breeze; confirm the December days.", "est": "$250 to $600 a seat", "link": "https://www.flybreeze.com/"},
-        {"from": "Austin (1)", "how": "Southwest or Delta nonstop to Tampa, about 3 daily on weekdays; Allegiant to Sarasota, 30 minutes from the island.", "est": "$250 to $600", "link": "https://www.southwest.com/en/flights/flights-from-austin-to-tampa"},
-        {"from": "On the ground", "how": "Two SUVs for the week, plus bikes on the island.", "est": "$1,200 to $2,500", "link": ""}
+        {
+          "from": "Norfolk (7)",
+          "how": "Breeze Airways nonstop to Tampa, about 2 hours 15 minutes, then about 1 hour 15 minutes by car to Holmes Beach. Frontier is seasonal.",
+          "est": "$250 to $600 a seat",
+          "link": "https://www.flybreeze.com/"
+        },
+        {
+          "from": "Richmond (2)",
+          "how": "Breeze nonstop to Tampa on last year's schedule, or Sarasota via Breeze; confirm the December days.",
+          "est": "$250 to $600 a seat",
+          "link": "https://www.flybreeze.com/"
+        },
+        {
+          "from": "Austin (1)",
+          "how": "Southwest nonstop to Tampa, about 3 daily on weekdays; Delta to Tampa and an Allegiant option to Sarasota (30 minutes from the island) to check.",
+          "est": "$250 to $600",
+          "link": "https://www.southwest.com/en/flights/flights-from-austin-to-tampa"
+        },
+        {
+          "from": "On the ground",
+          "how": "Two SUVs for the week, plus bikes on the island.",
+          "est": "$1,200 to $2,500",
+          "link": ""
+        }
       ],
       "houses": [
-        {"name": "Paradise Beach House, 403 42nd St, Holmes Beach", "detail": "Three king masters, a queen room, a twin room and a den with a bunk and trundle, every bedroom en suite, heated pool, a short walk to the beach and shops.", "price": "Estimate $2,000 to $3,500 a night for the holiday week, unquoted", "url": "https://www.redawning.com/rental-property/paradise-beach-house-holmes-beach", "verdict": "Five true bedrooms plus the den. Quote and ask about the den."},
-        {"name": "Emerald Kite six-bedroom retreat, Holmes Beach", "detail": "Six bedrooms, five baths, private pool.", "price": "Published peak $1,755 a night before taxes and fees", "url": "https://emeraldkite.com/vacation-rentals/anna-maria-island-holmes-beach-home-1020588/", "verdict": "Six doors at the published peak rate."},
-        {"name": "Emerald Kite luxury six-bedroom, Holmes Beach", "detail": "Six bedrooms, four baths, private pool.", "price": "Published peak $2,251 a night before taxes and fees", "url": "https://emeraldkite.com/vacation-rentals/anna-maria-island-holmes-beach-home-895375/", "verdict": "Six doors; the pricier of the two."}
+        {
+          "name": "Paradise Beach House, 403 42nd St, Holmes Beach",
+          "detail": "Three king masters, a queen room, a twin room and a den with a bunk and trundle, every bedroom en suite, heated pool, a short walk to the beach and shops.",
+          "price": "Estimate $2,000 to $3,500 a night for the holiday week, unquoted",
+          "url": "https://www.redawning.com/rental-property/paradise-beach-house-holmes-beach",
+          "verdict": "Five true bedrooms plus the den. Quote and ask about the den."
+        },
+        {
+          "name": "Emerald Kite six-bedroom retreat, Holmes Beach",
+          "detail": "Six bedrooms, five baths, private pool.",
+          "price": "Listed peak rate $1,755 a night before taxes and fees (checked Oct 21)",
+          "url": "https://emeraldkite.com/vacation-rentals/anna-maria-island-holmes-beach-home-1020588/",
+          "verdict": "Six doors at the published peak rate."
+        },
+        {
+          "name": "Emerald Kite luxury six-bedroom, Holmes Beach",
+          "detail": "Six bedrooms, four baths, private pool.",
+          "price": "Listed peak rate $2,251 a night before taxes and fees (checked Oct 21)",
+          "url": "https://emeraldkite.com/vacation-rentals/anna-maria-island-holmes-beach-home-895375/",
+          "verdict": "Six doors; the pricier of the two."
+        }
       ],
       "agenda": [
-        {"day": "Sun Dec 27", "all": "Fly to Tampa, pick up the cars, Publix run, check in. Pool, then sunset at Bean Point.", "crew": "", "relax": ""},
-        {"day": "Mon Dec 28", "all": "Island day: bikes, the beach, Pine Avenue, lunch at The Waterfront.", "crew": "Paddle the mangrove tunnels.", "relax": "Sara's Pilates or a spa slot. Kids at the beach."},
-        {"day": "Tue Dec 29", "all": "Dinner at the house.", "crew": "Dawn departure for the Crystal River manatee snorkel, back mid-afternoon.", "relax": "Mote SEA aquarium in Sarasota with the kids."},
-        {"day": "Wed Dec 30", "all": "Sarasota together: the Ringling (art, Ca' d'Zan, the circus museum for Bennett), then Selby Gardens' Lights in Bloom after dark.", "crew": "", "relax": ""},
-        {"day": "Thu Dec 31", "all": "New Year's Eve chef dinner at the house.", "crew": "Half-day boat charter: fishing, dolphins, Egmont Key. Wing-foil or kite if a front brings wind.", "relax": "Beach, pool, spa. Mom's option: a plane checkout at Sarasota and a coastal flight."},
-        {"day": "Fri Jan 1", "all": "Slow beach day. Patrick's family photos at golden hour.", "crew": "", "relax": ""},
-        {"day": "Sat Jan 2", "all": "St. Petersburg morning at the Chihuly Collection, waterfront lunch, back for sunset.", "crew": "", "relax": ""},
-        {"day": "Sun Jan 3", "all": "Checkout and the same nonstops home.", "crew": "", "relax": ""}
+        {
+          "day": "Sun Dec 27",
+          "all": "Fly to Tampa, pick up the cars, Publix run, check in. Pool, then sunset at Bean Point.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Mon Dec 28",
+          "all": "Island day: bikes, the beach, Pine Avenue, lunch at The Waterfront.",
+          "crew": "Paddle the mangrove tunnels.",
+          "relax": "Sara's Pilates or a spa slot. Kids at the beach."
+        },
+        {
+          "day": "Tue Dec 29",
+          "all": "Dinner at the house.",
+          "crew": "Dawn departure for the Crystal River manatee snorkel, back mid-afternoon.",
+          "relax": "Mote SEA aquarium in Sarasota with the kids."
+        },
+        {
+          "day": "Wed Dec 30",
+          "all": "Sarasota together: the Ringling (art, Ca' d'Zan, the circus museum for Bennett), then Selby Gardens' Lights in Bloom after dark (2026 dates to confirm).",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Thu Dec 31",
+          "all": "New Year's Eve chef dinner at the house.",
+          "crew": "Half-day boat charter: fishing, dolphins, Egmont Key. Wing-foil or kite if a front brings wind.",
+          "relax": "Beach, pool, spa. Mom's option: a plane checkout at Sarasota and a coastal flight."
+        },
+        {
+          "day": "Fri Jan 1",
+          "all": "Slow beach day. Patrick's family photos at golden hour.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Sat Jan 2",
+          "all": "St. Petersburg morning at the Chihuly Collection, waterfront lunch, back for sunset.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Sun Jan 3",
+          "all": "Checkout and the same nonstops home.",
+          "crew": "",
+          "relax": ""
+        }
       ],
       "pricing": [
-        {"item": "House, seven nights", "low": 14000, "high": 28000, "note": "Published peak $1,755 to $2,251 a night plus taxes and fees; no holiday quote"},
-        {"item": "Flights, ten seats", "low": 3000, "high": 6000, "note": "Breeze, Southwest, Delta nonstops"},
-        {"item": "Two SUVs and bikes", "low": 1200, "high": 2500, "note": "Estimate"},
-        {"item": "Boat charter and manatee tour", "low": 1500, "high": 2500, "note": "Estimate"},
-        {"item": "Museums, lights, aquarium", "low": 500, "high": 900, "note": "Estimate"},
-        {"item": "Chef, one or two nights", "low": 1500, "high": 4000, "note": "Chef Melissa's Kitchen or similar"},
-        {"item": "Groceries and dining", "low": 4000, "high": 6000, "note": "Estimate"},
-        {"item": "Lessons, plane rental, spa", "low": 500, "high": 1500, "note": "Estimate"}
+        {
+          "item": "House, seven nights",
+          "low": 15800,
+          "high": 28000,
+          "note": "Listed peak rates $1,755 to $2,251 a night at the two Emerald Kite homes, up to the Paradise Beach House estimate; no holiday quote"
+        },
+        {
+          "item": "Flights, ten seats",
+          "low": 3000,
+          "high": 6000,
+          "note": "Breeze, Southwest, Delta nonstops"
+        },
+        {
+          "item": "Two SUVs and bikes",
+          "low": 1200,
+          "high": 2500,
+          "note": "Estimate"
+        },
+        {
+          "item": "Boat charter and manatee tour",
+          "low": 1500,
+          "high": 2500,
+          "note": "Estimate"
+        },
+        {
+          "item": "Museums, lights, aquarium",
+          "low": 500,
+          "high": 900,
+          "note": "Estimate"
+        },
+        {
+          "item": "Chef, one or two nights",
+          "low": 1500,
+          "high": 4000,
+          "note": "Chef Melissa's Kitchen or similar"
+        },
+        {
+          "item": "Groceries and dining",
+          "low": 4000,
+          "high": 6000,
+          "note": "Estimate"
+        },
+        {
+          "item": "Lessons, plane rental, spa",
+          "low": 500,
+          "high": 2100,
+          "note": "Estimate"
+        }
       ],
       "links": {
         "Activities": [
-          {"label": "Crystal River manatee snorkel (Plantation on Crystal River)", "url": "https://www.plantationoncrystalriver.com/"},
-          {"label": "Mote SEA aquarium, Sarasota", "url": "https://mote.org/aquarium/sea-visitor-information"},
-          {"label": "The Ringling, Sarasota", "url": "https://www.ringling.org/"},
-          {"label": "Selby Gardens, Lights in Bloom", "url": "https://selby.org/events/lights-in-bloom/"},
-          {"label": "Chihuly Collection, St. Petersburg", "url": "https://www.moreanartscenter.org/chihuly-collection"},
-          {"label": "Anna Maria Island Chamber: the island, Pine Avenue, the piers", "url": "https://annamariaislandchamber.org/"}
+          {
+            "label": "Crystal River manatee snorkel (Plantation on Crystal River)",
+            "url": "https://www.plantationoncrystalriver.com/"
+          },
+          {
+            "label": "Mote SEA aquarium, Sarasota",
+            "url": "https://mote.org/aquarium/sea-visitor-information"
+          },
+          {
+            "label": "The Ringling, Sarasota",
+            "url": "https://www.ringling.org/"
+          },
+          {
+            "label": "Selby Gardens, Lights in Bloom",
+            "url": "https://selby.org/events/lights-in-bloom/"
+          },
+          {
+            "label": "Chihuly Collection, St. Petersburg",
+            "url": "https://www.moreanartscenter.org/chihuly-collection"
+          },
+          {
+            "label": "Anna Maria Island Chamber: the island, Pine Avenue, the piers",
+            "url": "https://annamariaislandchamber.org/"
+          }
         ],
         "Food": [
-          {"label": "The Waterfront Restaurant, Anna Maria (dedicated gluten-free prep area, to confirm)", "url": "https://www.thewaterfrontrestaurant.net/"},
-          {"label": "Chef Melissa's Kitchen, private chef (chamber listing)", "url": "https://annamariaislandchamber.org/directory/business-listing/chef-melissas-kitchen/"}
+          {
+            "label": "The Waterfront Restaurant, Anna Maria (dedicated gluten-free prep area, to confirm)",
+            "url": "https://www.thewaterfrontrestaurant.net/"
+          },
+          {
+            "label": "Chef Melissa's Kitchen, private chef (chamber listing)",
+            "url": "https://annamariaislandchamber.org/directory/business-listing/chef-melissas-kitchen/"
+          }
         ],
         "Flights": [
-          {"label": "Breeze Airways routes", "url": "https://www.flybreeze.com/"},
-          {"label": "Southwest Austin to Tampa", "url": "https://www.southwest.com/en/flights/flights-from-austin-to-tampa"}
+          {
+            "label": "Breeze Airways routes",
+            "url": "https://www.flybreeze.com/"
+          },
+          {
+            "label": "Southwest Austin to Tampa",
+            "url": "https://www.southwest.com/en/flights/flights-from-austin-to-tampa"
+          }
         ]
       },
       "markers": [
-        {"name": "Holmes Beach, the house", "lat": 27.4953, "lng": -82.7115, "kind": "house"},
-        {"name": "Pine Avenue, Anna Maria", "lat": 27.5313, "lng": -82.7336, "kind": "town"},
-        {"name": "Bean Point sunsets", "lat": 27.5370, "lng": -82.7390, "kind": "spot"},
-        {"name": "Bridge Street, Bradenton Beach", "lat": 27.4670, "lng": -82.7000, "kind": "town"},
-        {"name": "Egmont Key, boat day", "lat": 27.6006, "lng": -82.7606, "kind": "spot"},
-        {"name": "The Ringling", "lat": 27.3812, "lng": -82.5620, "kind": "spot"},
-        {"name": "Mote SEA aquarium", "lat": 27.3347, "lng": -82.5780, "kind": "spot"},
-        {"name": "Selby Gardens", "lat": 27.3263, "lng": -82.5389, "kind": "spot"},
-        {"name": "Chihuly Collection, St. Petersburg", "lat": 27.7720, "lng": -82.6350, "kind": "spot"},
-        {"name": "Crystal River manatees (about 2 hours)", "lat": 28.9025, "lng": -82.5926, "kind": "spot"},
-        {"name": "Tampa airport (TPA)", "lat": 27.9755, "lng": -82.5332, "kind": "airport"},
-        {"name": "Sarasota airport (SRQ)", "lat": 27.3954, "lng": -82.5544, "kind": "airport"}
+        {
+          "name": "Holmes Beach, the house",
+          "lat": 27.4953,
+          "lng": -82.7115,
+          "kind": "house"
+        },
+        {
+          "name": "Pine Avenue, Anna Maria",
+          "lat": 27.5313,
+          "lng": -82.7336,
+          "kind": "town"
+        },
+        {
+          "name": "Bean Point sunsets",
+          "lat": 27.537,
+          "lng": -82.739,
+          "kind": "spot"
+        },
+        {
+          "name": "Bridge Street, Bradenton Beach",
+          "lat": 27.467,
+          "lng": -82.7,
+          "kind": "town"
+        },
+        {
+          "name": "Egmont Key, boat day",
+          "lat": 27.6006,
+          "lng": -82.7606,
+          "kind": "spot"
+        },
+        {
+          "name": "The Ringling",
+          "lat": 27.3812,
+          "lng": -82.562,
+          "kind": "spot"
+        },
+        {
+          "name": "Mote SEA aquarium, Nathan Benderson Park",
+          "lat": 27.3802,
+          "lng": -82.4521,
+          "kind": "spot"
+        },
+        {
+          "name": "Selby Gardens",
+          "lat": 27.3263,
+          "lng": -82.5389,
+          "kind": "spot"
+        },
+        {
+          "name": "Chihuly Collection, St. Petersburg",
+          "lat": 27.7707,
+          "lng": -82.6443,
+          "kind": "spot"
+        },
+        {
+          "name": "Crystal River manatees (about 2 to 2.5 hours)",
+          "lat": 28.9025,
+          "lng": -82.5926,
+          "kind": "spot"
+        },
+        {
+          "name": "Tampa airport (TPA)",
+          "lat": 27.9755,
+          "lng": -82.5332,
+          "kind": "airport"
+        },
+        {
+          "name": "Sarasota airport (SRQ)",
+          "lat": 27.3954,
+          "lng": -82.5544,
+          "kind": "airport"
+        }
       ],
       "zoom": 9
     },
@@ -199,85 +650,289 @@
       "key": "pc",
       "name": "Park City",
       "place": "Old Town, Utah",
-      "tag": "The crew's pick",
-      "lat": 40.6440, "lng": -111.4980,
-      "pitch": "An Old Town house with Main Street and the Town Lift at the door. The best riding week by a mile and the best town to walk out into. It costs three things: a third winter trip in two years, 7,000 feet for Sara after Breckenridge, and a cold week for Michael, Trisha and the kids.",
+      "tag": "Best for the crew",
+      "lat": 40.644,
+      "lng": -111.498,
+      "pitch": "An Old Town house with Main Street and the Town Lift at the door. The best riding week by a mile and the best town to walk out into. It costs three things: a third winter trip in two years, 7,000 feet of altitude, and a cold week for Michael, Trisha and the kids.",
       "why": [
         "Park City Mountain from the Town Lift, a walk from the house, five or six riding days. Canyons Village on the same pass. A Big Cottonwood powder day for the crew.",
         "Main Street: shops, galleries, restaurants, the free trolley, a hot tub at the house every night.",
-        "Utah Olympic Park and the Comet bobsled for Kristina, who has wanted to bobsled since Lake Placid (age rules to confirm).",
+        "Utah Olympic Park and the Comet bobsled for Kristina, who has wanted to bobsled since Lake Placid (season dates to confirm).",
         "The Viking Yurt sleigh-ride dinner for Mom: the music-with-dinner evening she writes up.",
-        "Daniel's easiest trip of any option: a nonstop from Austin to Salt Lake."
+        "A nonstop for Daniel from Austin to Salt Lake."
       ],
       "catch": [
         "A third winter trip in two years, against Mom's own note that not everyone snowboards.",
-        "Altitude: Old Town sits near 7,000 feet, and Sara was sick at Breckenridge.",
+        "Altitude: Old Town sits near 7,000 feet.",
         "A cold week for the relaxed crew, with highs in the 20s and 30s.",
         "Peak-week pricing: a six-bedroom Old Town house over New Year's runs $35,000 to $55,000 for the week, before flights and lift tickets.",
-        "Luna's Kitchen is the only dedicated gluten-free kitchen in town, counter-service and closed Sundays; the two-kitchen house gives Sara her own kitchen."
+        "Luna's Kitchen is the one dedicated gluten-free kitchen found in town, counter-service and closed Sundays; the two-kitchen house gives Sara her own kitchen."
       ],
       "weather": "Cold, dry, sunny days: highs in the 20s and 30s, lows in the teens. Snow depends on the year; December averages 30 to 65 inches depending on the source.",
       "getting_there": [
-        {"from": "Norfolk (7)", "how": "One stop to Salt Lake City on Delta via Atlanta, or United via Denver or Washington. A nonstop may exist some days; check Dec 27 and Jan 3. Then 40 minutes to Old Town.", "est": "$700 to $1,200 a seat", "link": "https://www.delta.com/"},
-        {"from": "Richmond (2)", "how": "One stop via Atlanta, Denver or Washington.", "est": "$700 to $1,200 a seat", "link": "https://www.delta.com/"},
-        {"from": "Austin (1)", "how": "Nonstop on Delta (three or four a day) or Southwest, about 3 hours.", "est": "$400 to $700", "link": "https://www.delta.com/us/en/flights/austin-to-salt-lake-city"},
-        {"from": "On the ground", "how": "Two AWD SUVs or a 12-passenger van. Groceries at Kimball Junction on the way in.", "est": "$1,500 to $3,000", "link": ""}
+        {
+          "from": "Norfolk (7)",
+          "how": "One stop to Salt Lake City on Delta via Atlanta, or United via Denver or Washington. A nonstop may exist some days; check Dec 27 and Jan 3. Then 40 minutes to Old Town.",
+          "est": "$700 to $1,200 a seat",
+          "link": "https://www.delta.com/"
+        },
+        {
+          "from": "Richmond (2)",
+          "how": "One stop via Atlanta, Denver or Washington.",
+          "est": "$700 to $1,200 a seat",
+          "link": "https://www.delta.com/"
+        },
+        {
+          "from": "Austin (1)",
+          "how": "Nonstop on Delta (three or four a day) or Southwest, about 3 hours.",
+          "est": "$400 to $700",
+          "link": "https://www.delta.com/us/en/flights/austin-to-salt-lake-city"
+        },
+        {
+          "from": "On the ground",
+          "how": "Two AWD SUVs or a 12-passenger van. Groceries at Kimball Junction on the way in.",
+          "est": "$1,500 to $3,000",
+          "link": ""
+        }
       ],
       "houses": [
-        {"name": "Old Town, two kitchens, hot tub, 4 minutes to everything", "detail": "Six bedrooms, five baths, sleeps 14: two kings, three queens and a twin room, two kitchens, a hot tub and a fireplace. A three-minute walk to Main Street and about 11 minutes on foot to the Town Lift.", "price": "Estimate $2,500 to $3,800 a night, unquoted; verifiers put the week at $35,000 to $55,000", "url": "https://www.vrbo.com/116450", "verdict": "The two kitchens solve Sara's food. Quote first. Likely the same house as the Airbnb listing below."},
-        {"name": "Park City Retreat, private deck and hot tub", "detail": "Six bedrooms, five baths, eight beds, sleeps 14, Old Town.", "price": "No price shown without dates", "url": "https://www.airbnb.com/rooms/4898636", "verdict": "Probably the same house on a second platform."},
-        {"name": "Spacious Mountain Oasis 1060", "detail": "Six bedrooms, sleeps 12, hot tub and an outdoor lounge.", "price": "Estimate $3,000 to $4,500 a night, unquoted", "url": "https://www.redawning.com/rental-property/spacious-mountain-oasis-1060-hot-tub-and-outdoor-lounge-park-city", "verdict": "The backup."}
+        {
+          "name": "Old Town, two kitchens, hot tub, 4 minutes to everything",
+          "detail": "Six bedrooms, five baths, sleeps 14: two kings, three queens and a twin room, two kitchens, a hot tub and a fireplace. A three-minute walk to Main Street and about 11 minutes on foot to the Town Lift.",
+          "price": "Unquoted; the verifiers put the holiday week at $35,000 to $55,000 for a six-bedroom Old Town house",
+          "url": "https://www.vrbo.com/116450",
+          "verdict": "The two kitchens solve Sara's food. Quote first. Likely the same house as the Airbnb listing below."
+        },
+        {
+          "name": "Park City Retreat, private deck and hot tub",
+          "detail": "Six bedrooms, five baths, eight beds, sleeps 14, Old Town.",
+          "price": "No price shown without dates",
+          "url": "https://www.airbnb.com/rooms/4898636",
+          "verdict": "Probably the same house on a second platform."
+        },
+        {
+          "name": "Spacious Mountain Oasis 1060",
+          "detail": "Six bedrooms, sleeps 12, hot tub and an outdoor lounge.",
+          "price": "Unquoted for the holiday week",
+          "url": "https://www.redawning.com/rental-property/spacious-mountain-oasis-1060-hot-tub-and-outdoor-lounge-park-city",
+          "verdict": "The backup."
+        }
       ],
       "agenda": [
-        {"day": "Sun Dec 27", "all": "Fly to Salt Lake (Daniel nonstop; Norfolk and Richmond via Atlanta). 40 minutes to Old Town, groceries at Kimball Junction, hot tub, a simple dinner at the house.", "crew": "", "relax": ""},
-        {"day": "Mon Dec 28", "all": "Family dinner at the house.", "crew": "Ride Park City Mountain from the Town Lift.", "relax": "Bennett and Taylor in ski school. Sara at Lagree, then lunch at Luna's Kitchen. Michael and Trisha walk Main Street."},
-        {"day": "Tue Dec 29", "all": "Dinner out at Riverhorse on Main.", "crew": "Ride the Canyons side.", "relax": "Sledding at the house or a snow-play afternoon with the kids, then a spa afternoon."},
-        {"day": "Wed Dec 30", "all": "Utah Olympic Park in the morning, Kristina's bobsled if the age and season rules allow. Adults at the Viking Yurt sleigh-ride dinner while Mom or a sitter has the kids.", "crew": "", "relax": ""},
-        {"day": "Thu Dec 31", "all": "Half-day riding, then the New Year's Eve chef dinner at the house and Main Street fireworks for whoever is awake.", "crew": "", "relax": ""},
-        {"day": "Fri Jan 1", "all": "Slow morning.", "crew": "The big day: a Big Cottonwood powder run, or a guided backcountry day for the brothers if cleared.", "relax": "Sara and Trisha Nordic or snowshoe. Kids skate. Mom's scenic-flight add-on."},
-        {"day": "Sat Jan 2", "all": "Last laps for the crew, a Deer Valley morning for the skiers, pack.", "crew": "", "relax": ""},
-        {"day": "Sun Jan 3", "all": "Fly home.", "crew": "", "relax": ""}
+        {
+          "day": "Sun Dec 27",
+          "all": "Fly to Salt Lake (Daniel nonstop; Norfolk and Richmond via Atlanta). 40 minutes to Old Town, groceries at Kimball Junction, hot tub, a simple dinner at the house.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Mon Dec 28",
+          "all": "Family dinner at the house.",
+          "crew": "Ride Park City Mountain from the Town Lift.",
+          "relax": "Ski school for Bennett if he wants it, snow play for Taylor. Sara at Lagree, then lunch at Luna's Kitchen. Michael and Trisha walk Main Street."
+        },
+        {
+          "day": "Tue Dec 29",
+          "all": "Dinner out at Riverhorse on Main.",
+          "crew": "Ride the Canyons side.",
+          "relax": "Sledding at the house or a snow-play afternoon with the kids, then a spa afternoon."
+        },
+        {
+          "day": "Wed Dec 30",
+          "all": "Utah Olympic Park in the morning, Kristina's bobsled if the season dates allow. Adults at the Viking Yurt sleigh-ride dinner while a sitter has the kids.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Thu Dec 31",
+          "all": "Half-day riding, then the New Year's Eve chef dinner at the house and Main Street fireworks for whoever is awake.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Fri Jan 1",
+          "all": "Slow morning.",
+          "crew": "The big day: a Big Cottonwood powder run, or a guided backcountry day for the brothers if conditions allow.",
+          "relax": "Sara and Trisha Nordic or snowshoe. Kids skate. Mom's scenic-flight add-on."
+        },
+        {
+          "day": "Sat Jan 2",
+          "all": "Last laps for the crew, a Deer Valley morning for the skiers, pack.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Sun Jan 3",
+          "all": "Fly home.",
+          "crew": "",
+          "relax": ""
+        }
       ],
       "pricing": [
-        {"item": "House, seven nights", "low": 35000, "high": 55000, "note": "Six-bedroom Old Town, holiday week, unquoted"},
-        {"item": "Flights, ten seats", "low": 6000, "high": 10000, "note": "One-stops from Norfolk and Richmond, nonstop from Austin"},
-        {"item": "Lift access, five riders, five or six days", "low": 4500, "high": 8000, "note": "Epic Day Passes bought before the early-December deadline; window rates roughly double"},
-        {"item": "Kids' ski school", "low": 1500, "high": 3000, "note": "Two or three days each"},
-        {"item": "Gear rentals", "low": 1000, "high": 2000, "note": "Estimate"},
-        {"item": "Two AWD SUVs or a van", "low": 1500, "high": 3000, "note": "Estimate"},
-        {"item": "Groceries and four or five dinners out", "low": 6000, "high": 9000, "note": "Estimate"},
-        {"item": "Chef, New Year's Eve", "low": 1500, "high": 3000, "note": "Estimate"},
-        {"item": "Viking Yurt, bobsled, spa, Lagree", "low": 3000, "high": 6000, "note": "Estimate"}
+        {
+          "item": "House, seven nights",
+          "low": 35000,
+          "high": 55000,
+          "note": "Six-bedroom Old Town, holiday week, unquoted"
+        },
+        {
+          "item": "Flights, ten seats",
+          "low": 6700,
+          "high": 11500,
+          "note": "Nine one-stop seats at $700 to $1,200 plus the Austin nonstop"
+        },
+        {
+          "item": "Lift access, five riders, five or six days",
+          "low": 4500,
+          "high": 7500,
+          "note": "Epic Day Passes bought before the early-December deadline; window rates roughly double"
+        },
+        {
+          "item": "Ski school for Bennett, if he wants it",
+          "low": 500,
+          "high": 1500,
+          "note": "Estimate"
+        },
+        {
+          "item": "Gear rentals",
+          "low": 1000,
+          "high": 1500,
+          "note": "Estimate"
+        },
+        {
+          "item": "Two AWD SUVs or a van",
+          "low": 1800,
+          "high": 2500,
+          "note": "Estimate"
+        },
+        {
+          "item": "Groceries and four or five dinners out",
+          "low": 6000,
+          "high": 8500,
+          "note": "Estimate"
+        },
+        {
+          "item": "Chef, New Year's Eve",
+          "low": 1500,
+          "high": 2500,
+          "note": "Estimate"
+        },
+        {
+          "item": "Viking Yurt, bobsled, spa, Lagree",
+          "low": 3000,
+          "high": 5000,
+          "note": "Estimate"
+        }
       ],
       "links": {
         "Activities": [
-          {"label": "Park City Mountain (Epic Pass)", "url": "https://www.parkcitymountain.com/"},
-          {"label": "Utah Olympic Park, Comet bobsled", "url": "https://utaholympiclegacy.org/location/utah-olympic-park/"},
-          {"label": "The Viking Yurt sleigh-ride dinner", "url": "https://www.vikingyurt.com/"},
-          {"label": "Woodward Park City tubing", "url": "https://www.woodwardparkcity.com/"},
-          {"label": "Deer Valley (skiers only)", "url": "https://www.deervalley.com/"},
-          {"label": "Historic Main Street (Visit Park City)", "url": "https://www.visitparkcity.com/"}
+          {
+            "label": "Park City Mountain (Epic Pass)",
+            "url": "https://www.parkcitymountain.com/"
+          },
+          {
+            "label": "Utah Olympic Park, Comet bobsled",
+            "url": "https://utaholympiclegacy.org/location/utah-olympic-park/"
+          },
+          {
+            "label": "The Viking Yurt sleigh-ride dinner",
+            "url": "https://www.vikingyurt.com/"
+          },
+          {
+            "label": "Woodward Park City tubing",
+            "url": "https://www.woodwardparkcity.com/"
+          },
+          {
+            "label": "Deer Valley (skiers only)",
+            "url": "https://www.deervalley.com/"
+          },
+          {
+            "label": "Historic Main Street (Visit Park City)",
+            "url": "https://www.visitparkcity.com/"
+          }
         ],
         "Food": [
-          {"label": "Luna's Kitchen, dedicated gluten-free", "url": "https://www.visitparkcity.com/listing/lunas-kitchen/22779/"},
-          {"label": "Riverhorse on Main", "url": "https://www.riverhorseparkcity.com/"},
-          {"label": "Peak 45 Lagree, Park City", "url": "https://www.peak45.com/"}
+          {
+            "label": "Luna's Kitchen, dedicated gluten-free",
+            "url": "https://www.visitparkcity.com/listing/lunas-kitchen/22779/"
+          },
+          {
+            "label": "Riverhorse on Main",
+            "url": "https://www.riverhorseparkcity.com/"
+          },
+          {
+            "label": "Peak 45 Lagree, Park City",
+            "url": "https://www.peak45.com/"
+          }
         ],
         "Flights": [
-          {"label": "Delta Austin to Salt Lake City", "url": "https://www.delta.com/us/en/flights/austin-to-salt-lake-city"}
+          {
+            "label": "Delta Austin to Salt Lake City",
+            "url": "https://www.delta.com/us/en/flights/austin-to-salt-lake-city"
+          }
         ]
       },
       "markers": [
-        {"name": "Old Town house, Main Street", "lat": 40.6440, "lng": -111.4980, "kind": "house"},
-        {"name": "Town Lift", "lat": 40.6432, "lng": -111.4975, "kind": "spot"},
-        {"name": "Park City Mountain base", "lat": 40.6514, "lng": -111.5080, "kind": "spot"},
-        {"name": "Canyons Village", "lat": 40.6852, "lng": -111.5560, "kind": "spot"},
-        {"name": "Deer Valley", "lat": 40.6374, "lng": -111.4783, "kind": "spot"},
-        {"name": "Utah Olympic Park", "lat": 40.7110, "lng": -111.5640, "kind": "spot"},
-        {"name": "Woodward Park City", "lat": 40.7210, "lng": -111.5420, "kind": "spot"},
-        {"name": "Kimball Junction groceries", "lat": 40.7215, "lng": -111.5390, "kind": "town"},
-        {"name": "Brighton and Solitude, Big Cottonwood", "lat": 40.5985, "lng": -111.5839, "kind": "spot"},
-        {"name": "Salt Lake City airport (SLC)", "lat": 40.7884, "lng": -111.9778, "kind": "airport"}
+        {
+          "name": "Old Town house, Main Street",
+          "lat": 40.644,
+          "lng": -111.498,
+          "kind": "house"
+        },
+        {
+          "name": "Town Lift",
+          "lat": 40.6432,
+          "lng": -111.4975,
+          "kind": "spot"
+        },
+        {
+          "name": "Park City Mountain base",
+          "lat": 40.6514,
+          "lng": -111.508,
+          "kind": "spot"
+        },
+        {
+          "name": "Canyons Village",
+          "lat": 40.6852,
+          "lng": -111.556,
+          "kind": "spot"
+        },
+        {
+          "name": "Deer Valley",
+          "lat": 40.6374,
+          "lng": -111.4783,
+          "kind": "spot"
+        },
+        {
+          "name": "Utah Olympic Park",
+          "lat": 40.711,
+          "lng": -111.564,
+          "kind": "spot"
+        },
+        {
+          "name": "Woodward Park City",
+          "lat": 40.7548,
+          "lng": -111.5859,
+          "kind": "spot"
+        },
+        {
+          "name": "Kimball Junction groceries",
+          "lat": 40.7215,
+          "lng": -111.539,
+          "kind": "town"
+        },
+        {
+          "name": "Brighton and Solitude, Big Cottonwood",
+          "lat": 40.5985,
+          "lng": -111.5839,
+          "kind": "spot"
+        },
+        {
+          "name": "Salt Lake City airport (SLC)",
+          "lat": 40.7884,
+          "lng": -111.9778,
+          "kind": "airport"
+        }
       ],
       "zoom": 10
     },
@@ -286,14 +941,15 @@
       "name": "Asheville",
       "place": "Blue Ridge, North Carolina",
       "tag": "Cheap, safe, drivable",
-      "lat": 35.5951, "lng": -82.5515,
-      "pitch": "A six-bedroom house with a hot tub fifteen minutes from downtown, a seven-hour drive from Virginia Beach. Biltmore at Christmas, the Grove Park spa and gingerbread houses, a dedicated gluten-free restaurant that serves real food, and skiing at Cataloochee as a bonus, not a plan.",
+      "lat": 35.5951,
+      "lng": -82.5515,
+      "pitch": "A six-bedroom house with a hot tub fifteen minutes from downtown, about seven hours of driving from Virginia Beach, eight to nine with stops. Biltmore at Christmas, the Grove Park spa and gingerbread houses, a dedicated gluten-free restaurant that serves real food, and skiing at Cataloochee as a bonus, not a plan.",
       "why": [
-        "The cheapest option by a wide margin, and the safest and simplest: drive down, no airports for nine of the ten.",
+        "The cheapest option on the list, and the simplest: drive down, no airports for nine of the ten.",
         "Biltmore's Candlelight Christmas Evening, Olmsted's gardens, the Grove Park Inn's National Gingerbread House display.",
         "Posana downtown has been fully gluten-free since 2009 and serves steak, short rib and lobster gnocchi.",
         "A hike-and-spa week for the crew, with Cataloochee or a Sugar Mountain day when the snowmaking holds, and Bent Creek or DuPont for bikes.",
-        "A fireplace, a hot tub and everyone under one roof: the lodging Mom praises most in her blog."
+        "A fireplace, a hot tub and everyone under one roof: the kind of lodging Mom writes up."
       ],
       "catch": [
         "Thin for the adventure crew. Cataloochee gets about 5 inches of natural snow in December and runs on snowmaking; a warm spell closes it.",
@@ -304,64 +960,259 @@
       ],
       "weather": "December highs around 51, lows around 31, snow in town unlikely. The ski areas run on snowmaking and a warm week can shut them.",
       "getting_there": [
-        {"from": "Norfolk (7)", "how": "Drive: about 430 miles, 8 to 9 hours with stops and a three-year-old. Flying is one stop via Charlotte to Asheville.", "est": "$120 to $200 in gas per car, or $600 to $800 a seat to fly", "link": "https://flyavl.com/"},
-        {"from": "Richmond (2)", "how": "Drive: about 5.5 to 6 hours.", "est": "Gas", "link": ""},
-        {"from": "Austin (1)", "how": "One stop via Charlotte, Atlanta or Dallas to Asheville. An Allegiant seasonal nonstop appears on 2025 listings and is unconfirmed for December 2026.", "est": "$500 to $800", "link": "https://flyavl.com/"},
-        {"from": "On the ground", "how": "Three family cars from Virginia; one rental for Daniel if he flies.", "est": "$0 to $1,200", "link": ""}
+        {
+          "from": "Norfolk (7)",
+          "how": "Drive: about 430 miles, 8 to 9 hours with stops and a three-year-old. Flying is one stop via Charlotte to Asheville.",
+          "est": "$120 to $200 in gas per car, or $600 to $800 a seat to fly",
+          "link": "https://flyavl.com/"
+        },
+        {
+          "from": "Richmond (2)",
+          "how": "Drive: about 5.5 to 6 hours.",
+          "est": "Gas",
+          "link": ""
+        },
+        {
+          "from": "Austin (1)",
+          "how": "One stop via Charlotte, Atlanta or Dallas to Asheville. An Allegiant seasonal nonstop appears on 2025 listings and is unconfirmed for December 2026.",
+          "est": "$500 to $800",
+          "link": "https://flyavl.com/"
+        },
+        {
+          "from": "On the ground",
+          "how": "Three family cars from Virginia; one rental for Daniel if he flies.",
+          "est": "$0 to $1,200",
+          "link": ""
+        }
       ],
       "houses": [
-        {"name": "Asheville 12 (The Top Villas)", "detail": "Six bedrooms including a twin bunk room, five baths, sleeps 16, hot tub, a pool that can be heated for a fee, about 15 minutes from downtown.", "price": "From $288 a night off-peak; holiday week estimated $900 to $1,500 a night, unquoted; verifiers put the week at $11,000 to $20,000", "url": "https://www.thetopvillas.com/destinations/north-carolina/asheville/asheville-12", "verdict": "The lead. Quote first and ask about Christmas-week minimums."},
-        {"name": "Our Mountain Retreat, Arden (south Asheville)", "detail": "Four bedrooms in the main house plus two in a guest house, sleeps 16.", "price": "Not retrieved; estimate $900 to $1,500 a night", "url": "https://www.vrbo.com/p3287107vb", "verdict": "Six doors across two buildings on one property."},
-        {"name": "West Asheville six-bedroom, about 6,000 square feet", "detail": "Six bedrooms, four baths, hot tub, barrel sauna, sleeps 16.", "price": "Not retrieved; estimate $900 to $1,500 a night", "url": "https://www.expedia.com/cn/Asheville-Hotels-Uncle-Entertainment-Hosting-Dream-Amenities-6k-Sq-Ft.h78363923.Hotel-Information", "verdict": "The backup, close to downtown."}
+        {
+          "name": "Asheville 12 (The Top Villas)",
+          "detail": "Six bedrooms including a twin bunk room, five baths, sleeps 16, hot tub, a pool that can be heated for a fee, about 15 minutes from downtown.",
+          "price": "From $288 a night off-peak; unquoted for the holiday week, where the verifiers put it at $11,000 to $20,000",
+          "url": "https://www.thetopvillas.com/destinations/north-carolina/asheville/asheville-12",
+          "verdict": "The lead. Quote first and ask about Christmas-week minimums."
+        },
+        {
+          "name": "Our Mountain Retreat, Arden (south Asheville)",
+          "detail": "Four bedrooms in the main house plus two in a guest house, sleeps 16.",
+          "price": "Not retrieved; unquoted",
+          "url": "https://www.vrbo.com/p3287107vb",
+          "verdict": "Six doors across two buildings on one property."
+        },
+        {
+          "name": "West Asheville six-bedroom, about 6,000 square feet",
+          "detail": "Six bedrooms, four baths, hot tub, barrel sauna, sleeps 16.",
+          "price": "Not retrieved; unquoted",
+          "url": "https://www.expedia.com/cn/Asheville-Hotels-Uncle-Entertainment-Hosting-Dream-Amenities-6k-Sq-Ft.h78363923.Hotel-Information",
+          "verdict": "The backup, close to downtown."
+        }
       ],
       "agenda": [
-        {"day": "Sun Dec 27", "all": "Drive down (Virginia Beach about 8 hours, Richmond about 6). Daniel flies via Charlotte. Grocery run, hot tub, a simple dinner at the house.", "crew": "", "relax": ""},
-        {"day": "Mon Dec 28", "all": "Downtown walk and a Posana lunch. Grove Park Inn gingerbread houses in the evening public window.", "crew": "A hike before lunch.", "relax": "Sara's Pilates, the kids at the house pool and hot tub."},
-        {"day": "Tue Dec 29", "all": "Everyone back for dinner.", "crew": "Ski or ride Cataloochee, about 45 minutes away.", "relax": "Grove Park spa. Kids and Michael at the house."},
-        {"day": "Wed Dec 30", "all": "Biltmore together: the house and grounds by day, then the Candlelight Christmas Evening with an early slot for the kids.", "crew": "", "relax": ""},
-        {"day": "Thu Dec 31", "all": "New Year's Eve chef dinner at the house.", "crew": "Sugar Mountain day: skiing for the crew, tubing for Bennett and Taylor with an adult.", "relax": "River Arts District and a long lunch for whoever stays."},
-        {"day": "Fri Jan 1", "all": "Slow morning, a group hike with a view, leftovers and games.", "crew": "", "relax": ""},
-        {"day": "Sat Jan 2", "all": "Patrick's family-photo hour at golden light.", "crew": "Mountain bikes at Bent Creek or DuPont, or the Cataloochee Valley elk in the Smokies.", "relax": "Downtown bookstores and coffee."},
-        {"day": "Sun Jan 3", "all": "Drive home.", "crew": "", "relax": ""}
+        {
+          "day": "Sun Dec 27",
+          "all": "Drive down (Virginia Beach about 8 hours, Richmond about 6). Daniel flies via Charlotte. Grocery run, hot tub, a simple dinner at the house.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Mon Dec 28",
+          "all": "Downtown walk and a Posana lunch. Grove Park Inn gingerbread houses in the evening (public viewing hours to confirm).",
+          "crew": "A hike before lunch.",
+          "relax": "Sara's Pilates, the kids at the house."
+        },
+        {
+          "day": "Tue Dec 29",
+          "all": "Everyone back for dinner.",
+          "crew": "Ski or ride Cataloochee, about 45 minutes away.",
+          "relax": "Grove Park spa. Kids and Michael at the house."
+        },
+        {
+          "day": "Wed Dec 30",
+          "all": "Biltmore together: the house and grounds by day, then the Candlelight Christmas Evening with an early slot for the kids.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Thu Dec 31",
+          "all": "New Year's Eve chef dinner at the house.",
+          "crew": "Sugar Mountain day, about 2 hours each way: skiing for the crew, tubing for Bennett and Taylor with an adult (age minimum to confirm).",
+          "relax": "River Arts District and a long lunch for whoever stays."
+        },
+        {
+          "day": "Fri Jan 1",
+          "all": "Slow morning, a group hike with a view, leftovers and games.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Sat Jan 2",
+          "all": "Patrick's family-photo hour at golden light.",
+          "crew": "Mountain bikes at Bent Creek or DuPont, or the Cataloochee Valley elk in the Smokies.",
+          "relax": "Downtown bookstores and coffee."
+        },
+        {
+          "day": "Sun Jan 3",
+          "all": "Drive home.",
+          "crew": "",
+          "relax": ""
+        }
       ],
       "pricing": [
-        {"item": "House, seven nights", "low": 11000, "high": 20000, "note": "Six-bedroom with hot tub, holiday week, unquoted"},
-        {"item": "Travel", "low": 1000, "high": 8000, "note": "Three cars from Virginia plus Daniel's flight, or everyone flies one-stop at the high end"},
-        {"item": "Rental car if flying", "low": 0, "high": 1200, "note": ""},
-        {"item": "Ski days, five people, two days", "low": 1200, "high": 2500, "note": "Lift and rentals, estimate"},
-        {"item": "Biltmore day and Candlelight evening", "low": 1200, "high": 1800, "note": "Eight adults plus kids, estimate"},
-        {"item": "Spa", "low": 800, "high": 1500, "note": "Two or three treatments"},
-        {"item": "Chef, New Year's Eve", "low": 2000, "high": 3500, "note": "Estimate"},
-        {"item": "Groceries and dining", "low": 5000, "high": 7000, "note": "Ten people, eight days"}
+        {
+          "item": "House, seven nights",
+          "low": 10500,
+          "high": 15500,
+          "note": "Six-bedroom with hot tub, holiday week, unquoted; the verifiers' range runs to $20,000"
+        },
+        {
+          "item": "Travel: three cars from Virginia, Daniel flies",
+          "low": 1000,
+          "high": 1700,
+          "note": "Gas plus one one-stop fare; if everyone flew, add about $6,000"
+        },
+        {
+          "item": "Rental car for Daniel",
+          "low": 300,
+          "high": 600,
+          "note": "Estimate"
+        },
+        {
+          "item": "Ski days, five people, two days",
+          "low": 1200,
+          "high": 2500,
+          "note": "Lift and rentals, estimate"
+        },
+        {
+          "item": "Biltmore day and Candlelight evening",
+          "low": 1200,
+          "high": 1800,
+          "note": "Eight adults plus kids, estimate"
+        },
+        {
+          "item": "Spa",
+          "low": 800,
+          "high": 1500,
+          "note": "Two or three treatments"
+        },
+        {
+          "item": "Chef, New Year's Eve",
+          "low": 2000,
+          "high": 3500,
+          "note": "Estimate"
+        },
+        {
+          "item": "Groceries and dining",
+          "low": 5000,
+          "high": 6500,
+          "note": "Ten people, eight days"
+        }
       ],
       "links": {
         "Activities": [
-          {"label": "Christmas at Biltmore and Candlelight Christmas Evenings", "url": "https://www.biltmore.com/christmas/"},
-          {"label": "Omni Grove Park Inn, National Gingerbread House Competition", "url": "https://www.omnihotels.com/hotels/asheville-grove-park/things-to-do/gingerbread"},
-          {"label": "Cataloochee Ski Area", "url": "https://cataloochee.com/"},
-          {"label": "Sugar Mountain tubing", "url": "https://skisugar.com/tubing/"},
-          {"label": "Blue Ridge Parkway road status (National Park Service)", "url": "https://www.nps.gov/blri/planyourvisit/roadclosures.htm"},
-          {"label": "Explore Asheville", "url": "https://www.exploreasheville.com/"}
+          {
+            "label": "Christmas at Biltmore and Candlelight Christmas Evenings",
+            "url": "https://www.biltmore.com/christmas/"
+          },
+          {
+            "label": "Omni Grove Park Inn, National Gingerbread House Competition",
+            "url": "https://www.omnihotels.com/hotels/asheville-grove-park/things-to-do/gingerbread"
+          },
+          {
+            "label": "Cataloochee Ski Area",
+            "url": "https://cataloochee.com/"
+          },
+          {
+            "label": "Sugar Mountain tubing",
+            "url": "https://skisugar.com/tubing/"
+          },
+          {
+            "label": "Blue Ridge Parkway road status (National Park Service)",
+            "url": "https://www.nps.gov/blri/planyourvisit/roadclosures.htm"
+          },
+          {
+            "label": "Explore Asheville",
+            "url": "https://www.exploreasheville.com/"
+          }
         ],
         "Food": [
-          {"label": "Posana, fully gluten-free since 2009", "url": "https://www.posanarestaurant.com/"},
-          {"label": "Asheville gluten-free guide", "url": "https://www.romanticasheville.com/top-gluten-free-restaurants-asheville.htm"}
+          {
+            "label": "Posana, fully gluten-free since 2009",
+            "url": "https://www.posanarestaurant.com/"
+          },
+          {
+            "label": "Asheville gluten-free guide",
+            "url": "https://www.romanticasheville.com/top-gluten-free-restaurants-asheville.htm"
+          }
         ],
         "Flights": [
-          {"label": "Asheville Regional Airport", "url": "https://flyavl.com/"}
+          {
+            "label": "Asheville Regional Airport",
+            "url": "https://flyavl.com/"
+          }
         ]
       },
       "markers": [
-        {"name": "Downtown Asheville, Posana", "lat": 35.5951, "lng": -82.5515, "kind": "town"},
-        {"name": "The house, about 15 minutes out", "lat": 35.5200, "lng": -82.5300, "kind": "house"},
-        {"name": "Biltmore Estate", "lat": 35.5408, "lng": -82.5524, "kind": "spot"},
-        {"name": "Omni Grove Park Inn", "lat": 35.6203, "lng": -82.5438, "kind": "spot"},
-        {"name": "River Arts District", "lat": 35.5840, "lng": -82.5660, "kind": "spot"},
-        {"name": "Bent Creek trails", "lat": 35.4900, "lng": -82.6300, "kind": "spot"},
-        {"name": "Cataloochee Ski Area (about 45 minutes)", "lat": 35.5620, "lng": -83.0860, "kind": "spot"},
-        {"name": "Sugar Mountain (about 2 hours)", "lat": 36.1300, "lng": -81.8600, "kind": "spot"},
-        {"name": "DuPont State Forest", "lat": 35.1900, "lng": -82.6200, "kind": "spot"},
-        {"name": "Asheville airport (AVL)", "lat": 35.4362, "lng": -82.5418, "kind": "airport"}
+        {
+          "name": "Downtown Asheville, Posana",
+          "lat": 35.5951,
+          "lng": -82.5515,
+          "kind": "town"
+        },
+        {
+          "name": "House area (approximate), about 15 minutes out",
+          "lat": 35.52,
+          "lng": -82.53,
+          "kind": "house"
+        },
+        {
+          "name": "Biltmore Estate",
+          "lat": 35.5408,
+          "lng": -82.5524,
+          "kind": "spot"
+        },
+        {
+          "name": "Omni Grove Park Inn",
+          "lat": 35.6203,
+          "lng": -82.5438,
+          "kind": "spot"
+        },
+        {
+          "name": "River Arts District",
+          "lat": 35.584,
+          "lng": -82.566,
+          "kind": "spot"
+        },
+        {
+          "name": "Bent Creek trails",
+          "lat": 35.49,
+          "lng": -82.63,
+          "kind": "spot"
+        },
+        {
+          "name": "Cataloochee Ski Area (about 45 minutes)",
+          "lat": 35.562,
+          "lng": -83.086,
+          "kind": "spot"
+        },
+        {
+          "name": "Sugar Mountain (about 2 hours)",
+          "lat": 36.13,
+          "lng": -81.86,
+          "kind": "spot"
+        },
+        {
+          "name": "DuPont State Forest",
+          "lat": 35.19,
+          "lng": -82.62,
+          "kind": "spot"
+        },
+        {
+          "name": "Asheville airport (AVL)",
+          "lat": 35.4362,
+          "lng": -82.5418,
+          "kind": "airport"
+        }
       ],
       "zoom": 9
     }
