@@ -56,7 +56,7 @@
   },
   {
    "local": "img/pr-7.jpg",
-   "subject": "Rinc\u00f3n beach at sunset, boy and woman walking in the surf",
+   "subject": "Rincón beach at sunset, boy and woman walking in the surf",
    "author": "Bulaclac Paruparu",
    "license": "CC BY 2.0",
    "page_url": "https://commons.wikimedia.org/wiki/File:Boy_and_lady_walking_in_waves_with_a_sunset_on_a_beach_in_Rinc%C3%B3n,_Puerto_Rico.jpg",
@@ -65,7 +65,7 @@
   },
   {
    "local": "img/pr-8.jpg",
-   "subject": "Rainbow over the Rinc\u00f3n coast",
+   "subject": "Rainbow over the Rincón coast",
    "author": "M S",
    "license": "CC BY-SA 2.0",
    "page_url": "https://commons.wikimedia.org/wiki/File:Rainbow_in_Rinc%C3%B3n,_Puerto_Rico.jpg",
@@ -74,7 +74,7 @@
   },
   {
    "local": "img/pr-9.jpg",
-   "subject": "Surfing the waves at Aguadilla, next to Rinc\u00f3n on the west coast",
+   "subject": "Surfing the waves at Aguadilla, next to Rincón on the west coast",
    "author": "Tony Alter",
    "license": "CC BY 2.0",
    "page_url": "https://commons.wikimedia.org/wiki/File:Surfing_in_Aguadilla,_Puerto_Rico.jpg",
@@ -101,7 +101,7 @@
   },
   {
    "local": "img/pr-12.jpg",
-   "subject": "Gozalandia Falls and pool, San Sebasti\u00e1n",
+   "subject": "Gozalandia Falls and pool, San Sebastián",
    "author": "cavenaghi9",
    "license": "CC BY-SA 2.0",
    "page_url": "https://commons.wikimedia.org/wiki/File:Gozalandia_Falls_in_San_Sebasti%C3%A1n,_Puerto_Rico.jpg",
@@ -146,8 +146,8 @@
   },
   {
    "local": "img/pr-17.jpg",
-   "subject": "Castillo San Crist\u00f3bal ramparts, Old San Juan",
-   "author": "Mariordo (Mario Roberto Dur\u00e1n Ortiz)",
+   "subject": "Castillo San Cristóbal ramparts, Old San Juan",
+   "author": "Mariordo (Mario Roberto Durán Ortiz)",
    "license": "CC BY-SA 4.0",
    "page_url": "https://commons.wikimedia.org/wiki/File:Castillo_San_Cristobal_SJU_06_2019_7581.jpg",
    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Castillo_San_Cristobal_SJU_06_2019_7581.jpg/1920px-Castillo_San_Cristobal_SJU_06_2019_7581.jpg",
@@ -174,7 +174,7 @@
   {
    "local": "img/pr-20.jpg",
    "subject": "Umbrella street, Old San Juan",
-   "author": "Mariordo (Mario Roberto Dur\u00e1n Ortiz)",
+   "author": "Mariordo (Mario Roberto Durán Ortiz)",
    "license": "CC BY-SA 4.0",
    "page_url": "https://commons.wikimedia.org/wiki/File:Umbrella_street_Old_San_Juan_SJU_06_2019_8785.jpg",
    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Umbrella_street_Old_San_Juan_SJU_06_2019_8785.jpg/1920px-Umbrella_street_Old_San_Juan_SJU_06_2019_8785.jpg",
@@ -1048,7 +1048,7 @@
   {
    "local": "img/mt-8.jpg",
    "subject": "Saint-Bernard chapel at dusk, Mont-Tremblant pedestrian village (portrait)",
-   "author": "Hubert Figui\u00e8re",
+   "author": "Hubert Figuière",
    "license": "CC BY-SA 2.0",
    "page_url": "https://commons.wikimedia.org/wiki/File:Chapelle_Saint-Bernard_(37646265551).jpg",
    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Chapelle_Saint-Bernard_%2837646265551%29.jpg/1920px-Chapelle_Saint-Bernard_%2837646265551%29.jpg",
@@ -1101,7 +1101,7 @@
   },
   {
    "local": "img/mt-14.jpg",
-   "subject": "Crowd at a poutine and maple taffy (tire d'\u00e9rable) stand in winter",
+   "subject": "Crowd at a poutine and maple taffy (tire d'érable) stand in winter",
    "author": "Vince Alongi",
    "license": "CC BY 2.0",
    "page_url": "https://commons.wikimedia.org/wiki/File:Poutine_and_maple_taffy_(3371122065).jpg",
@@ -1170,6 +1170,152 @@
    "page_url": "https://commons.wikimedia.org/wiki/File:Village-colours.jpg",
    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Village-colours.jpg/1920px-Village-colours.jpg",
    "thumb": "img/thumb/mt-21.jpg"
+  }
+ ],
+ "bz": [
+  {
+   "local": "img/bz-1.jpg",
+   "subject": "Placencia beach",
+   "author": "Jim McIntosh",
+   "license": "CC0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Placencia_Belize,_December_2021_-_The_Beach.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Placencia_Belize%2C_December_2021_-_The_Beach.jpg/1920px-Placencia_Belize%2C_December_2021_-_The_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-1.jpg"
+  },
+  {
+   "local": "img/bz-2.jpg",
+   "subject": "Placencia village, path to the beach",
+   "author": "Jim McIntosh",
+   "license": "CC0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Placencia_Belize,_December_2021_-_Path_to_the_Beach.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Placencia_Belize%2C_December_2021_-_Path_to_the_Beach.jpg/1920px-Placencia_Belize%2C_December_2021_-_Path_to_the_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-2.jpg"
+  },
+  {
+   "local": "img/bz-3.jpg",
+   "subject": "Placencia peninsula and resorts from the air",
+   "author": "Craig Nagy",
+   "license": "CC BY-SA 2.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Belize_Air_View_Placencia_Resorts.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Belize_Air_View_Placencia_Resorts.jpg/1920px-Belize_Air_View_Placencia_Resorts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-3.jpg"
+  },
+  {
+   "local": "img/bz-4.jpg",
+   "subject": "Placencia Lagoon",
+   "author": "Jan Pešula",
+   "license": "CC0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Placencia_Lagoon_Belize.JPG",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Placencia_Lagoon_Belize.JPG/1920px-Placencia_Lagoon_Belize.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-4.jpg"
+  },
+  {
+   "local": "img/bz-5.jpg",
+   "subject": "Laughing Bird Caye",
+   "author": "Kaldari",
+   "license": "CC0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Laughing_Bird_Caye_2.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Laughing_Bird_Caye_2.jpg/1920px-Laughing_Bird_Caye_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-5.jpg"
+  },
+  {
+   "local": "img/bz-6.jpg",
+   "subject": "Silk Caye, off Placencia",
+   "author": "Walter Rodriguez from Helsinki, Finland",
+   "license": "CC BY 2.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Silk_Caye,_Stann_Creek,_Belize.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Silk_Caye%2C_Stann_Creek%2C_Belize.jpg/1920px-Silk_Caye%2C_Stann_Creek%2C_Belize.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-6.jpg"
+  },
+  {
+   "local": "img/bz-7.jpg",
+   "subject": "Coral reef at Goff's Caye",
+   "author": "jayhem from Antibes, France",
+   "license": "CC BY-SA 2.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Coral_Reef,_Goff%27s_Caye.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Coral_Reef%2C_Goff%27s_Caye.jpg/1920px-Coral_Reef%2C_Goff%27s_Caye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-7.jpg"
+  },
+  {
+   "local": "img/bz-8.jpg",
+   "subject": "Monkey River",
+   "author": "Laika ac from USA",
+   "license": "CC BY-SA 2.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Laika_ac_Monkey_River_(7174456415).jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Laika_ac_Monkey_River_%287174456415%29.jpg/1920px-Laika_ac_Monkey_River_%287174456415%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-8.jpg"
+  },
+  {
+   "local": "img/bz-9.jpg",
+   "subject": "Howler monkey",
+   "author": "Laika ac from USA",
+   "license": "CC BY-SA 2.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Laika_ac_Howler_Monkey_(7174449221).jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Laika_ac_Howler_Monkey_%287174449221%29.jpg/1920px-Laika_ac_Howler_Monkey_%287174449221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-9.jpg"
+  },
+  {
+   "local": "img/bz-11.jpg",
+   "subject": "Shade cacao at Ixcacao Maya Chocolate",
+   "author": "Mvfarrell",
+   "license": "CC BY-SA 4.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Shade_Cacao_Plantation,_Ixcacao_Mayan_Chocolate,_Belize.JPG",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Shade_Cacao_Plantation%2C_Ixcacao_Mayan_Chocolate%2C_Belize.JPG/1920px-Shade_Cacao_Plantation%2C_Ixcacao_Mayan_Chocolate%2C_Belize.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-11.jpg"
+  },
+  {
+   "local": "img/bz-12.jpg",
+   "subject": "Hummingbird Highway, Stann Creek",
+   "author": "Cephas",
+   "license": "CC BY-SA 4.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hummingbird_Highway_01.JPG",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Hummingbird_Highway_01.JPG/1920px-Hummingbird_Highway_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-12.jpg"
+  },
+  {
+   "local": "img/bz-13.jpg",
+   "subject": "Nim Li Punit ruins",
+   "author": "Nosferattus",
+   "license": "CC0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:3962_Nim_Li_Punit.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/3962_Nim_Li_Punit.jpg/1920px-3962_Nim_Li_Punit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-13.jpg"
+  },
+  {
+   "local": "img/bz-14.jpg",
+   "subject": "Lubaantun ruins",
+   "author": "Kaldari",
+   "license": "CC0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Lubaantun_01.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Lubaantun_01.jpg/1920px-Lubaantun_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-14.jpg"
+  },
+  {
+   "local": "img/bz-15.jpg",
+   "subject": "Great Blue Hole from the air",
+   "author": "The TerraMar Project",
+   "license": "CC BY 2.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Belize_Blue_Hole.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Belize_Blue_Hole.jpg/1920px-Belize_Blue_Hole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-15.jpg"
+  },
+  {
+   "local": "img/bz-17.jpg",
+   "subject": "Belize Barrier Reef",
+   "author": "xiquinhosilva",
+   "license": "CC BY 4.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Belize_Barrier_Reef_-_55444838772.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Belize_Barrier_Reef_-_55444838772.jpg/1920px-Belize_Barrier_Reef_-_55444838772.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-17.jpg"
+  },
+  {
+   "local": "img/bz-18.jpg",
+   "subject": "Belizean lunch (food)",
+   "author": "Kaldari",
+   "license": "CC0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Belizean_lunch.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Belizean_lunch.jpg/1920px-Belizean_lunch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/bz-18.jpg"
   }
  ]
 }
