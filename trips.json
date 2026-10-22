@@ -351,8 +351,8 @@
           "con": "The Norfolk nonstop skips Saturdays, and the times still need confirming"
         },
         {
-          "pro": "US soil: hospitals, pharmacies, dollars, phones",
-          "con": "No hospital in Rincón. The ER is in Aguadilla, 25 to 30 minutes away"
+          "pro": "US soil: dollars, phones, no border",
+          "con": "Reef snorkeling is more of a summer thing there"
         },
         {
           "pro": "Real winter surf, a Desecheo boat dive, Old San Juan at each end",
@@ -371,7 +371,6 @@
         "Flights": "Nonstop from Norfolk and Richmond, Daniel one stop",
         "House": "Six bedrooms a mile from the plaza, unquoted",
         "Out the door": "A surf town, a mile's walk or a short drive to the plaza",
-        "Medical": "US ER 25 to 30 minutes away",
         "Weather": "Mid-80s, sea about 80, winter swell"
       }
     },
@@ -685,7 +684,6 @@
         "Flights": "One stop from Norfolk and Richmond, Daniel nonstop",
         "House": "Six bedrooms in Old Town with two kitchens and a hot tub, unquoted",
         "Out the door": "Main Street three minutes on foot",
-        "Medical": "US hospitals",
         "Weather": "Highs in the 20s and 30s, near 7,000 feet"
       }
     },
@@ -1069,7 +1067,6 @@
         "Flights": "A 10 to 11 hour drive, Daniel flies to Albany",
         "House": "Cliff View Loj open at about $19k, the walkable ones booked",
         "Out the door": "Main Street, a 30-minute walk from the open house",
-        "Medical": "US hospitals",
         "Weather": "Highs near 28, nights near zero"
       }
     },
@@ -1423,7 +1420,7 @@
         },
         {
           "pro": "Low altitude, the Ikon pass, the Scandinave spa, the Aquaclub, dog sledding",
-          "con": "No hospital in town. The ER is about 40 minutes away"
+          "con": "Winter tires and two SUVs, and the drive up is probably after dark on arrival day"
         },
         {
           "pro": "One connection to Montreal from every household",
@@ -1438,7 +1435,6 @@
         "Flights": "One connection to Montreal, then 90 minutes to two hours of winter driving",
         "House": "Panache 784, six bedrooms, private hot tub, open and priced",
         "Out the door": "The village by shuttle",
-        "Medical": "ER about 40 minutes away, Canadian hospitals",
         "Weather": "Highs in the 20s, nights near 5"
       }
     },
@@ -1860,7 +1856,7 @@
         },
         {
           "pro": "Warm, about 81 degrees, with calm shallow water inside the reef for the kids",
-          "con": "The thinnest medical cover: a polyclinic 8 miles away, a hospital 1 to 1.5 hours away, anything serious by air"
+          "con": "2026 has been a record sargassum year on the east-facing beaches where the houses sit"
         },
         {
           "pro": "About $27k to $58k, overlapping Puerto Rico",
@@ -1875,7 +1871,6 @@
         "Flights": "One connection to Belize City, then a small-plane hop",
         "House": "Mission Bay, six bedrooms, chef included, no holiday rate yet",
         "Out the door": "The village is 8 miles by golf cart",
-        "Medical": "Polyclinic 8 miles, hospital 1 to 1.5 hours, serious care by air",
         "Weather": "About 81, sea 81, the odd norther"
       }
     }

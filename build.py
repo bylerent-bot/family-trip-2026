@@ -87,7 +87,7 @@ for t in data['trips']:
 
 
 # side-by-side table
-dims = ['Flights', 'House', 'Out the door', 'Medical', 'Weather', 'Rough cost for ten']
+dims = ['Flights', 'House', 'Out the door', 'Weather', 'Rough cost for ten']
 def cell(t, dim):
     if dim == 'Rough cost for ten':
         lo = sum(p['low'] for p in t['pricing']); hi = sum(p['high'] for p in t['pricing'])
