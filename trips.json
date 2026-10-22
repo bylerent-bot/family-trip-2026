@@ -38,7 +38,7 @@
       "key": "pr",
       "name": "Puerto Rico",
       "place": "Rincón, with Old San Juan at each end",
-      "tag": "The lead",
+      "tag": "",
       "lat": 18.34,
       "lng": -67.25,
       "pitch": "A pool house in Rincón, a surf town you walk around, with a night in Old San Juan on the way in and the way out so nobody drives the west side in the dark with Taylor. No passports, nonstops from Norfolk and Richmond, US medicine, sea level, real winter surf and a boat dive for the crew, pool and the calm side of the beach for the kids.",
@@ -46,8 +46,7 @@
         "US soil: no passports, US hospitals and pharmacies, dollars, phones that just work.",
         "JetBlue announced a Sunday nonstop from Norfolk and a Tuesday, Thursday, Saturday nonstop from Richmond. Daniel connects once from Austin.",
         "Real adventure from the door: December surf at Maria's, Domes and Sandy Beach, a two-tank boat dive at Desecheo Island, the Gozalandia waterfall, an Isabela surf day.",
-        "Old San Juan on foot at each end: El Morro, the walls, a good dinner.",
-        "The cheapest warm option on the list."
+        "Old San Juan on foot at each end: El Morro, the walls, a good dinner."
       ],
       "catch": [
         "December is big-wave season, so the kids stay on the pool and the calm-side beaches, and reef snorkeling is a summer thing.",
@@ -355,18 +354,18 @@
       "key": "ami",
       "name": "Anna Maria Island",
       "place": "Holmes Beach, Florida",
-      "tag": "Easiest for the spouses and kids",
+      "tag": "",
       "lat": 27.4953,
       "lng": -82.7115,
-      "pitch": "A pool house a short walk from the Gulf on a bike-everywhere island with walkable villages. The easiest flights on the list and the best week for the spouses and the kids. The crew gets a manatee morning, a boat day and bikes, not surf or snow.",
+      "pitch": "A pool house a short walk from the Gulf on a bike-everywhere island with walkable villages. Nonstop flights from all three airports, beach and pool every day for the kids, and Sarasota and St. Petersburg within an hour. No surf; the Gulf is usually flat in December.",
       "why": [
-        "About six hours door to door: Breeze flies Norfolk to Tampa nonstop, Richmond has had the same, and Austin has nonstops to Tampa.",
+        "About six hours door to door. Breeze flies Norfolk to Tampa nonstop, Richmond has had the same, and Austin has nonstops to Tampa.",
         "Beach and pool every day for a three-year-old, bikes for a seven-year-old, Pine Avenue and Bridge Street for the adults.",
         "Sarasota and St. Petersburg are 30 to 60 minutes away: the Ringling, Selby Gardens' holiday lights (2026 dates to confirm), the Chihuly Collection (Mom's July trip, continued), the Mote aquarium.",
         "Crystal River manatee snorkel in peak season, about 2 to 2.5 hours up the coast, a boat day to Egmont Key, mangrove paddles."
       ],
       "catch": [
-        "The thinnest week for the adventure crew. The Gulf is usually flat in December.",
+        "No surf, and the Gulf is usually flat in December; the crew's days are a manatee morning, a boat day and bikes.",
         "Gulf water runs mid to upper sixties, so the pool carries the swimming.",
         "The flagship listing has five true bedrooms plus a den with a bunk and trundle; confirm a real sixth room.",
         "Holiday-week availability on the island is the real question this late. Listed peak rates for six-bedroom houses run $1,755 to $2,251 a night before taxes and fees (checked Oct 21).",
@@ -650,10 +649,10 @@
       "key": "pc",
       "name": "Park City",
       "place": "Old Town, Utah",
-      "tag": "Best for the crew",
+      "tag": "",
       "lat": 40.644,
       "lng": -111.498,
-      "pitch": "An Old Town house with Main Street and the Town Lift at the door. The best riding week by a mile and the best town to walk out into. It costs three things: a third winter trip in two years, 7,000 feet of altitude, and a cold week for Michael, Trisha and the kids.",
+      "pitch": "An Old Town house with Main Street and the Town Lift at the door: five or six riding days from the house, a walkable Main Street for everyone else, a hot tub every night. It is cold, it sits near 7,000 feet, and half the party does not ski.",
       "why": [
         "Park City Mountain from the Town Lift, a walk from the house, five or six riding days. Canyons Village on the same pass. A Big Cottonwood powder day for the crew.",
         "Main Street: shops, galleries, restaurants, the free trolley, a hot tub at the house every night.",
@@ -662,7 +661,7 @@
         "A nonstop for Daniel from Austin to Salt Lake."
       ],
       "catch": [
-        "A third winter trip in two years, against Mom's own note that not everyone snowboards.",
+        "Half the party does not ski or ride, so the week leans on the village, the spa, tubing and skating for them.",
         "Altitude: Old Town sits near 7,000 feet.",
         "A cold week for the relaxed crew, with highs in the 20s and 30s.",
         "Peak-week pricing: a six-bedroom Old Town house over New Year's runs $35,000 to $55,000 for the week, before flights and lift tickets.",
@@ -940,20 +939,19 @@
       "key": "avl",
       "name": "Asheville",
       "place": "Blue Ridge, North Carolina",
-      "tag": "Cheap, safe, drivable",
+      "tag": "",
       "lat": 35.5951,
       "lng": -82.5515,
       "pitch": "A six-bedroom house with a hot tub fifteen minutes from downtown, about seven hours of driving from Virginia Beach, eight to nine with stops. Biltmore at Christmas, the Grove Park spa and gingerbread houses, a dedicated gluten-free restaurant that serves real food, and skiing at Cataloochee as a bonus, not a plan.",
       "why": [
-        "The cheapest option on the list, and the simplest: drive down, no airports for nine of the ten.",
+        "Drive down: no airports for nine of the ten, and three family cars for the week.",
         "Biltmore's Candlelight Christmas Evening, Olmsted's gardens, the Grove Park Inn's National Gingerbread House display.",
         "Posana downtown has been fully gluten-free since 2009 and serves steak, short rib and lobster gnocchi.",
         "A hike-and-spa week for the crew, with Cataloochee or a Sugar Mountain day when the snowmaking holds, and Bent Creek or DuPont for bikes.",
         "A fireplace, a hot tub and everyone under one roof: the kind of lodging Mom writes up."
       ],
       "catch": [
-        "Thin for the adventure crew. Cataloochee gets about 5 inches of natural snow in December and runs on snowmaking; a warm spell closes it.",
-        "Nobody in the family has pitched it.",
+        "Cataloochee gets about 5 inches of natural snow in December and runs on snowmaking; a warm spell closes it.",
         "Snow in town is unlikely; December runs a 51-degree high and a 31-degree low.",
         "The heated pool at the lead house is a paid extra and unconfirmed for winter.",
         "Daniel's Austin flight is a connection or a long drive; a seasonal Allegiant nonstop is unconfirmed for December."
@@ -1220,32 +1218,30 @@
       "key": "lp",
       "name": "Lake Placid",
       "place": "The Olympic village, upstate New York",
-      "tag": "The known quantity, as a fallback",
+      "tag": "",
       "lat": 44.2795,
       "lng": -73.9799,
-      "pitch": "The family's own February base, done again with the two things that were missing: a house with a hot tub and the kids along. Main Street, the Mirror Lake loop, the Olympic Center and the skating oval are all on foot, Whiteface is twenty minutes by car, and everyone including Mom skied it last time. Two things hold it to a fallback as of October 21: the bobsled ride is listed as unavailable for track updates, and the walkable six-bedroom houses with hot tubs already show booked for the week.",
+      "pitch": "The family's February base, done again with the two things that were missing: a house with a hot tub and the kids along. Main Street, the Mirror Lake loop, the Olympic Center and the skating oval are all on foot, Whiteface is twenty minutes by car, and everyone including Mom skied it last time. Two things to know as of October 21: the bobsled ride is listed as unavailable for track updates, and the walkable six-bedroom houses with hot tubs already show booked for the week.",
       "why": [
         "The village passes the walk-out test easily: Main Street shops and restaurants, the paved 2.7-mile Mirror Lake loop, outdoor skating on the Olympic oval, dog-sled rides on Mirror Lake daily from December 26, the Olympic Museum and the 1980 arena.",
         "Whiteface, the mountain all five riders skied in February, with snowmaking on nearly every acre; cross-country on the 1932 and 1980 Nordic trails at Mt Van Hoevenberg for Mom at the 70-and-up rate.",
         "A drive, not a flight day: about 10 hours 40 minutes from Virginia Beach with an overnight in the Hudson Valley on the way up, the way Patrick did it last time. Daniel flies to Albany.",
         "The Mirror Lake Inn spa and a reformer studio on Main Street for Sara, the Wild Center and the skating oval for the kids (Taylor skates free), a hot tub for Mom.",
-        "About $28,000 to $36,000 for ten with the one house confirmed open, which overlaps Asheville and sits under Puerto Rico."
+        "About $28,000 to $36,000 for ten with the one house confirmed open."
       ],
       "catch": [
         "The bobsled, Kristina's stated reason to come back, is not bookable: the venue's page redirects and the tourism site says it is unavailable for track updates. The skeleton ride that is offered is ages 13 and up, so only the adults could slide.",
         "The walkable six-bedroom houses with hot tubs (Hillcrest Haven, the Stevens house, the Waterfront house) all show booked for December 27 to January 3. The one house confirmed open, Cliff View Loj, is under a mile out, which one reviewer called a 30-minute walk. Camp Kobl Hill, which would decide it, needs a call.",
-        "A third winter trip in two years, and the coldest week on the list: highs near 28 degrees, nights near zero.",
+        "Cold: highs near 28 degrees, nights near zero.",
         "Ten to eleven hours of driving each way, with winter on I-87 and Route 73 able to add hours.",
         "No dedicated gluten-free restaurant in town; a list of celiac-literate kitchens and the house carry Sara's week. The toboggan chute needs a foot of lake ice, unlikely before January."
       ],
       "weather": "Reliably wintry and short-day: December highs about 28 degrees, nights near zero, about 104 inches of snow a year. Whiteface runs on snowmaking across nearly all of its skiable acres.",
       "notes": [
         {
-          "title": "Vermont and Canada, compared",
+          "title": "Stowe, Vermont, compared",
           "paragraphs": [
-            "Stowe, Vermont wins on the things Lake Placid lacked last time: a house with a hot tub, a real spa at Topnotch or the Trapp Family Lodge, an Epic mountain for all five riders, and the groomed recreation path from the village. It loses on the drive (12 to 13 hours from Virginia Beach, one to two more than Lake Placid), on the walk-out test unless the house is in the small village, on gluten-free depth and a reformer, and it has no bobsled. Roughly $26,000 to $42,000 for ten, with two six-bedroom hot-tub houses found and neither priced for the week.",
-            "Mont-Tremblant, Quebec is the best village of the three: a car-free resort at the lift base, a low mountain (about 750 to 2,900 feet, so altitude is no issue), six-bedroom hot-tub homes a few minutes' walk from the village, the Scandinave spa, dog sledding, tubing and an indoor water park for the kids. It loses on access, which is the thing Mom flags: a one-connection flight to Montreal for all ten plus a 90-minute winter drive and a border crossing, passports for everyone including the kids, Canadian dollars, and cold to 5 below. Roughly $30,000 to $50,000 for ten.",
-            "Quebec City scored low in the first round (the old city is a day trip from any ski chalet), and Banff fails on altitude and the Calgary transfer. If the family wants snow more than ease, Tremblant is the one to build out; if it wants the known quantity and a drive, Lake Placid is, once two phone calls settle the bobsled and the house."
+            "Stowe has a house with a hot tub, a real spa at Topnotch or the Trapp Family Lodge, an Epic mountain for all five riders, and the groomed recreation path from the village. The drive is 12 to 13 hours from Virginia Beach, one to two more than Lake Placid; the village is small, so the house has to sit in it to be walkable; gluten-free depth is thin, no reformer studio was found, and there is no bobsled. Roughly $26,000 to $42,000 for ten, with two six-bedroom hot-tub houses found and neither priced for the week."
           ]
         }
       ],
@@ -1585,24 +1581,24 @@
       "key": "mt",
       "name": "Mont-Tremblant",
       "place": "The pedestrian village, Quebec",
-      "tag": "The snow village, with passports",
+      "tag": "",
       "lat": 46.2136,
       "lng": -74.5855,
-      "pitch": "A car-free village at the base of the mountain, lit up at night, with the skating rink, the Aquaclub water park, the open-air Cabriolet gondola and two dozen restaurants on foot. The mountain is low (about 750 to 2,900 feet) and on the Ikon pass. One six-bedroom house with a private hot tub is open and priced for the exact week. The catches are access, which is Mom's flag: a one-connection flight to Montreal for every household, then 90 minutes to two hours of winter driving, a border, passports for all ten including the kids, and nights near 5 degrees.",
+      "pitch": "A car-free village at the base of the mountain, lit up at night, with the skating rink, the Aquaclub water park, the open-air Cabriolet gondola and two dozen restaurants on foot. The mountain is low (about 750 to 2,900 feet) and on the Ikon pass. One six-bedroom house with a private hot tub is open and priced for the exact week. Getting there is a one-connection flight to Montreal for every household, then 90 minutes to two hours of winter driving, a border, and passports for all ten including the kids. Nights run near 5 degrees.",
       "why": [
-        "The best village of the snow options: heated walkways, a free lit skating rink with ice slides and free skate loans, the Cabriolet, sleigh rides from the village, the Brind'O Aquaclub for a cold afternoon.",
+        "A car-free village: heated walkways, a free lit skating rink with ice slides and free skate loans, the Cabriolet, sleigh rides from the village, the Brind'O Aquaclub for a cold afternoon.",
         "Low altitude for Sara (base about 750 feet) and the Scandinave spa ten minutes away: an outdoor thermal circuit with silence as the house rule.",
         "Real adventure beside the skiing: dog sledding seven minutes away where the kids ride with the guide from age 3, guided snowmobiles, an ice-climbing intro, 80 kilometers of Nordic trails at Domaine Saint-Bernard.",
         "Tremblant's own advice for the holiday week: start on the North Side and ride the upper lifts to skip the 10 AM South Side line; January 1 is usually lighter.",
         "Panache 784 is open and priced for December 27 to January 3: six bedrooms, a private outdoor hot tub, about $27,900 to $31,000 for the week, fees included."
       ],
       "catch": [
-        "Access is Mom's flag: every household connects once to Montreal, then drives 90 minutes to two hours north in winter, likely after dark on arrival day, with a border each way.",
+        "Every household connects once to Montreal, then drives 90 minutes to two hours north in winter, likely after dark on arrival day, with a border each way.",
         "Passports for all ten, including Bennett and Taylor. Child books are in-person with both parents; routine processing runs four to twelve weeks and the trip is about nine weeks out, so anyone short applies now and expedites.",
         "The house is a shuttle ride from the village, not a walk: the listing says shuttle or a short drive, one guest calls it a 25-minute uphill hike, another a five-minute walk from the shuttle stop. The family accepts the free resort shuttle as the way home, or this option is out.",
-        "Nights near 5 degrees and highs in the 20s; wind can close the summit lifts. A third winter trip in two years.",
+        "Nights near 5 degrees and highs in the 20s; wind can close the summit lifts.",
         "No hospital in Mont-Tremblant; the nearest 24-hour ER is about 40 minutes away in Sainte-Agathe. Carry epinephrine from home. No dedicated gluten-free restaurant; the house kitchen plus celiac-literate places in town and the village.",
-        "The honest total is about $45,000 to $66,000 for ten, second only to Park City. The house alone equals the whole Lake Placid week."
+        "About $45,000 to $66,000 for ten at the current exchange rate."
       ],
       "weather": "Real winter: December highs about 27 degrees, lows about 14; January highs about 19, lows about 5. Snow likely. Wind can close the summit lifts and leave the lower half open.",
       "notes": [

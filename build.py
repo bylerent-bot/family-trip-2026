@@ -23,7 +23,7 @@ def section(t):
     key = t['key']; acc = ACCENT.get(key, '#444')
     hero = photo_block(key, 'hero'); gallery = photo_block(key, 'gallery') or []
     hero_html = (f'<div class="hero" style="background-image:linear-gradient(rgba(0,0,0,.15),rgba(0,0,0,.55)),url(\'{E(hero["local"])}\')">' if hero else f'<div class="hero hero-plain" style="background:{acc}">') + \
-        f'<div class="hero-text"><span class="tag">{E(t["tag"])}</span><h2>{E(t["name"])}</h2><p>{E(t["place"])}</p></div></div>'
+        f'<div class="hero-text">' + (f'<span class="tag">{E(t["tag"])}</span>' if t.get('tag') else '') + f'<h2>{E(t["name"])}</h2><p>{E(t["place"])}</p></div></div>'
     hero_credit = f'<p class="credit">{credit(hero)}</p>' if hero else ''
     why = ''.join(f'<li>{E(x)}</li>' for x in t['why']); catch = ''.join(f'<li>{E(x)}</li>' for x in t['catch'])
     notes = ''
@@ -73,7 +73,7 @@ for t in data['trips']:
     low = sum(p['low'] for p in t['pricing']); high = sum(p['high'] for p in t['pricing'])
     hero = photo_block(t['key'], 'hero')
     img = f'<img src="{E(hero["local"])}" alt="{E(t["name"])}">' if hero else f'<div class="ph" style="background:{ACCENT[t["key"]]}"></div>'
-    cards += f'<a class="ocard" href="#{t["key"]}" style="--acc:{ACCENT[t["key"]]}">{img}<div class="ocard-body"><span class="tag">{E(t["tag"])}</span><h3>{E(t["name"])}</h3><p class="small">{E(t["place"])}</p><p>{E(t["pitch"].split(". ")[0])}.</p><p class="band">{money(low)} to {money(high)} for ten</p></div></a>'
+    cards += f'<a class="ocard" href="#{t["key"]}" style="--acc:{ACCENT[t["key"]]}">{img}<div class="ocard-body">' + (f'<span class="tag">{E(t["tag"])}</span>' if t.get('tag') else '') + f'<h3>{E(t["name"])}</h3><p class="small">{E(t["place"])}</p><p>{E(t["pitch"].split(". ")[0])}.</p><p class="band">{money(low)} to {money(high)} for ten</p></div></a>'
 rules = ''.join(f'<li>{E(r)}</li>' for r in s['rules'])
 nav = ''.join(f'<a href="#{t["key"]}">{E(t["name"])}</a>' for t in data['trips'])
 mapdata = json.dumps({'origins': s['origins'], 'trips': [{'key': t['key'], 'name': t['name'], 'lat': t['lat'], 'lng': t['lng'], 'zoom': t['zoom'], 'markers': t['markers'], 'acc': ACCENT[t['key']]} for t in data['trips']]})
