@@ -34,10 +34,10 @@ def section(t):
         gal = '<div class="gallery">' + ''.join(f'<figure><a href="{E(p["local"])}" class="lb" data-cap="{E(p.get("subject",""))}"><img loading="lazy" src="{E(p.get("thumb", p["local"]))}" alt="{E(p.get("subject",""))}"></a><figcaption>{credit(p)}</figcaption></figure>' for p in gallery) + '</div>'
     gt = ''.join(f'<tr><th>{E(g["from"])}</th><td>{E(g["how"])}' + (f' <a href="{E(g["link"])}" rel="noopener">Link</a>' if g.get('link') else '') + f'</td><td class="num">{E(g["est"])}</td></tr>' for g in t['getting_there'])
     houses = ''.join(f'<div class="card"><h4><a href="{E(h["url"])}" rel="noopener">{E(h["name"])}</a></h4><p>{E(h["detail"])}</p><p class="price">{E(h["price"])}</p><p class="verdict">{E(h["verdict"])}</p></div>' for h in t['houses'])
-    ag = ''.join(f'<tr><th>{E(a["day"])}</th><td data-label="Everyone">{E(a["all"])}</td><td data-label="Adventure crew">{E(a["crew"])}</td><td data-label="Relaxed crew and kids">{E(a["relax"])}</td></tr>' for a in t['agenda'])
+    ag = ''.join(f'<tr><th>{E(a["day"])}</th><td data-label="All of us">{E(a["all"])}</td><td data-label="Whoever is up for it">{E(a["crew"])}</td><td data-label="Easier days, and the kids">{E(a["relax"])}</td></tr>' for a in t['agenda'])
     low = sum(p['low'] for p in t['pricing']); high = sum(p['high'] for p in t['pricing'])
     pr = ''.join(f'<tr><td>{E(p["item"])}</td><td class="num">{money(p["low"])}</td><td class="num">{money(p["high"])}</td><td class="note">{E(p["note"])}</td></tr>' for p in t['pricing'])
-    pr += f'<tr class="total"><td>Total for ten</td><td class="num">{money(low)}</td><td class="num">{money(high)}</td><td class="note">About {money(low/10)} to {money(high/10)} a head, kids included</td></tr>'
+    pr += f'<tr class="total"><td>Rough total for ten</td><td class="num">{money(low)}</td><td class="num">{money(high)}</td><td class="note">About {money(low/10)} to {money(high/10)} a head, kids included</td></tr>'
     links = ''.join(f'<div><h4>{E(g)}</h4><ul>' + ''.join(f'<li><a href="{E(l["url"])}" rel="noopener">{E(l["label"])}</a></li>' for l in ls) + '</ul></div>' for g, ls in t['links'].items())
     markers = ''.join(f'<li><span class="dot {E(m["kind"])}"></span>{E(m["name"])}</li>' for m in t['markers'])
     return f'''
@@ -46,8 +46,8 @@ def section(t):
   <div class="wrap">
     <p class="pitch">{E(t['pitch'])}</p>
     <div class="two">
-      <div><h3>Why it works</h3><ul>{why}</ul></div>
-      <div><h3>The catch</h3><ul>{catch}</ul></div>
+      <div><h3>What's nice about it</h3><ul>{why}</ul></div>
+      <div><h3>The catches</h3><ul>{catch}</ul></div>
     </div>
     <p class="weather"><strong>Weather that week.</strong> {E(t['weather'])}</p>
     {notes}
@@ -56,12 +56,12 @@ def section(t):
     <div class="mapwrap"><div id="map-{key}" class="map"></div><ul class="legend">{markers}</ul></div>
     <h3>Getting there</h3>
     <table class="plain"><tbody>{gt}</tbody></table>
-    <h3>Where we would stay</h3>
+    <h3>Places we could stay</h3>
     <div class="cards">{houses}</div>
-    <h3>The week</h3>
-    <div class="scroll"><table class="agenda"><thead><tr><th>Day</th><th>Everyone</th><th>Adventure crew</th><th>Relaxed crew and kids</th></tr></thead><tbody>{ag}</tbody></table></div>
-    <h3>Preliminary pricing</h3>
-    <div class="scroll"><table class="pricing"><thead><tr><th>Line</th><th class="num">Low</th><th class="num">High</th><th>Basis</th></tr></thead><tbody>{pr}</tbody></table></div>
+    <h3>A rough week</h3>
+    <div class="scroll"><table class="agenda"><thead><tr><th>Day</th><th>All of us</th><th>Whoever is up for it</th><th>Easier days, and the kids</th></tr></thead><tbody>{ag}</tbody></table></div>
+    <h3>Rough prices</h3>
+    <div class="scroll"><table class="pricing"><thead><tr><th>What</th><th class="num">Low</th><th class="num">High</th><th>Where the number comes from</th></tr></thead><tbody>{pr}</tbody></table></div>
     <h3>Links</h3>
     <div class="links">{links}</div>
   </div>
@@ -73,7 +73,7 @@ for t in data['trips']:
     low = sum(p['low'] for p in t['pricing']); high = sum(p['high'] for p in t['pricing'])
     hero = photo_block(t['key'], 'hero')
     img = f'<img src="{E(hero.get("thumb", hero["local"]))}" alt="{E(t["name"])}">' if hero else f'<div class="ph" style="background:{ACCENT[t["key"]]}"></div>'
-    cards += f'<a class="ocard" href="#{t["key"]}" style="--acc:{ACCENT[t["key"]]}">{img}<div class="ocard-body">' + (f'<span class="tag">{E(t["tag"])}</span>' if t.get('tag') else '') + f'<h3>{E(t["name"])}</h3><p class="small">{E(t["place"])}</p><p>{E(t["pitch"].split(". ")[0])}.</p><p class="band">{money(low)} to {money(high)} for ten</p></div></a>'
+    cards += f'<a class="ocard" href="#{t["key"]}" style="--acc:{ACCENT[t["key"]]}">{img}<div class="ocard-body">' + (f'<span class="tag">{E(t["tag"])}</span>' if t.get('tag') else '') + f'<h3>{E(t["name"])}</h3><p class="small">{E(t["place"])}</p><p>{E(t["pitch"].split(". ")[0])}.</p><p class="band">Roughly {money(low)} to {money(high)} for ten</p></div></a>'
 rules = ''.join(f'<li>{E(r)}</li>' for r in s['rules'])
 nav = ''.join(f'<a href="#{t["key"]}">{E(t["name"])}</a>' for t in data['trips'])
 mapdata = json.dumps({'origins': s['origins'], 'trips': [{'key': t['key'], 'name': t['name'], 'lat': t['lat'], 'lng': t['lng'], 'zoom': t['zoom'], 'markers': t['markers'], 'acc': ACCENT[t['key']]} for t in data['trips']]})
@@ -153,19 +153,19 @@ footer{{margin:60px 0 40px;color:var(--muted);font-size:.85rem}} footer ul{{padd
 <nav class="tabs"><a href="#overview">Overview</a>{nav}</nav>
 <main>
 <section id="overview" class="wrap">
-  <h3>The four options</h3>
+  <h3>Places we're looking at</h3>
   <div class="ocards">{cards}</div>
-  <h3>Where they are from home</h3>
+  <h3>Where they are, from home</h3>
   <div id="map-overview" class="map"></div>
-  <p class="small">Dashed lines run from Norfolk; Richmond and Austin fly their own routings. Click a pin for the name.</p>
-  <div class="party"><h4>Who is going</h4><p>{E(s['party'])}</p><h4>What every option has to do</h4><ul>{rules}</ul></div>
-  <p class="small">How to read the prices: each line is a low and a high for all ten people for the week, built from published rates where they exist and estimates everywhere else. The one-line total is the sum of the lines. Houses have not been quoted for these dates yet, and that line is the swing factor everywhere.</p>
+  <p class="small">Dashed lines run from Norfolk. Richmond and Austin would fly their own routings. Click a pin for the name.</p>
+  <div class="party"><h4>Who'd be going</h4><p>{E(s['party'])}</p><h4>Things we're trying to keep in mind</h4><ul>{rules}</ul></div>
+  <p class="small">About the prices: each line is a rough low and high for all ten of us for the week, from published rates where they exist and guesses everywhere else. The total is just the lines added up. No house has been quoted for these dates yet, and that line moves everything.</p>
 </section>
 {''.join(section(t) for t in data['trips'])}
 </main>
 <div id="lightbox" role="dialog" aria-label="Photo"><img alt=""><div class="cap"></div></div>
 <footer class="wrap">
-  <p>Built {E(s['built'])} from the family trip research. Preliminary throughout. Prices are estimates for ten at holiday-week rates unless marked published. Maps: OpenStreetMap contributors. Photos as credited below.</p>
+  <p>Put together {E(s['built'])}. All of it is rough. Prices are guesses for ten at holiday-week rates unless marked published. Maps: OpenStreetMap contributors. Photos as credited below.</p>
   <ul>{credits}</ul>
 </footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>

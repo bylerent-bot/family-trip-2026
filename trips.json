@@ -1,16 +1,16 @@
 {
   "site": {
     "title": "The Week After Christmas",
-    "subtitle": "Six places that work for all ten of us. Sunday December 27, 2026 to Sunday January 3, 2027.",
+    "subtitle": "Six places we're kicking around for the week after Christmas. Sunday December 27, 2026 to Sunday January 3, 2027.",
     "built": "October 21, 2026",
-    "disclaimer": "Preliminary. Nothing is booked, quoted or decided. Every price is an estimate for ten people at holiday-week rates unless it says published. Flight days are as the airlines announced them and still need to be checked for these dates.",
-    "party": "Mom, Patrick and Sara, Andrew and Trisha, Kristina and Michael with Bennett (7) and Taylor (3), and Daniel. Seven fly from Norfolk, two from Richmond, one from Austin.",
+    "disclaimer": "These are rough ideas. Nothing is booked or decided. Prices are rough guesses for ten of us at holiday-week rates unless they say published, and the flight days are what the airlines announced, so they still need checking for our dates.",
+    "party": "Mom, Patrick and Sara, Andrew and Trisha, Kristina and Michael with Bennett (7) and Taylor (3), and Daniel. Seven of us would fly from Norfolk, two from Richmond and one from Austin.",
     "rules": [
-      "One roof, a bedroom for each couple, Mom, Daniel and the kids: six doors, or five plus a real bunk room.",
-      "A base you can walk out of: a safe town with things to do on foot, and cars for the group. No compound.",
-      "Mom's rule: a nice place to stay and walking options, one anchor a day, split up for specific things and reconvene for dinner.",
-      "Food: Sara is strictly gluten-free, no cross-contact, and eats real butter, dairy, eggs and meat. Kristina has a tree-nut allergy. Mom is pescatarian. Every option runs on a house kitchen plus one or two chef nights.",
-      "The adventure crew (Patrick, Daniel, Andrew, Mom, Kristina) and the relaxed crew (Sara, Trisha, Michael, the kids) each get a real week, in parallel, from the same house."
+      "One house for all of us, ideally with a bedroom for each couple, Mom, Daniel and the kids. Six bedrooms, or five plus a good bunk room.",
+      "Somewhere we could walk out the door into a town with things to do, plus cars for the group, rather than a compound.",
+      "Mom's idea of a good week: a nice place to stay, places to walk, one plan a day, splitting up for things and getting back together for dinner.",
+      "A kitchen at the house and maybe a chef night or two, keeping the couple of allergies in the family in mind.",
+      "Some of us might want to ski, surf or dive most days and some of us might want easier days with the kids. The idea would be room for both from the same house, with everyone together for dinner."
     ],
     "origins": [
       {
@@ -41,43 +41,43 @@
       "tag": "",
       "lat": 18.34,
       "lng": -67.25,
-      "pitch": "A pool house in Rincón, a surf town you walk around, with a night in Old San Juan on the way in and the way out so nobody drives the west side in the dark with Taylor. No passports, nonstops from Norfolk and Richmond, US medicine, sea level, real winter surf and a boat dive for the crew, pool and the calm side of the beach for the kids.",
+      "pitch": "A pool house in Rincón, a surf town you can walk around, with a night in Old San Juan on the way in and on the way out so nobody ends up driving the west side in the dark with Taylor. There are nonstops from Norfolk and Richmond, real winter surf and a boat dive for anyone who wants it, and the pool and the calm side of the beach for the kids.",
       "why": [
-        "US soil: no passports, US hospitals and pharmacies, dollars, phones that just work.",
-        "JetBlue announced a Sunday nonstop from Norfolk and a Tuesday, Thursday, Saturday nonstop from Richmond. Daniel connects once from Austin.",
-        "Real adventure from the door: December surf at Maria's, Domes and Sandy Beach, a two-tank boat dive at Desecheo Island, the Gozalandia waterfall, an Isabela surf day.",
-        "Old San Juan on foot at each end: El Morro, the walls, a good dinner."
+        "It's the US, so US hospitals and pharmacies, dollars and phones that just work.",
+        "JetBlue announced a Sunday nonstop from Norfolk and a Tuesday, Thursday and Saturday nonstop from Richmond. Daniel would connect once from Austin.",
+        "There's a lot to do right from the house: December surf at Maria's, Domes and Sandy Beach, a two-tank boat dive at Desecheo Island, the Gozalandia waterfall, maybe an Isabela surf day.",
+        "Old San Juan on foot at each end, with El Morro, the walls and a good dinner."
       ],
       "catch": [
-        "December is big-wave season, so the kids stay on the pool and the calm-side beaches, and reef snorkeling is a summer thing.",
-        "Gluten-free restaurants are thin. Most meals are at the house, with a chef for two nights.",
-        "The best six-bedroom house found is about a mile from the plaza. The one that is an easy walk to town has five bedrooms.",
-        "The Norfolk nonstop does not fly Saturdays, and its clock times still need to be confirmed on jetblue.com.",
-        "Rincón has no hospital. The nearest ER, with a separate one for kids, is in Aguadilla, about 25 to 30 minutes away by an estimate we still need to drive-check."
+        "December is big-wave season, so the kids would probably stick to the pool and the calm-side beaches. Reef snorkeling is more of a summer thing.",
+        "There aren't many restaurants in town, so most meals would likely be at the house, maybe with a chef for two nights.",
+        "The six-bedroom house we'd probably ask about first is about a mile from the plaza. The one that's an easy walk to town has five bedrooms.",
+        "The Norfolk nonstop doesn't fly Saturdays, and its times still need to be confirmed on jetblue.com.",
+        "Rincón has no hospital. The nearest ER, with a separate one for kids, is in Aguadilla, roughly 25 to 30 minutes away, though we haven't drive-checked that."
       ],
-      "weather": "Dry-season tropics: highs in the mid-80s, lows around 70, brief trade-wind showers, sea about 80 degrees. Winter swell on the west coast.",
+      "weather": "Dry-season tropics, with highs in the mid-80s, lows around 70, quick trade-wind showers and the sea about 80 degrees. The west coast gets winter swell.",
       "getting_there": [
         {
           "from": "Norfolk (7)",
-          "how": "JetBlue nonstop to San Juan, announced for Mon, Wed, Fri and Sun (flight 929 out, 928 back). Sunday Dec 27 out and Sunday Jan 3 back fit the pattern; Mon Dec 28 and Mon Jan 4 are the fallbacks. About 3.5 hours in the air.",
+          "how": "JetBlue nonstop to San Juan, announced for Mon, Wed, Fri and Sun (flight 929 out, 928 back). Sunday Dec 27 out and Sunday Jan 3 back fit that pattern, and Mon Dec 28 and Mon Jan 4 could work too. About 3.5 hours in the air.",
           "est": "$600 to $1,000 a seat",
           "link": "https://www.jetblue.com/flights-to-san-juan"
         },
         {
           "from": "Richmond (2)",
-          "how": "JetBlue nonstop Tue, Thu and Sat only, so Andrew and Trisha drive to Norfolk and fly with the group, or fly Sat Dec 26 and Sat Jan 2 with an extra San Juan night, or connect once via Charlotte or Atlanta on the Sundays.",
+          "how": "The JetBlue nonstop only flies Tue, Thu and Sat, so Andrew and Trisha could drive to Norfolk and fly with everyone, fly Sat Dec 26 and Sat Jan 2 with an extra San Juan night, or connect once through Charlotte or Atlanta on the Sundays.",
           "est": "$600 to $1,000 a seat",
           "link": "https://flyrichmond.com/jetblue-announces-nonstop-route-to-san-juan-from-ric/"
         },
         {
           "from": "Austin (1)",
-          "how": "One stop via Charlotte, Dallas, Atlanta or Houston. Southwest's seasonal Austin to San Juan nonstop is unconfirmed for the holiday window.",
+          "how": "One stop through Charlotte, Dallas, Atlanta or Houston. Southwest's seasonal Austin to San Juan nonstop isn't confirmed for the holidays.",
           "est": "$600 to $1,000",
           "link": "https://www.southwest.com/en/flights/flights-from-austin-to-san-juan"
         },
         {
           "from": "On the ground",
-          "how": "Two seven-seat vehicles for the week. San Juan to Rincón is about 2.5 hours, done in daylight both ways.",
+          "how": "Two seven-seat vehicles for the week. San Juan to Rincón is about 2.5 hours, and the idea would be to drive it in daylight both ways.",
           "est": "$1,600 to $2,800",
           "link": ""
         }
@@ -85,79 +85,79 @@
       "houses": [
         {
           "name": "Casa Cooky, Corcega side",
-          "detail": "Six bedrooms as three two-bedroom suites, 6.5 baths. The whole property is fenced with privacy walls and a code-access gate, with a private pool inside (whether the pool has its own fence is a question for the host). Steps from the beach; the plaza is about a mile down the road. Air conditioning in the bedrooms only.",
+          "detail": "Six bedrooms as three two-bedroom suites, 6.5 baths. The whole property is walled and fenced with a code gate, and there's a private pool inside (we'd want to ask the host whether the pool has its own fence). Steps from the beach, and the plaza is about a mile down the road. Air conditioning is in the bedrooms only.",
           "price": "Estimate $1,200 to $2,000 a night, unquoted",
           "url": "https://airbnb.com/h/casacookyrincon",
-          "verdict": "Best fence and six doors. Quote first."
+          "verdict": "Good fence and six bedrooms. Worth asking about first."
         },
         {
           "name": "Maria's Luxury Villa, Maria's Beach",
-          "detail": "Eight bedrooms, two full kitchens, a full-size pool and two hot tubs, a generator and Starlink. Gated oceanfront on a surf break, so the kids use the pool.",
+          "detail": "Eight bedrooms, two full kitchens, a full-size pool and two hot tubs, a generator and Starlink. It's gated and oceanfront on a surf break, so the kids would use the pool.",
           "price": "Listed at $2,350 a night in high season in earlier research, to re-check, with a six-night holiday minimum, taxes and housekeeping included, about $14,100 for Dec 28 to Jan 3",
           "url": "https://www.airbnb.com/rooms/3292409",
-          "verdict": "Strongest house systems and the only published rate. Quote second."
+          "verdict": "A solid setup and the only published rate we found. Maybe the second one to ask about."
         },
         {
           "name": "Ensenada five-bedroom, near Puntas",
-          "detail": "Five bedrooms including a double-plus-bunk room for the kids, a main-level bedroom with a full bath for Mom, gated and walled, private pool, backup generator. The listing calls the plaza an easy walk.",
+          "detail": "Five bedrooms, including a double-plus-bunk room for the kids and a main-level bedroom with a full bath for Mom. Gated and walled, with a private pool and a backup generator. The listing says the plaza is an easy walk.",
           "price": "Not shown without dates",
           "url": "https://www.airbnb.com.sg/rooms/16755813",
-          "verdict": "The walk-to-town house. Five doors, so the kids share with Kristina and Michael."
+          "verdict": "The one we could walk to town from. Five bedrooms, so the kids would share with Kristina and Michael."
         },
         {
           "name": "Rincón Beach House at Sandy Beach, Puntas",
-          "detail": "Six bedrooms in two units with two kitchens, whole-home generators and solar, a private pool, a minute's walk to Sandy Beach. About 15 minutes by car to the plaza.",
-          "price": "About $890 to $1,030 a night off-peak; holiday rate unknown",
+          "detail": "Six bedrooms in two units with two kitchens, whole-home generators and solar, a private pool, and Sandy Beach a minute's walk away. About 15 minutes by car to the plaza.",
+          "price": "About $890 to $1,030 a night off-peak, holiday rate unknown",
           "url": "https://www.vrbo.com/3859437",
-          "verdict": "Six doors in the surf pocket. A car to town."
+          "verdict": "Six bedrooms right by the surf, though we'd need a car to get to town."
         }
       ],
       "agenda": [
         {
           "day": "Sun Dec 27",
-          "all": "Fly in. Sleep in Old San Juan. Dinner in the old city.",
+          "all": "Fly in and sleep in Old San Juan. Dinner in the old city.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Mon Dec 28",
-          "all": "Drive west in daylight with a grocery stop. Villa by early afternoon. Pool, then sunset at the Punta Higuera lighthouse.",
+          "all": "Drive west in daylight with a grocery stop and get to the house by early afternoon. Pool, then maybe sunset at the Punta Higuera lighthouse.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Tue Dec 29",
           "all": "Dinner at the house.",
-          "crew": "Dawn surf at Maria's or Domes. Lessons on a small-wave beach for Andrew, Daniel and Kristina.",
-          "relax": "Corcega shallows, pool, a long lunch, the town on foot."
+          "crew": "Dawn surf at Maria's or Domes for whoever wants it, and lessons on a small-wave beach for Andrew, Daniel and Kristina.",
+          "relax": "The Corcega shallows, the pool, a long lunch, walking around town."
         },
         {
           "day": "Wed Dec 30",
-          "all": "First chef night.",
-          "crew": "Desecheo two-tank boat dive for Mom and the certified divers, seas permitting. Patrick snorkels or fishes.",
-          "relax": "Massage at the house. Sara's Pilates if the studio checks out. Kids in the pool."
+          "all": "Maybe the first chef night.",
+          "crew": "A Desecheo two-tank boat dive for Mom and the certified divers if the seas cooperate. Patrick could snorkel or fish.",
+          "relax": "Massages at the house, kids in the pool."
         },
         {
           "day": "Thu Dec 31",
-          "all": "Gozalandia waterfall in the morning, about an hour away, splash pool for the kids, picnic. Kids' dinner early, New Year's Eve chef dinner on the terrace.",
+          "all": "Gozalandia waterfall in the morning, about an hour away, with a splash pool for the kids and a picnic. Kids eat early, then a New Year's Eve chef dinner on the terrace.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Fri Jan 1",
-          "all": "A free day. Pool, cards, a lighthouse walk. Snorkel at Steps only if the sea is flat.",
-          "crew": "Optional Isabela surf run (Jobos, Shacks).",
-          "relax": "Sunset beach horseback ride with Bennett and Mom (confirm the stable runs on New Year's Day)."
+          "all": "A free day. Pool, cards, a lighthouse walk, and snorkeling at Steps if the sea is flat.",
+          "crew": "Maybe an Isabela surf run (Jobos, Shacks).",
+          "relax": "A sunset horseback ride on the beach with Bennett and Mom (we'd need to check that the stable runs on New Year's Day)."
         },
         {
           "day": "Sat Jan 2",
-          "all": "Drive east. Old San Juan on foot: El Morro, the walls, dinner. Hotel night.",
+          "all": "Drive east. Old San Juan on foot, with El Morro, the walls and dinner. A hotel night.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Sun Jan 3",
-          "all": "Flights home. Andrew and Trisha can take the Saturday Richmond nonstop the day before.",
+          "all": "Fly home. Andrew and Trisha could take the Saturday Richmond nonstop the day before.",
           "crew": "",
           "relax": ""
         }
@@ -167,13 +167,13 @@
           "item": "Villa, six nights",
           "low": 7400,
           "high": 14000,
-          "note": "Casa Cooky estimate to Maria's published rate"
+          "note": "From the Casa Cooky guess up to Maria's published rate"
         },
         {
           "item": "Flights, ten seats",
           "low": 6000,
           "high": 10000,
-          "note": "Holiday-week nonstops and one-stops; Taylor needs a seat"
+          "note": "Holiday-week nonstops and one-stops, and Taylor needs a seat"
         },
         {
           "item": "Old San Juan, two nights, five rooms",
@@ -191,7 +191,7 @@
           "item": "Chef, two dinners",
           "low": 1500,
           "high": 3200,
-          "note": "Published per-guest menus run $140 to $220; two nights for ten"
+          "note": "Published per-guest menus run $140 to $220, for two nights for ten"
         },
         {
           "item": "Dive, lessons, horses, waterfall",
@@ -241,11 +241,7 @@
         ],
         "Food": [
           {
-            "label": "Wabbles Milk Bar, Rincón (tagged dedicated gluten-free, to confirm)",
-            "url": "https://www.atly.com/best/gluten-free/puerto-rico"
-          },
-          {
-            "label": "Morton's at the Caribe Hilton, San Juan (gluten-free menu)",
+            "label": "Morton's at the Caribe Hilton, San Juan",
             "url": "https://www.mortons.com/sanjuan/"
           },
           {
@@ -253,7 +249,7 @@
             "url": "https://www.takeachef.com/en-en/chef/marta-pascual-marta"
           },
           {
-            "label": "Rincon Caterers (lists nut-free and gluten-free)",
+            "label": "Rincon Caterers, private chef and catering",
             "url": "https://www.weddingwire.com/biz/rincon-caterers/72115b11e4328218.html"
           }
         ],
@@ -357,21 +353,21 @@
       "tag": "",
       "lat": 27.4953,
       "lng": -82.7115,
-      "pitch": "A pool house a short walk from the Gulf on a bike-everywhere island with walkable villages. Nonstop flights from all three airports, beach and pool every day for the kids, and Sarasota and St. Petersburg within an hour. No surf; the Gulf is usually flat in December.",
+      "pitch": "A pool house a short walk from the Gulf, on an island where you can bike everywhere and walk the little villages. There are nonstops from all three airports, beach and pool every day for the kids, and Sarasota and St. Petersburg within an hour. No surf though, since the Gulf is usually flat in December.",
       "why": [
         "About six hours door to door. Breeze flies Norfolk to Tampa nonstop, Richmond has had the same, and Austin has nonstops to Tampa.",
-        "Beach and pool every day for a three-year-old, bikes for a seven-year-old, Pine Avenue and Bridge Street for the adults.",
-        "Sarasota and St. Petersburg are 30 to 60 minutes away: the Ringling, Selby Gardens' holiday lights (2026 dates to confirm), the Chihuly Collection (Mom's July trip, continued), the Mote aquarium.",
-        "Crystal River manatee snorkel in peak season, about 2 to 2.5 hours up the coast, a boat day to Egmont Key, mangrove paddles."
+        "Beach and pool every day for a three-year-old, bikes for a seven-year-old, and Pine Avenue and Bridge Street for the adults.",
+        "Sarasota and St. Petersburg are 30 to 60 minutes away, with the Ringling, Selby Gardens' holiday lights (2026 dates still to confirm), the Chihuly Collection (picking up from Mom's July trip) and the Mote aquarium.",
+        "A Crystal River manatee snorkel in peak season, about 2 to 2.5 hours up the coast, a boat day to Egmont Key, and mangrove paddles."
       ],
       "catch": [
-        "No surf, and the Gulf is usually flat in December; the crew's days are a manatee morning, a boat day and bikes.",
-        "Gulf water runs mid to upper sixties, so the pool carries the swimming.",
-        "The flagship listing has five true bedrooms plus a den with a bunk and trundle; confirm a real sixth room.",
-        "Holiday-week availability on the island is the real question this late. Listed peak rates for six-bedroom houses run $1,755 to $2,251 a night before taxes and fees (checked Oct 21).",
-        "One celiac-aware restaurant on the island (The Waterfront, a single undated review). Most meals at the house, with a chef for New Year's Eve."
+        "No surf, and the Gulf is usually flat in December, so the more active days would be a manatee morning, a boat day and bikes.",
+        "Gulf water runs in the mid to upper sixties, so the pool would probably do most of the swimming duty.",
+        "The main listing has five true bedrooms plus a den with a bunk and trundle, so we'd want to confirm whether there's a real sixth room.",
+        "The big question this late is holiday-week availability on the island. Listed peak rates for six-bedroom houses run $1,755 to $2,251 a night before taxes and fees (checked Oct 21).",
+        "There are a few restaurants on the island, but most meals would probably be at the house, maybe with a chef for New Year's Eve."
       ],
-      "weather": "Highs around 70 to 75, lows in the 50s, Gulf water in the high 60s. Beach and pool weather most days; a cold front can bring wind.",
+      "weather": "Highs around 70 to 75, lows in the 50s, Gulf water in the high 60s. Beach and pool weather most days, though a cold front can bring wind.",
       "getting_there": [
         {
           "from": "Norfolk (7)",
@@ -381,13 +377,13 @@
         },
         {
           "from": "Richmond (2)",
-          "how": "Breeze nonstop to Tampa on last year's schedule, or Sarasota via Breeze; confirm the December days.",
+          "how": "Breeze flew nonstop to Tampa on last year's schedule, or there's Sarasota on Breeze. The December days still need checking.",
           "est": "$250 to $600 a seat",
           "link": "https://www.flybreeze.com/"
         },
         {
           "from": "Austin (1)",
-          "how": "Southwest nonstop to Tampa, about 3 daily on weekdays; Delta to Tampa and an Allegiant option to Sarasota (30 minutes from the island) to check.",
+          "how": "Southwest nonstop to Tampa, about 3 a day on weekdays. Delta to Tampa and an Allegiant option to Sarasota (30 minutes from the island) are worth a look too.",
           "est": "$250 to $600",
           "link": "https://www.southwest.com/en/flights/flights-from-austin-to-tampa"
         },
@@ -401,72 +397,72 @@
       "houses": [
         {
           "name": "Paradise Beach House, 403 42nd St, Holmes Beach",
-          "detail": "Three king masters, a queen room, a twin room and a den with a bunk and trundle, every bedroom en suite, heated pool, a short walk to the beach and shops.",
+          "detail": "Three king masters, a queen room, a twin room and a den with a bunk and trundle, every bedroom with its own bath, a heated pool, and a short walk to the beach and shops.",
           "price": "Estimate $2,000 to $3,500 a night for the holiday week, unquoted",
           "url": "https://www.redawning.com/rental-property/paradise-beach-house-holmes-beach",
-          "verdict": "Five true bedrooms plus the den. Quote and ask about the den."
+          "verdict": "Five true bedrooms plus the den. Worth asking for a quote and about the den."
         },
         {
           "name": "Emerald Kite six-bedroom retreat, Holmes Beach",
           "detail": "Six bedrooms, five baths, private pool.",
           "price": "Listed peak rate $1,755 a night before taxes and fees (checked Oct 21)",
           "url": "https://emeraldkite.com/vacation-rentals/anna-maria-island-holmes-beach-home-1020588/",
-          "verdict": "Six doors at the published peak rate."
+          "verdict": "Six bedrooms at the published peak rate."
         },
         {
           "name": "Emerald Kite luxury six-bedroom, Holmes Beach",
           "detail": "Six bedrooms, four baths, private pool.",
           "price": "Listed peak rate $2,251 a night before taxes and fees (checked Oct 21)",
           "url": "https://emeraldkite.com/vacation-rentals/anna-maria-island-holmes-beach-home-895375/",
-          "verdict": "Six doors; the pricier of the two."
+          "verdict": "Six bedrooms, the pricier of the two."
         }
       ],
       "agenda": [
         {
           "day": "Sun Dec 27",
-          "all": "Fly to Tampa, pick up the cars, Publix run, check in. Pool, then sunset at Bean Point.",
+          "all": "Fly to Tampa, pick up the cars, a Publix run, check in. Pool, then sunset at Bean Point.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Mon Dec 28",
-          "all": "Island day: bikes, the beach, Pine Avenue, lunch at The Waterfront.",
-          "crew": "Paddle the mangrove tunnels.",
-          "relax": "Sara's Pilates or a spa slot. Kids at the beach."
+          "all": "An island day with bikes, the beach, Pine Avenue and lunch at The Waterfront.",
+          "crew": "Paddling the mangrove tunnels.",
+          "relax": "A spa slot or the beach. Kids at the beach."
         },
         {
           "day": "Tue Dec 29",
           "all": "Dinner at the house.",
-          "crew": "Dawn departure for the Crystal River manatee snorkel, back mid-afternoon.",
-          "relax": "Mote SEA aquarium in Sarasota with the kids."
+          "crew": "An early start for the Crystal River manatee snorkel, back mid-afternoon.",
+          "relax": "The Mote SEA aquarium in Sarasota with the kids."
         },
         {
           "day": "Wed Dec 30",
-          "all": "Sarasota together: the Ringling (art, Ca' d'Zan, the circus museum for Bennett), then Selby Gardens' Lights in Bloom after dark (2026 dates to confirm).",
+          "all": "Sarasota together, with the Ringling (art, Ca' d'Zan, the circus museum for Bennett), then Selby Gardens' Lights in Bloom after dark (2026 dates still to confirm).",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Thu Dec 31",
           "all": "New Year's Eve chef dinner at the house.",
-          "crew": "Half-day boat charter: fishing, dolphins, Egmont Key. Wing-foil or kite if a front brings wind.",
-          "relax": "Beach, pool, spa. Mom's option: a plane checkout at Sarasota and a coastal flight."
+          "crew": "A half-day boat charter for fishing, dolphins and Egmont Key. Maybe wing-foil or kite if a front brings wind.",
+          "relax": "Beach, pool, spa. One idea for Mom: a plane checkout at Sarasota and a coastal flight."
         },
         {
           "day": "Fri Jan 1",
-          "all": "Slow beach day. Patrick's family photos at golden hour.",
+          "all": "A slow beach day, with Patrick taking family photos at golden hour.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Sat Jan 2",
-          "all": "St. Petersburg morning at the Chihuly Collection, waterfront lunch, back for sunset.",
+          "all": "A St. Petersburg morning at the Chihuly Collection, a waterfront lunch, back for sunset.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Sun Jan 3",
-          "all": "Checkout and the same nonstops home.",
+          "all": "Check out and take the same nonstops home.",
           "crew": "",
           "relax": ""
         }
@@ -476,13 +472,13 @@
           "item": "House, seven nights",
           "low": 15800,
           "high": 28000,
-          "note": "Listed peak rates $1,755 to $2,251 a night at the two Emerald Kite homes, up to the Paradise Beach House estimate; no holiday quote"
+          "note": "Listed peak rates of $1,755 to $2,251 a night at the two Emerald Kite homes, up to the Paradise Beach House guess. No holiday quote yet"
         },
         {
           "item": "Flights, ten seats",
           "low": 3000,
           "high": 6000,
-          "note": "Breeze, Southwest, Delta nonstops"
+          "note": "Breeze, Southwest and Delta nonstops"
         },
         {
           "item": "Two SUVs and bikes",
@@ -550,7 +546,7 @@
         ],
         "Food": [
           {
-            "label": "The Waterfront Restaurant, Anna Maria (dedicated gluten-free prep area, to confirm)",
+            "label": "The Waterfront Restaurant, Anna Maria",
             "url": "https://www.thewaterfrontrestaurant.net/"
           },
           {
@@ -652,32 +648,31 @@
       "tag": "",
       "lat": 40.644,
       "lng": -111.498,
-      "pitch": "An Old Town house with Main Street and the Town Lift at the door: five or six riding days from the house, a walkable Main Street for everyone else, a hot tub every night. It is cold, it sits near 7,000 feet, and half the party does not ski.",
+      "pitch": "An Old Town house with Main Street and the Town Lift right there, so the skiers could ride five or six days from the house and everyone else would have Main Street to walk, plus a hot tub every night. It's cold, it sits near 7,000 feet, and about half of us don't ski.",
       "why": [
-        "Park City Mountain from the Town Lift, a walk from the house, five or six riding days. Canyons Village on the same pass. A Big Cottonwood powder day for the crew.",
-        "Main Street: shops, galleries, restaurants, the free trolley, a hot tub at the house every night.",
-        "Utah Olympic Park and the Comet bobsled for Kristina, who has wanted to bobsled since Lake Placid (season dates to confirm).",
-        "The Viking Yurt sleigh-ride dinner for Mom: the music-with-dinner evening she writes up.",
-        "A nonstop for Daniel from Austin to Salt Lake."
+        "Park City Mountain from the Town Lift, a walk from the house, for five or six riding days. Canyons Village is on the same pass, and there could be a Big Cottonwood powder day too.",
+        "Main Street has shops, galleries, restaurants and the free trolley, and there'd be a hot tub at the house every night.",
+        "Utah Olympic Park and the Comet bobsled for Kristina, who's wanted to bobsled since Lake Placid (season dates still to confirm).",
+        "The Viking Yurt sleigh-ride dinner, the kind of music-with-dinner evening Mom likes.",
+        "Daniel would have a nonstop from Austin to Salt Lake."
       ],
       "catch": [
-        "Half the party does not ski or ride, so the week leans on the village, the spa, tubing and skating for them.",
-        "Altitude: Old Town sits near 7,000 feet.",
-        "A cold week for the relaxed crew, with highs in the 20s and 30s.",
-        "Peak-week pricing: a six-bedroom Old Town house over New Year's runs $35,000 to $55,000 for the week, before flights and lift tickets.",
-        "Luna's Kitchen is the one dedicated gluten-free kitchen found in town, counter-service and closed Sundays; the two-kitchen house gives Sara her own kitchen."
+        "About half of us don't ski or ride, so the week would lean on the village, the spa, tubing and skating for everyone else.",
+        "It's high up. Old Town sits near 7,000 feet.",
+        "It would be a cold week for anyone not skiing, with highs in the 20s and 30s.",
+        "Peak-week pricing is steep. A six-bedroom Old Town house over New Year's runs $35,000 to $55,000 for the week, before flights and lift tickets."
       ],
-      "weather": "Cold, dry, sunny days: highs in the 20s and 30s, lows in the teens. Snow depends on the year; December averages 30 to 65 inches depending on the source.",
+      "weather": "Cold, dry and sunny, with highs in the 20s and 30s and lows in the teens. Snow depends on the year. December averages 30 to 65 inches depending on the source.",
       "getting_there": [
         {
           "from": "Norfolk (7)",
-          "how": "One stop to Salt Lake City on Delta via Atlanta, or United via Denver or Washington. A nonstop may exist some days; check Dec 27 and Jan 3. Then 40 minutes to Old Town.",
+          "how": "One stop to Salt Lake City on Delta through Atlanta, or United through Denver or Washington. There may be a nonstop some days, so Dec 27 and Jan 3 are worth checking. Then 40 minutes to Old Town.",
           "est": "$700 to $1,200 a seat",
           "link": "https://www.delta.com/"
         },
         {
           "from": "Richmond (2)",
-          "how": "One stop via Atlanta, Denver or Washington.",
+          "how": "One stop through Atlanta, Denver or Washington.",
           "est": "$700 to $1,200 a seat",
           "link": "https://www.delta.com/"
         },
@@ -689,7 +684,7 @@
         },
         {
           "from": "On the ground",
-          "how": "Two AWD SUVs or a 12-passenger van. Groceries at Kimball Junction on the way in.",
+          "how": "Two AWD SUVs or a 12-passenger van, with groceries at Kimball Junction on the way in.",
           "est": "$1,500 to $3,000",
           "link": ""
         }
@@ -697,30 +692,30 @@
       "houses": [
         {
           "name": "Old Town, two kitchens, hot tub, 4 minutes to everything",
-          "detail": "Six bedrooms, five baths, sleeps 14: two kings, three queens and a twin room, two kitchens, a hot tub and a fireplace. A three-minute walk to Main Street and about 11 minutes on foot to the Town Lift.",
-          "price": "Unquoted; the verifiers put the holiday week at $35,000 to $55,000 for a six-bedroom Old Town house",
+          "detail": "Six bedrooms, five baths, sleeps 14, with two kings, three queens and a twin room, two kitchens, a hot tub and a fireplace. A three-minute walk to Main Street and about 11 minutes on foot to the Town Lift.",
+          "price": "Unquoted. Rough guesses put the holiday week at $35,000 to $55,000 for a six-bedroom Old Town house",
           "url": "https://www.vrbo.com/116450",
-          "verdict": "The two kitchens solve Sara's food. Quote first. Likely the same house as the Airbnb listing below."
+          "verdict": "Two kitchens and a hot tub. Worth asking about first. It looks like the same house as the Airbnb listing below."
         },
         {
           "name": "Park City Retreat, private deck and hot tub",
           "detail": "Six bedrooms, five baths, eight beds, sleeps 14, Old Town.",
           "price": "No price shown without dates",
           "url": "https://www.airbnb.com/rooms/4898636",
-          "verdict": "Probably the same house on a second platform."
+          "verdict": "Probably the same house on a second site."
         },
         {
           "name": "Spacious Mountain Oasis 1060",
-          "detail": "Six bedrooms, sleeps 12, hot tub and an outdoor lounge.",
+          "detail": "Six bedrooms, sleeps 12, with a hot tub and an outdoor lounge.",
           "price": "Unquoted for the holiday week",
           "url": "https://www.redawning.com/rental-property/spacious-mountain-oasis-1060-hot-tub-and-outdoor-lounge-park-city",
-          "verdict": "The backup."
+          "verdict": "Another one to keep in mind."
         }
       ],
       "agenda": [
         {
           "day": "Sun Dec 27",
-          "all": "Fly to Salt Lake (Daniel nonstop; Norfolk and Richmond via Atlanta). 40 minutes to Old Town, groceries at Kimball Junction, hot tub, a simple dinner at the house.",
+          "all": "Fly to Salt Lake (Daniel nonstop, Norfolk and Richmond through Atlanta). 40 minutes to Old Town, groceries at Kimball Junction, the hot tub and a simple dinner at the house.",
           "crew": "",
           "relax": ""
         },
@@ -728,35 +723,35 @@
           "day": "Mon Dec 28",
           "all": "Family dinner at the house.",
           "crew": "Ride Park City Mountain from the Town Lift.",
-          "relax": "Ski school for Bennett if he wants it, snow play for Taylor. Sara at Lagree, then lunch at Luna's Kitchen. Michael and Trisha walk Main Street."
+          "relax": "Ski school for Bennett if he wants it and snow play for Taylor. Lunch at Luna's Kitchen. Michael and Trisha could walk Main Street."
         },
         {
           "day": "Tue Dec 29",
           "all": "Dinner out at Riverhorse on Main.",
           "crew": "Ride the Canyons side.",
-          "relax": "Sledding at the house or a snow-play afternoon with the kids, then a spa afternoon."
+          "relax": "Sledding at the house or a snow-play afternoon with the kids, then maybe a spa afternoon."
         },
         {
           "day": "Wed Dec 30",
-          "all": "Utah Olympic Park in the morning, Kristina's bobsled if the season dates allow. Adults at the Viking Yurt sleigh-ride dinner while a sitter has the kids.",
+          "all": "Utah Olympic Park in the morning, with Kristina's bobsled if the season dates work out. The adults could do the Viking Yurt sleigh-ride dinner while a sitter has the kids.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Thu Dec 31",
-          "all": "Half-day riding, then the New Year's Eve chef dinner at the house and Main Street fireworks for whoever is awake.",
+          "all": "A half day of riding, then the New Year's Eve chef dinner at the house and Main Street fireworks for whoever's still awake.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Fri Jan 1",
-          "all": "Slow morning.",
-          "crew": "The big day: a Big Cottonwood powder run, or a guided backcountry day for the brothers if conditions allow.",
-          "relax": "Sara and Trisha Nordic or snowshoe. Kids skate. Mom's scenic-flight add-on."
+          "all": "A slow morning.",
+          "crew": "Maybe a big day, a Big Cottonwood powder run, or a guided backcountry day for the brothers if conditions allow.",
+          "relax": "Nordic or snowshoeing for whoever wants it, skating for the kids, and maybe a scenic flight for Mom."
         },
         {
           "day": "Sat Jan 2",
-          "all": "Last laps for the crew, a Deer Valley morning for the skiers, pack.",
+          "all": "Last laps, a Deer Valley morning for the skiers, and packing.",
           "crew": "",
           "relax": ""
         },
@@ -772,7 +767,7 @@
           "item": "House, seven nights",
           "low": 35000,
           "high": 55000,
-          "note": "Six-bedroom Old Town, holiday week, unquoted"
+          "note": "Six-bedroom Old Town, holiday week, not quoted yet"
         },
         {
           "item": "Flights, ten seats",
@@ -784,7 +779,7 @@
           "item": "Lift access, five riders, five or six days",
           "low": 4500,
           "high": 7500,
-          "note": "Epic Day Passes bought before the early-December deadline; window rates roughly double"
+          "note": "Epic Day Passes bought before the early-December deadline. Window rates are roughly double"
         },
         {
           "item": "Ski school for Bennett, if he wants it",
@@ -817,7 +812,7 @@
           "note": "Estimate"
         },
         {
-          "item": "Viking Yurt, bobsled, spa, Lagree",
+          "item": "Viking Yurt, bobsled, spa",
           "low": 3000,
           "high": 5000,
           "note": "Estimate"
@@ -852,16 +847,12 @@
         ],
         "Food": [
           {
-            "label": "Luna's Kitchen, dedicated gluten-free",
+            "label": "Luna's Kitchen",
             "url": "https://www.visitparkcity.com/listing/lunas-kitchen/22779/"
           },
           {
             "label": "Riverhorse on Main",
             "url": "https://www.riverhorseparkcity.com/"
-          },
-          {
-            "label": "Peak 45 Lagree, Park City",
-            "url": "https://www.peak45.com/"
           }
         ],
         "Flights": [
@@ -942,43 +933,43 @@
       "tag": "",
       "lat": 35.5951,
       "lng": -82.5515,
-      "pitch": "A six-bedroom house with a hot tub fifteen minutes from downtown, about seven hours of driving from Virginia Beach, eight to nine with stops. Biltmore at Christmas, the Grove Park spa and gingerbread houses, a dedicated gluten-free restaurant that serves real food, and skiing at Cataloochee as a bonus, not a plan.",
+      "pitch": "A six-bedroom house with a hot tub fifteen minutes from downtown, about seven hours of driving from Virginia Beach, or eight to nine with stops. Biltmore at Christmas, the Grove Park spa and gingerbread houses, and maybe skiing at Cataloochee as a bonus rather than the plan.",
       "why": [
-        "Drive down: no airports for nine of the ten, and three family cars for the week.",
-        "Biltmore's Candlelight Christmas Evening, Olmsted's gardens, the Grove Park Inn's National Gingerbread House display.",
-        "Posana downtown has been fully gluten-free since 2009 and serves steak, short rib and lobster gnocchi.",
-        "A hike-and-spa week for the crew, with Cataloochee or a Sugar Mountain day when the snowmaking holds, and Bent Creek or DuPont for bikes.",
-        "A fireplace, a hot tub and everyone under one roof: the kind of lodging Mom writes up."
+        "We could drive down, so no airports for nine of the ten of us, and we'd have three family cars for the week.",
+        "Biltmore's Candlelight Christmas Evening, Olmsted's gardens, and the Grove Park Inn's National Gingerbread House display.",
+        "Posana downtown does steak, short rib and lobster gnocchi.",
+        "Hikes and the spa, with a Cataloochee or Sugar Mountain day if the snowmaking holds, and Bent Creek or DuPont for bikes.",
+        "A fireplace, a hot tub and everyone under one roof, the kind of place Mom likes."
       ],
       "catch": [
-        "Cataloochee gets about 5 inches of natural snow in December and runs on snowmaking; a warm spell closes it.",
-        "Snow in town is unlikely; December runs a 51-degree high and a 31-degree low.",
-        "The heated pool at Asheville 12 is a paid extra and unconfirmed for winter.",
-        "Daniel's Austin flight is a connection or a long drive; a seasonal Allegiant nonstop is unconfirmed for December."
+        "Cataloochee gets about 5 inches of natural snow in December and runs on snowmaking, so a warm spell can close it.",
+        "Snow in town is unlikely. December runs a 51-degree high and a 31-degree low.",
+        "The heated pool at Asheville 12 costs extra and isn't confirmed for winter.",
+        "Daniel would be looking at a connection or a long drive from Austin. A seasonal Allegiant nonstop isn't confirmed for December."
       ],
-      "weather": "December highs around 51, lows around 31, snow in town unlikely. The ski areas run on snowmaking and a warm week can shut them.",
+      "weather": "December highs around 51 and lows around 31, with snow in town unlikely. The ski areas run on snowmaking, and a warm week can shut them.",
       "getting_there": [
         {
           "from": "Norfolk (7)",
-          "how": "Drive: about 430 miles, 8 to 9 hours with stops and a three-year-old. Flying is one stop via Charlotte to Asheville.",
+          "how": "Drive about 430 miles, 8 to 9 hours with stops and a three-year-old. Flying would be one stop through Charlotte to Asheville.",
           "est": "$120 to $200 in gas per car, or $600 to $800 a seat to fly",
           "link": "https://flyavl.com/"
         },
         {
           "from": "Richmond (2)",
-          "how": "Drive: about 5.5 to 6 hours.",
+          "how": "Drive about 5.5 to 6 hours.",
           "est": "Gas",
           "link": ""
         },
         {
           "from": "Austin (1)",
-          "how": "One stop via Charlotte, Atlanta or Dallas to Asheville. An Allegiant seasonal nonstop appears on 2025 listings and is unconfirmed for December 2026.",
+          "how": "One stop through Charlotte, Atlanta or Dallas to Asheville. An Allegiant seasonal nonstop shows up on 2025 listings but isn't confirmed for December 2026.",
           "est": "$500 to $800",
           "link": "https://flyavl.com/"
         },
         {
           "from": "On the ground",
-          "how": "Three family cars from Virginia; one rental for Daniel if he flies.",
+          "how": "Three family cars from Virginia, plus a rental for Daniel if he flies.",
           "est": "$0 to $1,200",
           "link": ""
         }
@@ -986,66 +977,66 @@
       "houses": [
         {
           "name": "Asheville 12 (The Top Villas)",
-          "detail": "Six bedrooms including a twin bunk room, five baths, sleeps 16, hot tub, a pool that can be heated for a fee, about 15 minutes from downtown.",
-          "price": "From $288 a night off-peak; unquoted for the holiday week, where the verifiers put it at $11,000 to $20,000",
+          "detail": "Six bedrooms including a twin bunk room, five baths, sleeps 16, a hot tub, a pool that can be heated for a fee, and about 15 minutes from downtown.",
+          "price": "From $288 a night off-peak. Not quoted for the holiday week, where rough guesses put it at $11,000 to $20,000",
           "url": "https://www.thetopvillas.com/destinations/north-carolina/asheville/asheville-12",
-          "verdict": "Quote first and ask about Christmas-week minimums."
+          "verdict": "Worth asking about first, including any Christmas-week minimums."
         },
         {
           "name": "Our Mountain Retreat, Arden (south Asheville)",
           "detail": "Four bedrooms in the main house plus two in a guest house, sleeps 16.",
-          "price": "Not retrieved; unquoted",
+          "price": "Not retrieved, not quoted",
           "url": "https://www.vrbo.com/p3287107vb",
-          "verdict": "Six doors across two buildings on one property."
+          "verdict": "Six bedrooms across two buildings on one property."
         },
         {
           "name": "West Asheville six-bedroom, about 6,000 square feet",
-          "detail": "Six bedrooms, four baths, hot tub, barrel sauna, sleeps 16.",
-          "price": "Not retrieved; unquoted",
+          "detail": "Six bedrooms, four baths, a hot tub and a barrel sauna, sleeps 16.",
+          "price": "Not retrieved, not quoted",
           "url": "https://www.expedia.com/cn/Asheville-Hotels-Uncle-Entertainment-Hosting-Dream-Amenities-6k-Sq-Ft.h78363923.Hotel-Information",
-          "verdict": "The backup, close to downtown."
+          "verdict": "Another one to keep in mind, close to downtown."
         }
       ],
       "agenda": [
         {
           "day": "Sun Dec 27",
-          "all": "Drive down (Virginia Beach about 8 hours, Richmond about 6). Daniel flies via Charlotte. Grocery run, hot tub, a simple dinner at the house.",
+          "all": "Drive down (Virginia Beach about 8 hours, Richmond about 6). Daniel flies through Charlotte. A grocery run, the hot tub, a simple dinner at the house.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Mon Dec 28",
-          "all": "Downtown walk and a Posana lunch. Grove Park Inn gingerbread houses in the evening (public viewing hours to confirm).",
+          "all": "A downtown walk and lunch at Posana. The Grove Park Inn gingerbread houses in the evening (public viewing hours still to confirm).",
           "crew": "A hike before lunch.",
-          "relax": "Sara's Pilates, the kids at the house."
+          "relax": "The kids at the house."
         },
         {
           "day": "Tue Dec 29",
           "all": "Everyone back for dinner.",
-          "crew": "Ski or ride Cataloochee, about 45 minutes away.",
-          "relax": "Grove Park spa. Kids and Michael at the house."
+          "crew": "Skiing or riding at Cataloochee, about 45 minutes away.",
+          "relax": "The Grove Park spa. Kids and Michael at the house."
         },
         {
           "day": "Wed Dec 30",
-          "all": "Biltmore together: the house and grounds by day, then the Candlelight Christmas Evening with an early slot for the kids.",
+          "all": "Biltmore together, the house and grounds by day, then the Candlelight Christmas Evening with an early slot for the kids.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Thu Dec 31",
           "all": "New Year's Eve chef dinner at the house.",
-          "crew": "Sugar Mountain day, about 2 hours each way: skiing for the crew, tubing for Bennett and Taylor with an adult (age minimum to confirm).",
-          "relax": "River Arts District and a long lunch for whoever stays."
+          "crew": "A Sugar Mountain day, about 2 hours each way, with skiing for some of us and tubing for Bennett and Taylor with an adult (age minimum still to confirm).",
+          "relax": "The River Arts District and a long lunch for whoever stays."
         },
         {
           "day": "Fri Jan 1",
-          "all": "Slow morning, a group hike with a view, leftovers and games.",
+          "all": "A slow morning, a group hike with a view, leftovers and games.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Sat Jan 2",
-          "all": "Patrick's family-photo hour at golden light.",
+          "all": "Family photos with Patrick at golden hour.",
           "crew": "Mountain bikes at Bent Creek or DuPont, or the Cataloochee Valley elk in the Smokies.",
           "relax": "Downtown bookstores and coffee."
         },
@@ -1061,13 +1052,13 @@
           "item": "House, seven nights",
           "low": 10500,
           "high": 15500,
-          "note": "Six-bedroom with hot tub, holiday week, unquoted; the verifiers' range runs to $20,000"
+          "note": "Six-bedroom with a hot tub, holiday week, not quoted yet. Rough guesses run up to $20,000"
         },
         {
           "item": "Travel: three cars from Virginia, Daniel flies",
           "low": 1000,
           "high": 1700,
-          "note": "Gas plus one one-stop fare; if everyone flew, add about $6,000"
+          "note": "Gas plus one one-stop fare. If everyone flew, add about $6,000"
         },
         {
           "item": "Rental car for Daniel",
@@ -1135,12 +1126,8 @@
         ],
         "Food": [
           {
-            "label": "Posana, fully gluten-free since 2009",
+            "label": "Posana, downtown Asheville",
             "url": "https://www.posanarestaurant.com/"
-          },
-          {
-            "label": "Asheville gluten-free guide",
-            "url": "https://www.romanticasheville.com/top-gluten-free-restaurants-asheville.htm"
           }
         ],
         "Flights": [
@@ -1221,52 +1208,52 @@
       "tag": "",
       "lat": 44.2795,
       "lng": -73.9799,
-      "pitch": "The family's February base, done again with the two things that were missing: a house with a hot tub and the kids along. Main Street, the Mirror Lake loop, the Olympic Center and the skating oval are all on foot, Whiteface is twenty minutes by car, and everyone including Mom skied it last time. Two things to know as of October 21: the bobsled ride is listed as unavailable for track updates, and the walkable six-bedroom houses with hot tubs already show booked for the week.",
+      "pitch": "The family's February base, again, but this time with a hot tub and the kids along. Main Street, the Mirror Lake loop, the Olympic Center and the skating oval are all walkable, Whiteface is twenty minutes by car, and everyone including Mom skied it last time. Two things to know as of October 21. The bobsled ride is listed as unavailable for track updates, and the walkable six-bedroom houses with hot tubs already show booked for the week.",
       "why": [
-        "The village passes the walk-out test easily: Main Street shops and restaurants, the paved 2.7-mile Mirror Lake loop, outdoor skating on the Olympic oval, dog-sled rides on Mirror Lake daily from December 26, the Olympic Museum and the 1980 arena.",
-        "Whiteface, the mountain all five riders skied in February, with snowmaking on nearly every acre; cross-country on the 1932 and 1980 Nordic trails at Mt Van Hoevenberg for Mom at the 70-and-up rate.",
-        "A drive, not a flight day: about 10 hours 40 minutes from Virginia Beach with an overnight in the Hudson Valley on the way up, the way Patrick did it last time. Daniel flies to Albany.",
-        "The Mirror Lake Inn spa and a reformer studio on Main Street for Sara, the Wild Center and the skating oval for the kids (Taylor skates free), a hot tub for Mom.",
-        "About $28,000 to $36,000 for ten with the one house confirmed open."
+        "The village is easy to walk, with Main Street shops and restaurants, the paved 2.7-mile Mirror Lake loop, outdoor skating on the Olympic oval, dog-sled rides on Mirror Lake daily from December 26, the Olympic Museum and the 1980 arena.",
+        "Whiteface, the mountain all five riders skied in February, has snowmaking on nearly every acre. Mom could do cross-country on the 1932 and 1980 Nordic trails at Mt Van Hoevenberg at the 70-and-up rate.",
+        "It's a drive instead of a flight day, about 10 hours 40 minutes from Virginia Beach with a night in the Hudson Valley on the way up, the way Patrick did it last time. Daniel would fly to Albany.",
+        "The Mirror Lake Inn spa, the Wild Center and the skating oval for the kids (Taylor skates free), and a hot tub for Mom.",
+        "Roughly $28,000 to $36,000 for ten with the one house we've confirmed is open."
       ],
       "catch": [
-        "The bobsled, Kristina's stated reason to come back, is not bookable: the venue's page redirects and the tourism site says it is unavailable for track updates. The skeleton ride that is offered is ages 13 and up, so only the adults could slide.",
-        "The walkable six-bedroom houses with hot tubs (Hillcrest Haven, the Stevens house, the Waterfront house) all show booked for December 27 to January 3. The one house confirmed open, Cliff View Loj, is under a mile out, which one reviewer called a 30-minute walk. Camp Kobl Hill, which would decide it, needs a call.",
-        "Cold: highs near 28 degrees, nights near zero.",
-        "Ten to eleven hours of driving each way, with winter on I-87 and Route 73 able to add hours.",
-        "No dedicated gluten-free restaurant in town; a list of celiac-literate kitchens and the house carry Sara's week. The toboggan chute needs a foot of lake ice, unlikely before January."
+        "The bobsled, the main reason Kristina wanted to come back, can't be booked right now. The venue's page redirects and the tourism site says it's unavailable for track updates. The skeleton ride that is offered is ages 13 and up, so only the adults could go.",
+        "The walkable six-bedroom houses with hot tubs (Hillcrest Haven, the Stevens house, the Waterfront house) all show booked for December 27 to January 3. The one house confirmed open, Cliff View Loj, is under a mile out, which one reviewer called a 30-minute walk. Camp Kobl Hill could change the picture, but it needs a phone call.",
+        "It's cold, with highs near 28 degrees and nights near zero.",
+        "Ten to eleven hours of driving each way, and winter on I-87 and Route 73 can add hours.",
+        "The toboggan chute needs a foot of lake ice, which probably won't happen before January."
       ],
-      "weather": "Reliably wintry and short-day: December highs about 28 degrees, nights near zero, about 104 inches of snow a year. Whiteface runs on snowmaking across nearly all of its skiable acres.",
+      "weather": "Reliably wintry with short days. December highs are about 28 degrees, nights near zero, and about 104 inches of snow a year. Whiteface has snowmaking across nearly all of its skiable acres.",
       "notes": [
         {
-          "title": "Stowe, Vermont, compared",
+          "title": "What about Stowe, Vermont?",
           "paragraphs": [
-            "Stowe has a house with a hot tub, a real spa at Topnotch or the Trapp Family Lodge, an Epic mountain for all five riders, and the groomed recreation path from the village. The drive is 12 to 13 hours from Virginia Beach, one to two more than Lake Placid; the village is small, so the house has to sit in it to be walkable; gluten-free depth is thin, no reformer studio was found, and there is no bobsled. Roughly $26,000 to $42,000 for ten, with two six-bedroom hot-tub houses found and neither priced for the week."
+            "Stowe has a house with a hot tub, a real spa at Topnotch or the Trapp Family Lodge, an Epic mountain for all five riders, and the groomed recreation path from the village. The drive is 12 to 13 hours from Virginia Beach, one to two more than Lake Placid. The village is small, so the house would need to be right in it to be walkable, and there's no bobsled. Roughly $26,000 to $42,000 for ten, with two six-bedroom hot-tub houses found and neither priced for the week yet."
           ]
         }
       ],
       "getting_there": [
         {
           "from": "Norfolk (7)",
-          "how": "Drive: 10 hours 41 minutes without stops by Google Maps, the family's 11 hours in February. Two cars, an overnight in the Hudson Valley on Saturday December 26, check-in Sunday. Flying is one stop to Albany (American via Philadelphia, United via Washington, Southwest via Baltimore) then about 2.5 hours north.",
+          "how": "Drive 10 hours 41 minutes without stops by Google Maps, close to the 11 hours it took in February. Two cars, a night in the Hudson Valley on Saturday December 26, and check-in Sunday. Flying would be one stop to Albany (American through Philadelphia, United through Washington, Southwest through Baltimore), then about 2.5 hours north.",
           "est": "Gas about $250 to $300 a car, or $510 to $580 a seat to Albany",
           "link": "https://www.google.com/maps/dir/Virginia+Beach,+VA/Lake+Placid,+NY/"
         },
         {
           "from": "Richmond (2)",
-          "how": "Drive: about 10 hours by Google Maps, longer with stops. Or one stop to Albany via Washington or Baltimore.",
+          "how": "Drive about 10 hours by Google Maps, longer with stops. Or one stop to Albany through Washington or Baltimore.",
           "est": "Gas, or $520 to $630 a seat",
           "link": "https://www.google.com/maps/dir/Richmond,+VA/Lake+Placid,+NY/"
         },
         {
           "from": "Austin (1)",
-          "how": "One stop to Albany (Southwest lands late afternoon on the sample itinerary), then a ride north with the family cars or a rental. Burlington is the alternate.",
+          "how": "One stop to Albany (Southwest lands late afternoon on the sample itinerary), then a ride north with the family cars or a rental. Burlington could work too.",
           "est": "$450 to $700",
           "link": "https://www.google.com/travel/flights?q=Flights%20to%20ALB%20from%20AUS%20on%202026-12-27%20through%202027-01-03&curr=USD&hl=en"
         },
         {
           "from": "On the ground",
-          "how": "The three family cars cover Whiteface (10 miles) and Mt Van Hoevenberg (8 miles). Montreal, Plattsburgh and Saranac Lake add nothing over Albany.",
+          "how": "The three family cars would cover Whiteface (10 miles) and Mt Van Hoevenberg (8 miles). Montreal, Plattsburgh and Saranac Lake don't really save anything over Albany.",
           "est": "Included in the drive",
           "link": ""
         }
@@ -1274,55 +1261,55 @@
       "houses": [
         {
           "name": "Cliff View Loj",
-          "detail": "Six bedrooms including a bunk room, 3.5 baths, sleeps 14, hot tub and a six-person sauna, a front-yard playground. Under a mile to Main Street; the listing says a 10-minute walk to Mirror Lake, a July 2026 reviewer called it an easy 30-minute walk to town. The hot tub has no gate.",
+          "detail": "Six bedrooms including a bunk room, 3.5 baths, sleeps 14, with a hot tub, a six-person sauna and a front-yard playground. Under a mile to Main Street. The listing says a 10-minute walk to Mirror Lake, and a July 2026 reviewer called it an easy 30-minute walk to town. The hot tub has no gate.",
           "price": "Quoted October 21 for December 27 to January 3: $18,757 on Vrbo, $19,310 on Airbnb, fees included",
           "url": "https://www.vrbo.com/7945703ha",
-          "verdict": "The only six-bedroom house confirmed open for the week; a longer walk to town."
+          "verdict": "The only six-bedroom house we've confirmed is open for the week, though it's a longer walk to town."
         },
         {
           "name": "Camp Kobl Hill (Adirondack Premier Properties)",
-          "detail": "A 1918 Adirondack estate on two acres beside Cobble Hill and Mirror Lake: seven bedrooms, sleeps 15, a covered outdoor hot tub, a pickleball court. The listing headline says walk to town.",
-          "price": "From $950 a night before fees; the holiday rate is not posted",
+          "detail": "A 1918 Adirondack estate on two acres beside Cobble Hill and Mirror Lake, with seven bedrooms, sleeps 15, a covered outdoor hot tub and a pickleball court. The listing headline says walk to town.",
+          "price": "From $950 a night before fees, holiday rate not posted",
           "url": "https://adkpp.com/vacation-rentals/camp-kobl-hill/",
-          "verdict": "The house that would make Lake Placid work. Not in the open online results, so it is a phone call."
+          "verdict": "This could be the one for Lake Placid. It doesn't show up as open online, so it would take a phone call."
         },
         {
           "name": "Mirror Lake Retreat (Adirondack Premier Properties)",
-          "detail": "Six bedrooms with a twin-bunk room, sleeps exactly ten, on Mirror Lake Drive with a shared beachfront, a short walk to Main Street. No hot tub.",
-          "price": "From $750 a night before fees; holiday rate not posted",
+          "detail": "Six bedrooms with a twin-bunk room, sleeps exactly ten, on Mirror Lake Drive with a shared beachfront and a short walk to Main Street. No hot tub.",
+          "price": "From $750 a night before fees, holiday rate not posted",
           "url": "https://adkpp.com/vacation-rentals/mirror-lake-retreat/",
-          "verdict": "Right location, no hot tub. A phone call."
+          "verdict": "Nice spot, no hot tub though. Also a phone call."
         },
         {
           "name": "Hillcrest Haven",
-          "detail": "Seven bedrooms, four baths, sleeps 14, a six-person spa off the deck, one block from the center of town. The model house.",
+          "detail": "Seven bedrooms, four baths, sleeps 14, with a six-person spa off the deck, one block from the center of town. The kind of house we'd be hoping for.",
           "price": "Shows unavailable for December 27 to January 3",
           "url": "https://www.expedia.com/Lake-Placid-Hotels-Lake-Placid-Hillcrest-Haven-Sleeps-14-1-Block-To-Main-Street.h34269925.Hotel-Information",
-          "verdict": "Booked for the week; worth a cancellation-list ask."
+          "verdict": "Showing booked for the week, but maybe worth asking about cancellations."
         }
       ],
       "agenda": [
         {
           "day": "Sun Dec 27",
-          "all": "Arrive from the Hudson Valley overnight by late afternoon; Andrew and Trisha from Richmond; Daniel picked up at Albany or in by rental. Groceries, the hot tub, a simple dinner.",
+          "all": "Get in from the Hudson Valley stop by late afternoon, Andrew and Trisha from Richmond, and Daniel picked up at Albany or driving in on a rental. Groceries, the hot tub, a simple dinner.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Mon Dec 28",
           "all": "Dinner at the house.",
-          "crew": "Whiteface day one, tickets bought online ahead.",
-          "relax": "The Mirror Lake loop walk, coffee on Main Street, Sara's first reformer class at The Studio Upstate. Kids: skating on the oval, where Taylor is free."
+          "crew": "Whiteface day one, with tickets bought online ahead.",
+          "relax": "The Mirror Lake loop walk and coffee on Main Street. Kids skating on the oval, where Taylor is free."
         },
         {
           "day": "Tue Dec 29",
           "all": "",
-          "crew": "Whiteface day two. Mom: a cross-country morning at Mt Van Hoevenberg.",
-          "relax": "Mirror Lake Inn spa for Sara and Trisha. Kids with Michael to the Wild Center in Tupper Lake, open holiday hours through December 31."
+          "crew": "Whiteface day two. Mom could do a cross-country morning at Mt Van Hoevenberg.",
+          "relax": "The Mirror Lake Inn spa for whoever wants it. Kids with Michael to the Wild Center in Tupper Lake, open holiday hours through December 31."
         },
         {
           "day": "Wed Dec 30",
-          "all": "The Olympic day together: the museum and the 1980 arena, skating on the oval, lunch at The Cottage, the ski-jump Skyride. Kristina, Andrew and Daniel: the skeleton ride at Mt Van Hoevenberg if it is running.",
+          "all": "An Olympic day together, with the museum and the 1980 arena, skating on the oval, lunch at The Cottage and the ski-jump Skyride. Kristina, Andrew and Daniel could try the skeleton ride at Mt Van Hoevenberg if it's running.",
           "crew": "",
           "relax": ""
         },
@@ -1330,11 +1317,11 @@
           "day": "Thu Dec 31",
           "all": "New Year's Eve chef dinner at the house.",
           "crew": "Whiteface day three, or a guided ice-climbing intro in Keene.",
-          "relax": "Cobble Hill, the short climb above the village, or a slow Main Street morning and reformer class two. Kids: sledding at Teddy Bear Park."
+          "relax": "Cobble Hill, the short climb above the village, or a slow Main Street morning. Kids sledding at Teddy Bear Park."
         },
         {
           "day": "Fri Jan 1",
-          "all": "Mom's day: a walk around Mirror Lake or across the plowed ice, dog sleds for anyone who missed them, the toboggan chute if the ice has reached a foot.",
+          "all": "Mom's kind of day, with a walk around Mirror Lake or across the plowed ice, dog sleds for anyone who missed them, and the toboggan chute if the ice has reached a foot.",
           "crew": "",
           "relax": ""
         },
@@ -1342,11 +1329,11 @@
           "day": "Sat Jan 2",
           "all": "A last dinner out or a second chef night.",
           "crew": "Whiteface day four or cross-country at Mt Van Hoevenberg.",
-          "relax": "A last spa or salt-room session. Kids: sledding, the Skyride if it was missed."
+          "relax": "One more spa or salt-room session. Kids sledding, or the Skyride if we missed it."
         },
         {
           "day": "Sun Jan 3",
-          "all": "Check out by 10. The Virginia cars drop Daniel at Albany and drive home, or split it with a night on the road.",
+          "all": "Check out by 10. The Virginia cars drop Daniel at Albany and head home, or break it up with a night on the road.",
           "crew": "",
           "relax": ""
         }
@@ -1356,7 +1343,7 @@
           "item": "House, seven nights",
           "low": 18757,
           "high": 19310,
-          "note": "Cliff View Loj, quoted October 21 for the week; if Camp Kobl Hill is open at its posted starting rate the line drops to about $8,300 and the total to about $17,000"
+          "note": "Cliff View Loj, quoted October 21 for the week. If Camp Kobl Hill is open at its posted starting rate, this line drops to about $8,300 and the total to about $17,000"
         },
         {
           "item": "Travel: three cars plus Daniel's flight",
@@ -1368,19 +1355,19 @@
           "item": "Lift tickets, five riders, three or four days",
           "low": 1758,
           "high": 2344,
-          "note": "Last season's peak window rates: $134 adult, $50 for Mom at 70 and up; 2026-27 rates not published"
+          "note": "Last season's peak window rates, $134 adult and $50 for Mom at 70 and up. 2026-27 rates aren't published yet"
         },
         {
           "item": "Skeleton rides",
           "low": 0,
           "high": 225,
-          "note": "Three adult rides at $75; the bobsled is not offered"
+          "note": "Three adult rides at $75. The bobsled isn't offered"
         },
         {
           "item": "Skating, dog sleds, toboggan",
           "low": 300,
           "high": 810,
-          "note": "Oval skating about $219 a session for ten; dog sleds about $20 a person"
+          "note": "Oval skating about $219 a session for ten, dog sleds about $20 a person"
         },
         {
           "item": "Cross-country at Mt Van Hoevenberg",
@@ -1392,13 +1379,13 @@
           "item": "Chef, one or two nights",
           "low": 1500,
           "high": 3000,
-          "note": "Simply Catering's private-chef service, to quote"
+          "note": "Simply Catering's private-chef service, not quoted yet"
         },
         {
           "item": "Groceries and dining",
           "low": 3000,
           "high": 5500,
-          "note": "A planning allowance"
+          "note": "A rough allowance"
         },
         {
           "item": "Spa",
@@ -1456,10 +1443,6 @@
             "url": "https://mirrorlakeinn.com/spa-salon/spa-treatments/"
           },
           {
-            "label": "The Studio Upstate, reformer Pilates on Main Street",
-            "url": "https://www.thestudioupstate.com/"
-          },
-          {
             "label": "The Wild Center, Tupper Lake",
             "url": "https://wildcenter.org/webassets/visit"
           },
@@ -1469,10 +1452,6 @@
           }
         ],
         "Food": [
-          {
-            "label": "Find Me Gluten Free: Lake Placid celiac ratings",
-            "url": "https://www.findmeglutenfree.com/us/ny/lake-placid"
-          },
           {
             "label": "Simply Catering, private chef services",
             "url": "https://www.eatlakeplacid.com/location/simply-catering/"
@@ -1584,54 +1563,53 @@
       "tag": "",
       "lat": 46.2136,
       "lng": -74.5855,
-      "pitch": "A car-free village at the base of the mountain, lit up at night, with the skating rink, the Aquaclub water park, the open-air Cabriolet gondola and two dozen restaurants on foot. The mountain is low (about 750 to 2,900 feet) and on the Ikon pass. One six-bedroom house with a private hot tub is open and priced for the exact week. Getting there is a one-connection flight to Montreal for every household, then 90 minutes to two hours of winter driving, a border, and passports for all ten including the kids. Nights run near 5 degrees.",
+      "pitch": "A car-free village at the base of the mountain, lit up at night, with the skating rink, the Aquaclub water park, the open-air Cabriolet gondola and two dozen restaurants on foot. The mountain is on the low side (about 750 to 2,900 feet) and it's on the Ikon pass. One six-bedroom house with a private hot tub is open and priced for our exact week. Getting there would be a one-connection flight to Montreal for each household, then 90 minutes to two hours of winter driving and a border. Nights run near 5 degrees.",
       "why": [
-        "A car-free village: heated walkways, a free lit skating rink with ice slides and free skate loans, the Cabriolet, sleigh rides from the village, the Brind'O Aquaclub for a cold afternoon.",
-        "Low altitude for Sara (base about 750 feet) and the Scandinave spa ten minutes away: an outdoor thermal circuit with silence as the house rule.",
-        "Real adventure beside the skiing: dog sledding seven minutes away where the kids ride with the guide from age 3, guided snowmobiles, an ice-climbing intro, 80 kilometers of Nordic trails at Domaine Saint-Bernard.",
-        "Tremblant's own advice for the holiday week: start on the North Side and ride the upper lifts to skip the 10 AM South Side line; January 1 is usually lighter.",
-        "Panache 784 is open and priced for December 27 to January 3: six bedrooms, a private outdoor hot tub, about $27,900 to $31,000 for the week, fees included."
+        "A car-free village with heated walkways, a free lit skating rink with ice slides and free skate loans, the Cabriolet, sleigh rides from the village, and the Brind'O Aquaclub for a cold afternoon.",
+        "The Scandinave spa is ten minutes away, an outdoor thermal circuit where everyone keeps quiet.",
+        "Plenty to do besides skiing: dog sledding seven minutes away where kids can ride with the guide from age 3, guided snowmobiles, an ice-climbing intro, and 80 kilometers of Nordic trails at Domaine Saint-Bernard.",
+        "Tremblant's own advice for the holiday week is to start on the North Side and ride the upper lifts to skip the 10 AM South Side line, and January 1 is usually lighter.",
+        "Panache 784 is open and priced for December 27 to January 3, with six bedrooms and a private outdoor hot tub, about $27,900 to $31,000 for the week with fees."
       ],
       "catch": [
-        "Every household connects once to Montreal, then drives 90 minutes to two hours north in winter, likely after dark on arrival day, with a border each way.",
-        "Passports for all ten, including Bennett and Taylor. Child books are in-person with both parents; routine processing runs four to twelve weeks and the trip is about nine weeks out, so anyone short applies now and expedites.",
-        "The house is a shuttle ride from the village, not a walk: the listing says shuttle or a short drive, one guest calls it a 25-minute uphill hike, another a five-minute walk from the shuttle stop. The family accepts the free resort shuttle as the way home, or this option is out.",
-        "Nights near 5 degrees and highs in the 20s; wind can close the summit lifts.",
-        "No hospital in Mont-Tremblant; the nearest 24-hour ER is about 40 minutes away in Sainte-Agathe. Carry epinephrine from home. No dedicated gluten-free restaurant; the house kitchen plus celiac-literate places in town and the village.",
-        "About $45,000 to $66,000 for ten at the current exchange rate."
+        "Every household would connect once to Montreal, then drive 90 minutes to two hours north in winter, probably after dark on arrival day, with a border each way.",
+        "The house is a shuttle ride from the village, not a walk. The listing says shuttle or a short drive, one guest calls it a 25-minute uphill hike, and another says it's a five-minute walk from the shuttle stop. This one probably only makes sense if we're fine using the free resort shuttle to get home.",
+        "Nights near 5 degrees and highs in the 20s, and wind can close the summit lifts.",
+        "There's no hospital in Mont-Tremblant. The nearest 24-hour ER is about 40 minutes away in Sainte-Agathe, so we'd want to bring epinephrine from home.",
+        "Roughly $45,000 to $66,000 for ten at the current exchange rate."
       ],
-      "weather": "Real winter: December highs about 27 degrees, lows about 14; January highs about 19, lows about 5. Snow likely. Wind can close the summit lifts and leave the lower half open.",
+      "weather": "Real winter. December highs are about 27 degrees with lows about 14, and January highs are about 19 with lows about 5. Snow is likely. Wind can close the summit lifts and leave the lower half open.",
       "notes": [
         {
           "title": "Money, in two currencies",
           "paragraphs": [
-            "Prices here are in US dollars at 1.42 Canadian dollars to the US dollar, the mid-October rate; the rate moved from 1.40 to 1.42 over the previous month, so Canadian-priced lines can shift a few percent either way. Vrbo quotes in US dollars; Airbnb and the operators quote in Canadian dollars with about 18 percent of tax and resort royalty on activities.",
-            "Not in any line: the Kidz Club and Snow School, which do not publish prices and fill months ahead for this week."
+            "Prices here are in US dollars at 1.42 Canadian dollars to the US dollar, the mid-October rate. The rate moved from 1.40 to 1.42 over the previous month, so the Canadian-priced lines could shift a few percent either way. Vrbo quotes in US dollars, and Airbnb and the local operators quote in Canadian dollars with about 18 percent of tax and resort royalty on activities.",
+            "Not in any line: the Kidz Club and Snow School, which don't publish prices and fill up months ahead for this week."
           ]
         }
       ],
       "getting_there": [
         {
           "from": "Norfolk (7)",
-          "how": "No nonstop. One connection to Montreal on American via Philadelphia or Delta via LaGuardia, 4 to 8 hours; sampled December fares $650 to $900, the holiday week likely higher. US preclearance at Montreal on the way home.",
+          "how": "No nonstop. One connection to Montreal on American through Philadelphia or Delta through LaGuardia, 4 to 8 hours. Sampled December fares ran $650 to $900, and the holiday week will likely be higher. US preclearance happens at Montreal on the way home.",
           "est": "$650 to $1,200 a seat",
           "link": "https://www.kayak.com/flight-routes/Norfolk-ORF/Montreal-YMQ"
         },
         {
           "from": "Richmond (2)",
-          "how": "One connection via LaGuardia, Newark, Washington or Philadelphia on Delta, United or American, about 4 to 6 hours.",
+          "how": "One connection through LaGuardia, Newark, Washington or Philadelphia on Delta, United or American, about 4 to 6 hours.",
           "est": "$650 to $1,200 a seat",
           "link": "https://www.kayak.com/flight-routes/Richmond-Byrd-Intl-RIC/Montreal-Pierre-Elliott-Trudeau-Intl-YUL"
         },
         {
           "from": "Austin (1)",
-          "how": "Air Canada's Austin to Montreal nonstop launched as a summer route and is unconfirmed for winter; plan on one stop via Detroit, Toronto, Atlanta or Fort Lauderdale.",
+          "how": "Air Canada's Austin to Montreal nonstop started as a summer route and isn't confirmed for winter, so probably one stop through Detroit, Toronto, Atlanta or Fort Lauderdale.",
           "est": "$500 to $1,000",
           "link": "https://www.aircanada.com/en-ca/flights-from-austin-to-montreal"
         },
         {
           "from": "Montreal to the mountain",
-          "how": "About 125 kilometers on Autoroute 15 and Route 117, 90 minutes to two hours in winter. Two rental SUVs on winter tires (required in Quebec through March 15), with a grocery stop in Saint-Jovite. The Skyport coach runs from the airport Thursday to Sunday only, 9:30 AM daily and 3 PM on weekends, about $115 an adult round trip, which fits a Sunday arrival but leaves the group without cars.",
+          "how": "About 125 kilometers on Autoroute 15 and Route 117, 90 minutes to two hours in winter. Two rental SUVs on winter tires (required in Quebec through March 15), with a grocery stop in Saint-Jovite. The Skyport coach runs from the airport Thursday to Sunday only, 9:30 AM daily and 3 PM on weekends, about $115 an adult round trip. That would work for a Sunday arrival, but we'd have no cars.",
           "est": "$1,500 to $2,800 for two SUVs and fuel",
           "link": "https://www.tremblant.ca/plan/getting-here/ground-transportation-montreal-airport/luxury-coach-transportation-montreal-airport"
         }
@@ -1639,37 +1617,37 @@
       "houses": [
         {
           "name": "Panache 784 (Tremblant Living)",
-          "detail": "Six bedrooms (three kings, a queen, two rooms of singles with trundles), 3.5 baths, 3,200 square feet, a private outdoor hot tub, billiards, a garage, the Nansen ski trail about 150 meters away. The village is reached by the free resort shuttle or a short drive. An August 2026 review reports maintenance issues (a dishwasher, a railing, trundles that would not open), so get written confirmation of repairs.",
+          "detail": "Six bedrooms (three kings, a queen, two rooms of singles with trundles), 3.5 baths, 3,200 square feet, a private outdoor hot tub, billiards, a garage, and the Nansen ski trail about 150 meters away. The village is a free resort shuttle ride or a short drive. An August 2026 review mentions maintenance issues (a dishwasher, a railing, trundles that wouldn't open), so it would be worth getting the repairs confirmed in writing.",
           "price": "Quoted October 21 for December 27 to January 3: $30,948 on Vrbo fees included, or CAD 39,567 (about $27,900) on Airbnb. Vrbo's full refund ends October 28, half to November 27, none after.",
           "url": "https://www.vrbo.com/4711856ha",
-          "verdict": "The one six-bedroom hot-tub house open for the week. Quote first, with the shuttle stop distance and hours in writing."
+          "verdict": "The one six-bedroom hot-tub house we found open for the week. Worth asking about first, and getting the shuttle stop distance and hours in writing."
         },
         {
           "name": "Havre des Legendes 102 (Tremblant Living)",
-          "detail": "Five bedrooms, 3.5 baths, sleeps 15, a private hot tub, a view of Lac Tremblant, the Nansen trail 100 meters away, about 0.6 miles from the village center.",
+          "detail": "Five bedrooms, 3.5 baths, sleeps 15, a private hot tub, a view of Lac Tremblant, the Nansen trail 100 meters away, and about 0.6 miles from the village center.",
           "price": "Quoted October 21: $28,651 on Vrbo or CAD 36,544 (about $25,700) on Airbnb for the week",
           "url": "https://www.airbnb.com/rooms/49223744",
-          "verdict": "Five doors, so the kids room with Kristina and Michael."
+          "verdict": "Five bedrooms, so the kids would room with Kristina and Michael."
         },
         {
           "name": "Verbier 13-203, Spasski",
-          "detail": "Five bedrooms plus a four-twin kids room, 3.5 baths, sleeps 16, about 1.2 kilometers from the village on the free shuttle line. The hot tub is shared in the Verbier spa pavilion.",
+          "detail": "Five bedrooms plus a four-twin kids room, 3.5 baths, sleeps 16, about 1.2 kilometers from the village on the free shuttle line. The hot tub is shared, in the Verbier spa pavilion.",
           "price": "Quoted October 21: CAD 30,049 (about $21,200) on Airbnb with free cancellation, or $23,462 on Vrbo",
           "url": "https://www.airbnb.com/rooms/1202984376613048967",
-          "verdict": "The lowest price found; the hot tub is shared, not private."
+          "verdict": "The lowest price we found, but the hot tub is shared, not private."
         },
         {
           "name": "La Maison Blanche (Tremblant Living)",
           "detail": "Six bedrooms, four baths, sleeps 15, an outdoor cedar hot tub and a sauna, less than a kilometer from the village with a shuttle stop about 50 meters away.",
-          "price": "No rate or calendar shown; a phone call",
+          "price": "No rate or calendar shown, so it would take a phone call",
           "url": "https://www.tremblantliving.ca/maisonblanche",
-          "verdict": "Worth the call if Panache 784 goes."
+          "verdict": "Worth a call if Panache 784 gets booked."
         }
       ],
       "agenda": [
         {
           "day": "Sun Dec 27",
-          "all": "Fly to Montreal with one connection, two winter-tire SUVs, groceries in Saint-Jovite, check in after 5 PM, the hot tub, an easy dinner.",
+          "all": "Fly to Montreal with one connection, pick up two winter-tire SUVs, groceries in Saint-Jovite, check in after 5 PM, the hot tub, an easy dinner.",
           "crew": "",
           "relax": ""
         },
@@ -1677,41 +1655,41 @@
           "day": "Mon Dec 28",
           "all": "The shuttle down to the village, a slow breakfast, the Cabriolet.",
           "crew": "Lift tickets and a first South Side afternoon.",
-          "relax": "The Scandinave spa in the afternoon. Kids: skating and the ice slides, snow play at the house."
+          "relax": "The Scandinave spa in the afternoon. Kids skating and on the ice slides, or snow play at the house."
         },
         {
           "day": "Tue Dec 29",
           "all": "",
           "crew": "Morning dog sledding, seven minutes away, with Bennett riding along.",
-          "relax": "Mom on the Domaine Saint-Bernard Nordic trails or a village walk. Sara's reformer class if the studio checks out. Kids: the Aquaclub after lunch, a Kidz Club half day for Taylor if the parents want it."
+          "relax": "Mom on the Domaine Saint-Bernard Nordic trails or a village walk. Kids at the Aquaclub after lunch, and maybe a Kidz Club half day for Taylor if Kristina and Michael want it."
         },
         {
           "day": "Wed Dec 30",
-          "all": "A sleigh ride before dinner, then dinner in the village at a place that has been called ahead.",
-          "crew": "An early start on the North Side to beat the South Side line.",
+          "all": "A sleigh ride before dinner, then dinner in the village somewhere we've called ahead.",
+          "crew": "An early start on the North Side to skip the South Side line.",
           "relax": "Michael with the kids at evening tubing, 5 to 8 PM."
         },
         {
           "day": "Thu Dec 31",
-          "all": "New Year's Eve chef dinner at the house, kids fed early.",
+          "all": "New Year's Eve chef dinner at the house, with the kids fed early.",
           "crew": "A short ski morning for whoever wants it.",
-          "relax": "Massages at the Scandinave for Sara and Mom. Kids: the Aquaclub or the rink."
+          "relax": "Massages at the Scandinave for whoever wants them. Kids at the Aquaclub or the rink."
         },
         {
           "day": "Fri Jan 1",
-          "all": "Nothing scheduled. Tremblant says January 1 is usually lighter on the hill, so the riders who want it ski. A late breakfast, the village on foot, the hot tub, games.",
+          "all": "Nothing planned. Tremblant says January 1 is usually lighter on the hill, so anyone who wants to ski could. A late breakfast, the village on foot, the hot tub, games.",
           "crew": "",
           "relax": ""
         },
         {
           "day": "Sat Jan 2",
-          "all": "A farewell dinner in the village.",
-          "crew": "A two-hour guided snowmobile run or the three-hour ice-climbing intro, if it is running.",
-          "relax": "The Nordic trails or a second spa visit. Kids: tubing or skating."
+          "all": "A last dinner in the village.",
+          "crew": "A two-hour guided snowmobile run or the three-hour ice-climbing intro, if it's running.",
+          "relax": "The Nordic trails or a second spa visit. Kids tubing or skating."
         },
         {
           "day": "Sun Jan 3",
-          "all": "Check out by 11, two hours to Montreal, three hours at the airport for US preclearance, home.",
+          "all": "Check out by 11, two hours to Montreal, three hours at the airport for US preclearance, and home.",
           "crew": "",
           "relax": ""
         }
@@ -1721,25 +1699,25 @@
           "item": "House, seven nights (Panache 784)",
           "low": 27900,
           "high": 31000,
-          "note": "Airbnb CAD 39,567 at 1.42, or Vrbo $30,948 fees included; both live for the dates on October 21"
+          "note": "Airbnb CAD 39,567 at 1.42, or Vrbo $30,948 fees included. Both were live for our dates on October 21"
         },
         {
           "item": "Flights for ten, one connection",
           "low": 6500,
           "high": 12000,
-          "note": "$650 to $1,200 a seat; holiday-week fares not yet quoted"
+          "note": "$650 to $1,200 a seat. Holiday-week fares not quoted yet"
         },
         {
           "item": "Two winter-tire SUVs, fuel, airport parking",
           "low": 1500,
           "high": 2800,
-          "note": "Estimate; the Skyport coach is about $1,100 to $1,200 for ten instead"
+          "note": "Estimate. The Skyport coach would be about $1,100 to $1,200 for ten instead"
         },
         {
           "item": "Lift tickets, five riders, about four days",
           "low": 2600,
           "high": 3100,
-          "note": "Last season's CAD 155 to 185 a day plus tax and royalty; Ikon holders pay nothing"
+          "note": "Last season's CAD 155 to 185 a day plus tax and royalty. Free for anyone with an Ikon pass"
         },
         {
           "item": "Scandinave spa and the Aquaclub",
@@ -1757,31 +1735,25 @@
           "item": "Chef, two nights",
           "low": 1500,
           "high": 3500,
-          "note": "Estimate; celiac and tree-nut vetting in writing first"
+          "note": "Estimate, and we'd want the chef to confirm the allergy plan in writing"
         },
         {
           "item": "Groceries and dining out",
           "low": 2500,
           "high": 4500,
-          "note": "Mostly house cooking plus village dinners"
+          "note": "Mostly cooking at the house plus village dinners"
         },
         {
           "item": "Travel insurance for ten",
           "low": 500,
           "high": 2500,
-          "note": "Estimate; Medicare does not cover Canada"
-        },
-        {
-          "item": "Passport renewals and child books, if needed",
-          "low": 0,
-          "high": 1350,
-          "note": "Adult renewal $130, child book $100 plus $35, expedite $60 each"
+          "note": "Estimate. Medicare doesn't cover Canada"
         },
         {
           "item": "Sleigh ride, tubing, kids' gear",
           "low": 500,
           "high": 1200,
-          "note": "A private sleigh for up to 16 is about CAD 500; tubing from CAD 38.50, Taylor free"
+          "note": "A private sleigh for up to 16 is about CAD 500, tubing from CAD 38.50, and Taylor is free"
         }
       ],
       "links": {
@@ -1833,12 +1805,8 @@
         ],
         "Food": [
           {
-            "label": "Tremblant's guide to restaurants for dietary restrictions",
+            "label": "Tremblant restaurant guide",
             "url": "https://blogue.tremblant.ca/restaurants-tremblant-dietary-restrictions/"
-          },
-          {
-            "label": "Celiac map of Mont-Tremblant restaurants",
-            "url": "https://atly.com/best/gluten-free/restaurant-canada-quebec-mont-tremblant"
           },
           {
             "label": "Tremblant Living chef services",
@@ -1859,16 +1827,8 @@
             "url": "https://www.tremblant.ca/plan/getting-here/ground-transportation-montreal-airport/luxury-coach-transportation-montreal-airport"
           },
           {
-            "label": "Quebec winter-tire rule",
+            "label": "Quebec winter-tire requirement",
             "url": "https://www.quebec.ca/en/transports/traffic-road-safety/winter-road-safety/requirements-for-winter-tires"
-          },
-          {
-            "label": "Canada: consent letter for a child traveling without both parents",
-            "url": "https://travel.gc.ca/travelling/children/consent-letter"
-          },
-          {
-            "label": "US passport fees",
-            "url": "https://travel.state.gov/content/dam/tsg_aem/passports/documents/forms-fees/Passport_Fees_OCT_2026.pdf"
           }
         ]
       },
