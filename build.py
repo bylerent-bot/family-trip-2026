@@ -31,7 +31,7 @@ def section(t):
         notes += f'<div class="note"><h4>{E(n["title"])}</h4>' + ''.join(f'<p>{E(x)}</p>' for x in n['paragraphs']) + '</div>'
     gal = ''
     if gallery:
-        gal = '<div class="gallery">' + ''.join(f'<figure><a href="{E(p["local"])}" class="lb" data-cap="{E(p.get("subject",""))}"><img loading="lazy" src="{E(p["local"])}" alt="{E(p.get("subject",""))}"></a><figcaption>{credit(p)}</figcaption></figure>' for p in gallery) + '</div>'
+        gal = '<div class="gallery">' + ''.join(f'<figure><a href="{E(p["local"])}" class="lb" data-cap="{E(p.get("subject",""))}"><img loading="lazy" src="{E(p.get("thumb", p["local"]))}" alt="{E(p.get("subject",""))}"></a><figcaption>{credit(p)}</figcaption></figure>' for p in gallery) + '</div>'
     gt = ''.join(f'<tr><th>{E(g["from"])}</th><td>{E(g["how"])}' + (f' <a href="{E(g["link"])}" rel="noopener">Link</a>' if g.get('link') else '') + f'</td><td class="num">{E(g["est"])}</td></tr>' for g in t['getting_there'])
     houses = ''.join(f'<div class="card"><h4><a href="{E(h["url"])}" rel="noopener">{E(h["name"])}</a></h4><p>{E(h["detail"])}</p><p class="price">{E(h["price"])}</p><p class="verdict">{E(h["verdict"])}</p></div>' for h in t['houses'])
     ag = ''.join(f'<tr><th>{E(a["day"])}</th><td data-label="Everyone">{E(a["all"])}</td><td data-label="Adventure crew">{E(a["crew"])}</td><td data-label="Relaxed crew and kids">{E(a["relax"])}</td></tr>' for a in t['agenda'])
@@ -72,7 +72,7 @@ cards = ''
 for t in data['trips']:
     low = sum(p['low'] for p in t['pricing']); high = sum(p['high'] for p in t['pricing'])
     hero = photo_block(t['key'], 'hero')
-    img = f'<img src="{E(hero["local"])}" alt="{E(t["name"])}">' if hero else f'<div class="ph" style="background:{ACCENT[t["key"]]}"></div>'
+    img = f'<img src="{E(hero.get("thumb", hero["local"]))}" alt="{E(t["name"])}">' if hero else f'<div class="ph" style="background:{ACCENT[t["key"]]}"></div>'
     cards += f'<a class="ocard" href="#{t["key"]}" style="--acc:{ACCENT[t["key"]]}">{img}<div class="ocard-body">' + (f'<span class="tag">{E(t["tag"])}</span>' if t.get('tag') else '') + f'<h3>{E(t["name"])}</h3><p class="small">{E(t["place"])}</p><p>{E(t["pitch"].split(". ")[0])}.</p><p class="band">{money(low)} to {money(high)} for ten</p></div></a>'
 rules = ''.join(f'<li>{E(r)}</li>' for r in s['rules'])
 nav = ''.join(f'<a href="#{t["key"]}">{E(t["name"])}</a>' for t in data['trips'])
