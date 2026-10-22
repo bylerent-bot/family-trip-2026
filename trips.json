@@ -989,7 +989,7 @@
           "detail": "Six bedrooms including a twin bunk room, five baths, sleeps 16, hot tub, a pool that can be heated for a fee, about 15 minutes from downtown.",
           "price": "From $288 a night off-peak; unquoted for the holiday week, where the verifiers put it at $11,000 to $20,000",
           "url": "https://www.thetopvillas.com/destinations/north-carolina/asheville/asheville-12",
-          "verdict": "The lead. Quote first and ask about Christmas-week minimums."
+          "verdict": "Quote first and ask about Christmas-week minimums."
         },
         {
           "name": "Our Mountain Retreat, Arden (south Asheville)",
@@ -1277,7 +1277,7 @@
           "detail": "Six bedrooms including a bunk room, 3.5 baths, sleeps 14, hot tub and a six-person sauna, a front-yard playground. Under a mile to Main Street; the listing says a 10-minute walk to Mirror Lake, a July 2026 reviewer called it an easy 30-minute walk to town. The hot tub has no gate.",
           "price": "Quoted October 21 for December 27 to January 3: $18,757 on Vrbo, $19,310 on Airbnb, fees included",
           "url": "https://www.vrbo.com/7945703ha",
-          "verdict": "The only six-bedroom house confirmed open for the week. Marginal on the walk."
+          "verdict": "The only six-bedroom house confirmed open for the week; a longer walk to town."
         },
         {
           "name": "Camp Kobl Hill (Adirondack Premier Properties)",
@@ -1649,14 +1649,14 @@
           "detail": "Five bedrooms, 3.5 baths, sleeps 15, a private hot tub, a view of Lac Tremblant, the Nansen trail 100 meters away, about 0.6 miles from the village center.",
           "price": "Quoted October 21: $28,651 on Vrbo or CAD 36,544 (about $25,700) on Airbnb for the week",
           "url": "https://www.airbnb.com/rooms/49223744",
-          "verdict": "Five doors, so the kids room with Kristina and Michael. The fallback."
+          "verdict": "Five doors, so the kids room with Kristina and Michael."
         },
         {
           "name": "Verbier 13-203, Spasski",
           "detail": "Five bedrooms plus a four-twin kids room, 3.5 baths, sleeps 16, about 1.2 kilometers from the village on the free shuttle line. The hot tub is shared in the Verbier spa pavilion.",
           "price": "Quoted October 21: CAD 30,049 (about $21,200) on Airbnb with free cancellation, or $23,462 on Vrbo",
           "url": "https://www.airbnb.com/rooms/1202984376613048967",
-          "verdict": "Cheapest fit; fails the private hot tub."
+          "verdict": "The lowest price found; the hot tub is shared, not private."
         },
         {
           "name": "La Maison Blanche (Tremblant Living)",
@@ -1886,7 +1886,7 @@
           "kind": "house"
         },
         {
-          "name": "Havre des Legendes, the five-bedroom fallback",
+          "name": "Havre des Legendes, the five-bedroom option",
           "lat": 46.2207,
           "lng": -74.5908,
           "kind": "house"
