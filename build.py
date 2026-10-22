@@ -14,7 +14,7 @@ ACCENT = {'pr': '#0f7c8c', 'ami': '#d9772f', 'pc': '#3b5b8f', 'avl': '#3f7a4d', 
 def photo_block(key, which):
     ph = photos.get(key, [])
     if not ph: return None
-    return ph[0] if which == 'hero' else ph[1:5]
+    return ph[0] if which == 'hero' else ph[1:]
 
 def credit(p):
     return f"{E(p.get('subject',''))}. Photo: {E(p.get('author',''))}, {E(p.get('license',''))}" + (f" (<a href=\"{E(p['page_url'])}\" rel=\"noopener\">source</a>)" if p.get('page_url') else '')
@@ -31,7 +31,7 @@ def section(t):
         notes += f'<div class="note"><h4>{E(n["title"])}</h4>' + ''.join(f'<p>{E(x)}</p>' for x in n['paragraphs']) + '</div>'
     gal = ''
     if gallery:
-        gal = '<div class="gallery">' + ''.join(f'<figure><img loading="lazy" src="{E(p["local"])}" alt="{E(p.get("subject",""))}"><figcaption>{credit(p)}</figcaption></figure>' for p in gallery) + '</div>'
+        gal = '<div class="gallery">' + ''.join(f'<figure><a href="{E(p["local"])}" class="lb" data-cap="{E(p.get("subject",""))}"><img loading="lazy" src="{E(p["local"])}" alt="{E(p.get("subject",""))}"></a><figcaption>{credit(p)}</figcaption></figure>' for p in gallery) + '</div>'
     gt = ''.join(f'<tr><th>{E(g["from"])}</th><td>{E(g["how"])}' + (f' <a href="{E(g["link"])}" rel="noopener">Link</a>' if g.get('link') else '') + f'</td><td class="num">{E(g["est"])}</td></tr>' for g in t['getting_there'])
     houses = ''.join(f'<div class="card"><h4><a href="{E(h["url"])}" rel="noopener">{E(h["name"])}</a></h4><p>{E(h["detail"])}</p><p class="price">{E(h["price"])}</p><p class="verdict">{E(h["verdict"])}</p></div>' for h in t['houses'])
     ag = ''.join(f'<tr><th>{E(a["day"])}</th><td data-label="Everyone">{E(a["all"])}</td><td data-label="Adventure crew">{E(a["crew"])}</td><td data-label="Relaxed crew and kids">{E(a["relax"])}</td></tr>' for a in t['agenda'])
@@ -122,7 +122,8 @@ section.trip{{margin-top:48px;border-top:1px solid var(--line)}}
 .pitch{{font-size:1.15rem;margin:20px 0 10px}}
 .weather{{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 14px;font-size:.95rem}}
 .note{{background:#fff;border:1px solid var(--line);border-left:4px solid var(--acc);border-radius:10px;padding:12px 16px;margin:14px 0;font-size:.95rem}} .note h4{{margin:0 0 .3em;color:var(--acc)}} .note p{{margin:.4em 0}}
-.gallery{{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:18px 0}}
+.gallery{{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px;margin:18px 0}} .gallery a{{display:block}} .gallery img{{cursor:zoom-in;transition:transform .15s}} .gallery img:hover{{transform:scale(1.02)}}
+#lightbox{{position:fixed;inset:0;background:rgba(15,13,10,.92);display:none;align-items:center;justify-content:center;z-index:200;flex-direction:column;padding:20px;cursor:zoom-out}} #lightbox.open{{display:flex}} #lightbox img{{max-width:96vw;max-height:84vh;object-fit:contain;border-radius:6px;box-shadow:0 10px 40px rgba(0,0,0,.6)}} #lightbox .cap{{color:#eee;font-size:.9rem;margin-top:10px;text-align:center;max-width:90vw}}
 .gallery figure{{margin:0}} .gallery img{{width:100%;height:190px;object-fit:cover;border-radius:10px;display:block}} .gallery figcaption{{font-size:.72rem;color:var(--muted);margin-top:4px}}
 .mapwrap{{display:grid;grid-template-columns:2fr 1fr;gap:16px}} @media(max-width:720px){{.mapwrap{{grid-template-columns:1fr}}}}
 .map{{height:420px;border-radius:12px;border:1px solid var(--line);background:#e9e4da}}
@@ -162,6 +163,7 @@ footer{{margin:60px 0 40px;color:var(--muted);font-size:.85rem}} footer ul{{padd
 </section>
 {''.join(section(t) for t in data['trips'])}
 </main>
+<div id="lightbox" role="dialog" aria-label="Photo"><img alt=""><div class="cap"></div></div>
 <footer class="wrap">
   <p>Built {E(s['built'])} from the family trip research. Preliminary throughout. Prices are estimates for ten at holiday-week rates unless marked published. Maps: OpenStreetMap contributors. Photos as credited below.</p>
   <ul>{credits}</ul>
@@ -190,6 +192,13 @@ function build(){{
   }});
 }}
 if (document.readyState === 'complete') build(); else window.addEventListener('load', build);
+// lightbox
+(function(){{
+  const lb = document.getElementById('lightbox'), im = lb.querySelector('img'), cap = lb.querySelector('.cap');
+  document.querySelectorAll('a.lb').forEach(a => a.addEventListener('click', e => {{ e.preventDefault(); im.src = a.getAttribute('href'); cap.textContent = a.dataset.cap || ''; lb.classList.add('open'); }}));
+  lb.addEventListener('click', () => lb.classList.remove('open'));
+  document.addEventListener('keydown', e => {{ if (e.key === 'Escape') lb.classList.remove('open'); }});
+}})();
 </script>
 </body>
 </html>'''
