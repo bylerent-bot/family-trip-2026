@@ -35,6 +35,442 @@
   },
   "trips": [
     {
+      "key": "bz",
+      "name": "Belize",
+      "place": "Placencia, on the southern coast",
+      "tag": "",
+      "lat": 16.55,
+      "lng": -88.36,
+      "pitch": "A barefoot little fishing-village town on a thin strip of sand, with the barrier reef out front and jungle, Maya ruins and howler monkeys an hour or two inland. The idea would be a six-bedroom beach house with a pool, a pier, kayaks, golf carts and a chef included every other day, and a short hop on a small plane from the international airport so we never go into Belize City. Mom and whoever is certified could dive a reef she hasn't done yet, and the kids would have calm water inside the reef, a little island beach day and the monkeys. There's no surf, though, and the house we found is 8 miles up the road from the village.",
+      "why": [
+        "The diving and snorkeling might be the most of any of the options. The Silk Cayes and Glover's Reef are day boats from the house for Mom and whoever is certified, with the snorkelers on the same boat, and Laughing Bird Caye is a national park 11 miles out.",
+        "It's the only one with jungle and ruins too: Monkey River for howler monkeys and manatees, the Cockscomb jaguar preserve trails, and the Maya sites at Nim Li Punit and Lubaantun about two hours' drive south.",
+        "Mission Bay, the house we'd probably ask about first, has six bedrooms with a real bunk room, a pool by the sand, a pier, kayaks and a golf cart, and a chef comes with the rent for one full day out of every two. It's rated 9.8 out of 10 from 102 reviews.",
+        "Placencia Village has a pedestrian Sidewalk about three quarters of a mile long, with cafes, gelato, little shops and restaurants. From the house you could also walk to the Naia spa, the Maya Beach bistro and Inky's Mini Golf.",
+        "The water stays warm, about 81 degrees, and inside the reef it's flat and shallow for the kids.",
+        "Roughly $27,000 to $58,000 for ten, with the house as the big unknown since no holiday rate is posted yet."
+      ],
+      "catch": [
+        "It's the longest travel day of the options, about 10.5 to 13.5 hours each way. One connection into Belize City, then a 25 to 45 minute flight on a small plane to the Placencia airstrip. Mom might count that hop as a second stop.",
+        "The State Department has Belize at Level 2, Exercise Increased Caution, for crime, reissued March 12, 2026. The Level 3 area is Southside Belize City, which we wouldn't go near. Worth reading the advisory ourselves, the link is below.",
+        "A state of emergency ran from May 8 to about early June 2026 in Belize City and Belize District, including Ladyville, where the international airport is. It ended (the UK took its notice down June 12) and we found no renewal through October 21. Placencia was never part of it, and we'd stay inside the airport between flights.",
+        "On the peninsula itself: in February 2025 a US developer was shot dead outside his villa project at Cocoplum on Maya Beach, which police called a targeted hit tied to a fraud dispute. That's the same development Mission Bay is in. In March 2026 a man was stabbed to death by a neighbor in the Maya Beach area, which police said was not gang-related. In October 2023 armed men tied up the guard at the Placencia airstrip and stole a small plane, which crashed, and police suspected a drug flight. In March 2023 robbers hit a beach house at a Seine Bight resort and traded fire with police, with no one hurt. We found no 2026 shootings in Placencia.",
+        "Medical care is thin. The Placencia Polyclinic near the airstrip is billed as 24-hour, though local reporting found it unstaffed on one visit, and it's about 8 miles from the house. The nearest hospital is in Dangriga, about 1 to 1.5 hours away, and anything serious would mean a flight to Belize City. We'd bring epinephrine from home.",
+        "No six-bedroom house turned up inside the village walk. Mission Bay is 8 miles north, roughly 25 to 35 minutes by golf cart by our guess, on the one peninsula road, which is unlit at night.",
+        "No surf to speak of, since the reef blocks the swell.",
+        "December northers can bring a gray, windy day or two and cancel the outer-reef boat days. 2026 has also been a record sargassum year, and the east-facing beaches where the houses sit can get seaweed.",
+        "The Blue Hole is 3.5 hours each way by boat from Placencia, so that would be a long day just for the certified divers.",
+        "Every house is request-only or shows no calendar for December 27 to January 3, and late October is late to be asking about a holiday six-bedroom."
+      ],
+      "weather": "Warm and mostly sunny, with highs around 81, nights around 68 to 72 and the sea about 81. Expect passing showers most days, with sources disagreeing on how much rain (somewhere from 3 to 7 inches over the month). Now and then a norther comes through and makes it cooler, breezy and choppy for a day or two. Late December is the start of the busy season.",
+      "notes": [
+        {
+          "title": "What about Ambergris Caye?",
+          "paragraphs": [
+            "The reef starts right at the dock of a six-bedroom villa with a pool, Hol Chan and Shark Ray Alley are about 15 minutes away by boat, and Mom could reach the Blue Hole in about two hours instead of three and a half, so it would probably be the easier dive week. The hop from the international airport is only 15 minutes, and the island has a private hospital with a decompression chamber. Town is a 15 to 20 minute golf-cart ride, a bit closer than Placencia but still not a walk. The island has had a rougher 2026 for crime, which we'd want to read up on, and the house we found has mixed reviews. Roughly $28,500 to $49,000 for ten, with no holiday rate posted for the house yet."
+          ]
+        }
+      ],
+      "getting_there": [
+        {
+          "from": "Norfolk (7)",
+          "how": "No nonstop. One connection into Belize City through Charlotte (American flies Charlotte to Belize daily), Atlanta (Delta) or Miami (American). Kayak shows the shortest one-stop trip at about 6 hours 43 minutes. Then the small-plane hop to Placencia from the same terminal. The earliest morning flight out would give us the most room to make the hop.",
+          "est": "About $850 to $1,300 a seat, our guess for the holidays (Kayak's December median is $829)",
+          "link": "https://www.kayak.com/flight-routes/Norfolk-ORF/Belize-City-Philip-S-W-Goldson-BZE"
+        },
+        {
+          "from": "Richmond (2)",
+          "how": "No nonstop. One connection through Miami, Atlanta (shortest average about 7 hours 12 minutes), Houston or Charlotte, then the hop to Placencia.",
+          "est": "About $850 to $1,300 a seat, our guess",
+          "link": "https://www.kayak.com/flight-routes/Richmond-RIC/Belize-City-Philip-S-W-Goldson-BZE"
+        },
+        {
+          "from": "Austin (1)",
+          "how": "One connection through Houston (United from Bush, Southwest from Hobby), Dallas (American) or Miami, then the hop to Placencia.",
+          "est": "About $600 to $1,000, our guess",
+          "link": "https://www.kayak.com/flight-routes/Austin-Bergstrom-AUS/Belize-City-Philip-S-W-Goldson-BZE"
+        },
+        {
+          "from": "On the ground",
+          "how": "Tropic Air and Maya Island Air fly from the international airport to the Placencia airstrip in 25 to 45 minutes, depending on whether they stop in Dangriga. The trackers disagree on how many flights a day (2 to 5 a day on one, about 9 a week on another), so a morning arrival in Belize City would help. The planes are small, so bags are limited, which matters with dive gear, and we'd ask Tropic Air for a group quote. The other way is about a 3.5-hour drive by van, skipping Belize City on the Burrell Boom road, with the Belize Zoo on the way. At the house, golf carts and taxis. Belize is an hour behind Eastern time in winter.",
+          "est": "Tropic Air round trips seen at $198 to $290 for non-holiday dates, a van for ten would need a quote",
+          "link": "https://flights.tropicair.com/en/flights-to-placencia"
+        }
+      ],
+      "houses": [
+        {
+          "name": "Mission Bay (Gecko Vacation Rentals)",
+          "detail": "Six bedrooms and 5 baths in Cocoplum near Maya Beach. The listing shows four kings, a queen and a twin-bunk room, plus a twin daybed in the top-floor suite, though its two bed lists don't match. Sleeps 12 with a cap of 10 adults, so the 8 adults and 2 kids fit. A freshwater pool by the sand (the listing also mentions an infinity pool out back), a pier with a palapa, kayaks, paddleboards and one 4-seat golf cart, walled and gated. A chef comes with the house for one full day for every two nights, groceries at cost, with extra chef days at $125. It's on three floors with stairs and the main suite on the top floor, so we'd ask which bedrooms are on the ground floor and whether the pool is fenced. About 8 miles to the village, with the Naia spa and Inky's Mini Golf a short walk. 9.8 out of 10 from 102 reviews.",
+          "price": "From $768 a night on Vrbo, but that's a one-night October quote for two adults. No holiday rate or calendar posted for the week",
+          "url": "https://www.vrbo.com/909816",
+          "verdict": "The one we'd probably call first. It's the six-bedroom we could confirm in detail, with a real bunk room, and the chef comes with it."
+        },
+        {
+          "name": "Maya Alux (Dream Exotic Rentals)",
+          "detail": "Six bedrooms: four king suites on the main floor and a two-bedroom apartment upstairs with a queen and a full-over-full bunk room. Four baths, some shared, sleeps 14. A beachfront pool, a rooftop terrace, kayaks, paddleboards, bikes and a gym, with daily maid, laundry, a 6-seat golf cart and one airport transfer included. The listing only says Placencia, so we don't know how far it is from the village. Dream Exotic says the chef is extra and Expedia says it's included.",
+          "price": "From $1,200 a night in low season, holiday rate not posted. Request only, 4 to 7 night minimum",
+          "url": "https://www.dreamexoticrentals.com/properties/LatinAmerica/Belize/Maya-Alux.htm",
+          "verdict": "Could be a good second call, once we find out where on the peninsula it actually is."
+        },
+        {
+          "name": "Island Breeze Villa, Placencia Caye (Dream Exotic Rentals)",
+          "detail": "Five bedrooms on a little island across from the village: four kings and a kids' room with four single beds, sleeps 14. A rooftop pool with a bar, a private sandy beach on the calm side for swimming and snorkeling, kayaks and paddleboards. A chef three days a week is included, food extra, plus a caretaker, maid and laundry. A shuttle boat gets to the village dock in about 2 minutes. The listings disagree on the number of bathrooms.",
+          "price": "From $750 a night in low season, holiday rate not posted. Request only",
+          "url": "https://www.dreamexoticrentals.com/properties/LatinAmerica/Belize/Island-Breeze-Villa.htm",
+          "verdict": "Closest to town of anything we found, but it's one bedroom short and every trip in is a boat ride."
+        },
+        {
+          "name": "Casa Corazon (Top Villas)",
+          "detail": "Six bedrooms including a casita, with a king, four queens and a twin-over-double bunk, 4.5 baths, sleeps 14 per Top Villas. Vacasa lists what looks like the same house as five bedrooms for 10, so the layout needs checking. An infinity pool, a private pier with a palapa and beachfront on the northern part of the peninsula, a short drive to the village and about 5 km from Maya Beach. A chef three days for a weekly stay, food extra.",
+          "price": "From $898 a night, holiday rate not posted",
+          "url": "https://www.thetopvillas.com/en_gb/destinations/caribbean/belize/placencia-peninsula/casa-corazon",
+          "verdict": "Worth asking about if the first two are taken, though it's farther from everything."
+        },
+        {
+          "name": "Conmigo Villas, Maya Beach",
+          "detail": "Six bedrooms and 6 baths in two connected units, each with its own kitchen, sleeps 20. A pool with a poolside bar, beachfront, a private pier and kayaks. A listing says a private chef is included. About 7 to 8 miles from the village.",
+          "price": "Not shown online for the week",
+          "url": "https://www.expedia.com/Placencia-Hotels-Conmigo-Villas-6-Bedroom-Beachfront-W-Pool.h107992207.Hotel-Information",
+          "verdict": "Two units side by side, so we'd be split a bit. Price and dates would take a phone call."
+        }
+      ],
+      "agenda": [
+        {
+          "day": "Sun Dec 27",
+          "all": "The earliest flights out of Norfolk, Richmond and Austin, one connection into Belize City by early afternoon, and the little plane down to Placencia. Golf carts at the house, the pool and an easy dinner.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Mon Dec 28",
+          "all": "Dinner at the house.",
+          "crew": "A half-day of flats or reef fishing in the afternoon.",
+          "relax": "A pool and beach morning, then golf carts into the village for lunch, the Sidewalk and gelato at Tutti Frutti."
+        },
+        {
+          "day": "Tue Dec 29",
+          "all": "A private boat out to Laughing Bird Caye, snorkeling and a beach picnic, back by mid-afternoon for Taylor's nap. Bennett could snorkel in a vest and Taylor could play on the sand. First chef day.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Wed Dec 30",
+          "all": "",
+          "crew": "A two-tank dive at the Silk Cayes for Mom and whoever is certified, with the snorkelers on the same boat. Or the Blue Hole day for the certified divers, 3.5 hours each way.",
+          "relax": "The Naia spa for whoever wants it. Kids at the pool and Inky's Mini Golf."
+        },
+        {
+          "day": "Thu Dec 31",
+          "all": "Monkey River in the morning for howler monkeys, manatees and birds, maybe a shorter private trip so it isn't too long for Taylor. New Year's Eve dinner at the house with the chef.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Fri Jan 1",
+          "all": "A slow day, and if a norther knocked out a boat day earlier, this could be the makeup day.",
+          "crew": "Glover's Reef dives for Mom and whoever is certified, or an offshore fishing trip.",
+          "relax": "Beach and pool at the house, kayaks on the calm lagoon side, or the Sidewalk end to end with coffee at Brewed Awakenings."
+        },
+        {
+          "day": "Sat Jan 2",
+          "all": "A farewell dinner with the chef.",
+          "crew": "The Maya ruins at Nim Li Punit and Lubaantun, about two hours' drive, with lunch in Toledo. Or the Moho Caye day sail.",
+          "relax": "Che'il chocolate-making in Maya Center with the kids, and maybe a waterfall swim and the Cockscomb trails on the way."
+        },
+        {
+          "day": "Sun Jan 3",
+          "all": "A morning swim, the little plane back to Belize City and one connection home.",
+          "crew": "",
+          "relax": ""
+        }
+      ],
+      "pricing": [
+        {
+          "item": "House, seven nights",
+          "low": 7000,
+          "high": 18000,
+          "note": "Our guess, since no holiday rate is posted. Mission Bay at its $768 October rate would be about $5,400 for the week, and $1,000 or $1,500 a night would be $7,000 or $10,500. Maya Alux starts at $1,200 a night and Casa Corazon at $898"
+        },
+        {
+          "item": "International flights for ten",
+          "low": 8250,
+          "high": 12700,
+          "note": "Our guess: seven Norfolk and two Richmond seats at $850 to $1,300 (Kayak's December median from Norfolk is $829, and a December 30 to January 3 sample was $995) and one Austin seat at $600 to $1,000. Taylor needs a seat. Not quoted"
+        },
+        {
+          "item": "Small-plane hop to Placencia and back, for ten",
+          "low": 2000,
+          "high": 3500,
+          "note": "Tropic Air round trips we saw ran $198 to $290 for non-holiday dates, and holiday fares will likely be higher. A van for ten is the other way, but needs a quote"
+        },
+        {
+          "item": "Golf carts",
+          "low": 500,
+          "high": 1800,
+          "note": "Mission Bay includes one 4-seat cart, and two more 6-seat carts are $450 a week each. Barefoot Services lists a 4-seat cart at $127 a day. Taxis at night"
+        },
+        {
+          "item": "Snorkel and dive trips",
+          "low": 1800,
+          "high": 4500,
+          "note": "Laughing Bird for ten at $75 to $140 each, a Silk Caye day at about $150 a diver and $90 to $180 a snorkeler, Glover's Reef not priced yet, and the Blue Hole at about $360 a diver if anyone goes"
+        },
+        {
+          "item": "Fishing and a sailing day",
+          "low": 500,
+          "high": 2300,
+          "note": "A half-day charter at about $500 to $900 (Captain Experiences averages $851), and the private Moho Caye sail at $1,235 to $1,389"
+        },
+        {
+          "item": "Mainland days (Monkey River, chocolate, Cockscomb)",
+          "low": 1200,
+          "high": 2800,
+          "note": "Monkey River at $120 to $130 an adult, chocolate and a waterfall at $150 an adult, kids' rates on request"
+        },
+        {
+          "item": "Chef",
+          "low": 250,
+          "high": 2000,
+          "note": "Mission Bay's chef days come with the house. Extra days are $125, and the all-in food package is $75 a person per chef day, or $750 a day for ten"
+        },
+        {
+          "item": "Groceries and dining",
+          "low": 3000,
+          "high": 6000,
+          "note": "A rough allowance, including about $1,400 in chef groceries (Mission Bay bills about $45 to $50 a person per chef day, at cost) and two or three nights out. Groceries are imported, so more than at home"
+        },
+        {
+          "item": "Medevac and dive insurance",
+          "low": 800,
+          "high": 1300,
+          "note": "Medjet's short-term plan runs about $99 a person or $198 a family for 8 days, from third-party price tables, and Mom qualifies at 73. Dive accident cover for the divers adds a little"
+        },
+        {
+          "item": "Tips, taxes and fees",
+          "low": 1200,
+          "high": 3000,
+          "note": "Tips for the house staff, chef and guides at 10 to 15 percent, any lodging tax not in the quote, and park fees. Departure taxes are usually in the airfare"
+        }
+      ],
+      "links": {
+        "Activities": [
+          {
+            "label": "Splash Dive Center, Laughing Bird or Silk Caye",
+            "url": "https://caribbeanlifestyle.com/laughing-bird-or-silk-caye-splash-dive-center-placencia-belize-snorkel/"
+          },
+          {
+            "label": "Laughing Bird Caye snorkel day (Splash, $140)",
+            "url": "https://www.travelocity.com/things-to-do/placencia-snorkel-island-experience-at-laughing-bird-caye.a48950845.activity-details"
+          },
+          {
+            "label": "Silk Caye snorkel day (Splash, $180)",
+            "url": "https://www.travelocity.com/things-to-do/snorkel-the-perfect-tropical-isle-silk-caye-with-turtles-rays-and-sharks.a1213393.activity-details"
+          },
+          {
+            "label": "Seahorse Dive Shop, Placencia",
+            "url": "https://cursosdebuceo.com/es/centros/placencia/seahorse-dive-shop/18519"
+          },
+          {
+            "label": "Blue Hole dive from Placencia (certified divers)",
+            "url": "https://cursosdebuceo.com/es/cursos/placencia/seahorse-dive-shop/blue-hole-dive/164358"
+          },
+          {
+            "label": "Monkey River and manatee watch (Captain Jak's)",
+            "url": "https://www.travelocity.com/things-to-do/monkey-river-manatee-watch.a992881.activity-details"
+          },
+          {
+            "label": "Mayan chocolate and waterfall from Placencia",
+            "url": "https://www.orbitz.com/things-to-do/tour-to-mayan-chocolate-making-waterfall-from-placencia.a50828764.activity-details"
+          },
+          {
+            "label": "Private sail to Moho Caye (Barefoot Services)",
+            "url": "https://www.wetravel.com/trips/private-sailing-to-moho-caye-barefoot-services-4616541385"
+          },
+          {
+            "label": "Placencia fishing charters",
+            "url": "https://captainexperiences.com/locations/belize/placencia/flats"
+          },
+          {
+            "label": "Naia Resort and Spa (renovation listed through November 30, worth confirming it's open)",
+            "url": "https://www.scottdunn.com/us/belize/hotels/naia-resort-spa"
+          },
+          {
+            "label": "Day trips from Placencia",
+            "url": "https://chabilmarvillas.com/day-trips-from-placencia-belize.html"
+          }
+        ],
+        "Food": [
+          {
+            "label": "Placencia restaurant guide",
+            "url": "https://belizeadventure.ca/placencia-best-restaurants/"
+          },
+          {
+            "label": "Placencia restaurant listings",
+            "url": "https://www.placencia.com/business-listings/category/restaurants"
+          }
+        ],
+        "Travel": [
+          {
+            "label": "Mission Bay on Vrbo (Gecko)",
+            "url": "https://www.vrbo.com/909816"
+          },
+          {
+            "label": "Maya Alux (Dream Exotic Rentals)",
+            "url": "https://www.dreamexoticrentals.com/properties/LatinAmerica/Belize/Maya-Alux.htm"
+          },
+          {
+            "label": "Island Breeze Villa (Dream Exotic Rentals)",
+            "url": "https://www.dreamexoticrentals.com/properties/LatinAmerica/Belize/Island-Breeze-Villa.htm"
+          },
+          {
+            "label": "Casa Corazon (Top Villas)",
+            "url": "https://www.thetopvillas.com/en_gb/destinations/caribbean/belize/placencia-peninsula/casa-corazon"
+          },
+          {
+            "label": "Tropic Air flights to Placencia",
+            "url": "https://flights.tropicair.com/en/flights-to-placencia"
+          },
+          {
+            "label": "Kayak, Norfolk to Belize City fares",
+            "url": "https://www.kayak.com/flight-routes/Norfolk-ORF/Belize-City-Philip-S-W-Goldson-BZE"
+          },
+          {
+            "label": "Kayak, Richmond to Belize City fares",
+            "url": "https://www.kayak.com/flight-routes/Richmond-RIC/Belize-City-Philip-S-W-Goldson-BZE"
+          },
+          {
+            "label": "Kayak, Austin to Belize City fares",
+            "url": "https://www.kayak.com/flight-routes/Austin-Bergstrom-AUS/Belize-City-Philip-S-W-Goldson-BZE"
+          },
+          {
+            "label": "Golf cart rental (Barefoot Services)",
+            "url": "https://barefootservices.wetravel.com/trips/golf-cart-rental-barefoot-services-07612363"
+          },
+          {
+            "label": "State Department Belize travel advisory",
+            "url": "https://travel.state.gov/en/international-travel/travel-advisories/belize.html"
+          },
+          {
+            "label": "Medjet short-term memberships",
+            "url": "https://www.insuremytrip.com/travel-insurance-providers/medjet/short-term"
+          },
+          {
+            "label": "Ambergris Caye: Villa Incommunicada, six bedrooms on the reef",
+            "url": "https://www.vrbo.com/1691402"
+          }
+        ]
+      },
+      "markers": [
+        {
+          "name": "Placencia Village and the Sidewalk",
+          "lat": 16.5139,
+          "lng": -88.3667,
+          "kind": "town"
+        },
+        {
+          "name": "Placencia airstrip (PLJ), with the polyclinic nearby",
+          "lat": 16.5372,
+          "lng": -88.3611,
+          "kind": "airport"
+        },
+        {
+          "name": "Seine Bight",
+          "lat": 16.5674,
+          "lng": -88.3658,
+          "kind": "town"
+        },
+        {
+          "name": "Mission Bay area, Cocoplum, and the Naia spa (8 miles north of the village)",
+          "lat": 16.592,
+          "lng": -88.3564,
+          "kind": "house"
+        },
+        {
+          "name": "Maya Beach",
+          "lat": 16.6142,
+          "lng": -88.354,
+          "kind": "town"
+        },
+        {
+          "name": "Laughing Bird Caye National Park",
+          "lat": 16.4434,
+          "lng": -88.1973,
+          "kind": "spot"
+        },
+        {
+          "name": "Monkey River Town",
+          "lat": 16.3633,
+          "lng": -88.4853,
+          "kind": "spot"
+        },
+        {
+          "name": "Nim Li Punit Maya site",
+          "lat": 16.3167,
+          "lng": -88.8,
+          "kind": "spot"
+        },
+        {
+          "name": "Glover's Reef atoll",
+          "lat": 16.823,
+          "lng": -87.791,
+          "kind": "spot"
+        },
+        {
+          "name": "Southern Regional Hospital, Dangriga",
+          "lat": 16.9623,
+          "lng": -88.2381,
+          "kind": "spot"
+        },
+        {
+          "name": "Great Blue Hole, Lighthouse Reef (3.5 hours by boat)",
+          "lat": 17.3153,
+          "lng": -87.5344,
+          "kind": "spot"
+        },
+        {
+          "name": "The Belize Zoo",
+          "lat": 17.3549,
+          "lng": -88.5539,
+          "kind": "spot"
+        },
+        {
+          "name": "Belize City international airport (BZE), Ladyville",
+          "lat": 17.5392,
+          "lng": -88.3083,
+          "kind": "airport"
+        }
+      ],
+      "zoom": 11,
+      "glance": [
+        {
+          "pro": "The most diving and snorkeling of the five, plus jungle and Maya ruins",
+          "con": "The longest travel day, 10.5 to 13.5 hours, with a small-plane hop Mom might count as a second stop"
+        },
+        {
+          "pro": "Mission Bay comes with a chef every other day, a real bunk room and a 9.8 rating",
+          "con": "The house is 8 miles from the village on one unlit road"
+        },
+        {
+          "pro": "Warm, about 81 degrees, with calm shallow water inside the reef for the kids",
+          "con": "2026 has been a record sargassum year on the east-facing beaches where the houses sit"
+        },
+        {
+          "pro": "About $27k to $58k, overlapping Puerto Rico",
+          "con": "State Department Level 2, and worth reading the advisory ourselves"
+        },
+        {
+          "pro": "We'd never set foot in Belize City",
+          "con": "No surf, northers can cancel boat days, and every house is request-only"
+        }
+      ],
+      "compare": {
+        "Flights": "One connection to Belize City, then a small-plane hop",
+        "House": "Mission Bay, six bedrooms, chef included, no holiday rate yet",
+        "Out the door": "The village is 8 miles by golf cart",
+        "Weather": "About 81, sea 81, the odd norther"
+      }
+    },
+    {
       "key": "pr",
       "name": "Puerto Rico",
       "place": "Rincón, with Old San Juan at each end",
@@ -1436,442 +1872,6 @@
         "House": "Panache 784, six bedrooms, private hot tub, open and priced",
         "Out the door": "The village by shuttle",
         "Weather": "Highs in the 20s, nights near 5"
-      }
-    },
-    {
-      "key": "bz",
-      "name": "Belize",
-      "place": "Placencia, on the southern coast",
-      "tag": "",
-      "lat": 16.55,
-      "lng": -88.36,
-      "pitch": "A barefoot little fishing-village town on a thin strip of sand, with the barrier reef out front and jungle, Maya ruins and howler monkeys an hour or two inland. The idea would be a six-bedroom beach house with a pool, a pier, kayaks, golf carts and a chef included every other day, and a short hop on a small plane from the international airport so we never go into Belize City. Mom and whoever is certified could dive a reef she hasn't done yet, and the kids would have calm water inside the reef, a little island beach day and the monkeys. There's no surf, though, and the house we found is 8 miles up the road from the village.",
-      "why": [
-        "The diving and snorkeling might be the most of any of the options. The Silk Cayes and Glover's Reef are day boats from the house for Mom and whoever is certified, with the snorkelers on the same boat, and Laughing Bird Caye is a national park 11 miles out.",
-        "It's the only one with jungle and ruins too: Monkey River for howler monkeys and manatees, the Cockscomb jaguar preserve trails, and the Maya sites at Nim Li Punit and Lubaantun about two hours' drive south.",
-        "Mission Bay, the house we'd probably ask about first, has six bedrooms with a real bunk room, a pool by the sand, a pier, kayaks and a golf cart, and a chef comes with the rent for one full day out of every two. It's rated 9.8 out of 10 from 102 reviews.",
-        "Placencia Village has a pedestrian Sidewalk about three quarters of a mile long, with cafes, gelato, little shops and restaurants. From the house you could also walk to the Naia spa, the Maya Beach bistro and Inky's Mini Golf.",
-        "The water stays warm, about 81 degrees, and inside the reef it's flat and shallow for the kids.",
-        "Roughly $27,000 to $58,000 for ten, with the house as the big unknown since no holiday rate is posted yet."
-      ],
-      "catch": [
-        "It's the longest travel day of the options, about 10.5 to 13.5 hours each way. One connection into Belize City, then a 25 to 45 minute flight on a small plane to the Placencia airstrip. Mom might count that hop as a second stop.",
-        "The State Department has Belize at Level 2, Exercise Increased Caution, for crime, reissued March 12, 2026. The Level 3 area is Southside Belize City, which we wouldn't go near. Worth reading the advisory ourselves, the link is below.",
-        "A state of emergency ran from May 8 to about early June 2026 in Belize City and Belize District, including Ladyville, where the international airport is. It ended (the UK took its notice down June 12) and we found no renewal through October 21. Placencia was never part of it, and we'd stay inside the airport between flights.",
-        "On the peninsula itself: in February 2025 a US developer was shot dead outside his villa project at Cocoplum on Maya Beach, which police called a targeted hit tied to a fraud dispute. That's the same development Mission Bay is in. In March 2026 a man was stabbed to death by a neighbor in the Maya Beach area, which police said was not gang-related. In October 2023 armed men tied up the guard at the Placencia airstrip and stole a small plane, which crashed, and police suspected a drug flight. In March 2023 robbers hit a beach house at a Seine Bight resort and traded fire with police, with no one hurt. We found no 2026 shootings in Placencia.",
-        "Medical care is thin. The Placencia Polyclinic near the airstrip is billed as 24-hour, though local reporting found it unstaffed on one visit, and it's about 8 miles from the house. The nearest hospital is in Dangriga, about 1 to 1.5 hours away, and anything serious would mean a flight to Belize City. We'd bring epinephrine from home.",
-        "No six-bedroom house turned up inside the village walk. Mission Bay is 8 miles north, roughly 25 to 35 minutes by golf cart by our guess, on the one peninsula road, which is unlit at night.",
-        "No surf to speak of, since the reef blocks the swell.",
-        "December northers can bring a gray, windy day or two and cancel the outer-reef boat days. 2026 has also been a record sargassum year, and the east-facing beaches where the houses sit can get seaweed.",
-        "The Blue Hole is 3.5 hours each way by boat from Placencia, so that would be a long day just for the certified divers.",
-        "Every house is request-only or shows no calendar for December 27 to January 3, and late October is late to be asking about a holiday six-bedroom."
-      ],
-      "weather": "Warm and mostly sunny, with highs around 81, nights around 68 to 72 and the sea about 81. Expect passing showers most days, with sources disagreeing on how much rain (somewhere from 3 to 7 inches over the month). Now and then a norther comes through and makes it cooler, breezy and choppy for a day or two. Late December is the start of the busy season.",
-      "notes": [
-        {
-          "title": "What about Ambergris Caye?",
-          "paragraphs": [
-            "The reef starts right at the dock of a six-bedroom villa with a pool, Hol Chan and Shark Ray Alley are about 15 minutes away by boat, and Mom could reach the Blue Hole in about two hours instead of three and a half, so it would probably be the easier dive week. The hop from the international airport is only 15 minutes, and the island has a private hospital with a decompression chamber. Town is a 15 to 20 minute golf-cart ride, a bit closer than Placencia but still not a walk. The island has had a rougher 2026 for crime, which we'd want to read up on, and the house we found has mixed reviews. Roughly $28,500 to $49,000 for ten, with no holiday rate posted for the house yet."
-          ]
-        }
-      ],
-      "getting_there": [
-        {
-          "from": "Norfolk (7)",
-          "how": "No nonstop. One connection into Belize City through Charlotte (American flies Charlotte to Belize daily), Atlanta (Delta) or Miami (American). Kayak shows the shortest one-stop trip at about 6 hours 43 minutes. Then the small-plane hop to Placencia from the same terminal. The earliest morning flight out would give us the most room to make the hop.",
-          "est": "About $850 to $1,300 a seat, our guess for the holidays (Kayak's December median is $829)",
-          "link": "https://www.kayak.com/flight-routes/Norfolk-ORF/Belize-City-Philip-S-W-Goldson-BZE"
-        },
-        {
-          "from": "Richmond (2)",
-          "how": "No nonstop. One connection through Miami, Atlanta (shortest average about 7 hours 12 minutes), Houston or Charlotte, then the hop to Placencia.",
-          "est": "About $850 to $1,300 a seat, our guess",
-          "link": "https://www.kayak.com/flight-routes/Richmond-RIC/Belize-City-Philip-S-W-Goldson-BZE"
-        },
-        {
-          "from": "Austin (1)",
-          "how": "One connection through Houston (United from Bush, Southwest from Hobby), Dallas (American) or Miami, then the hop to Placencia.",
-          "est": "About $600 to $1,000, our guess",
-          "link": "https://www.kayak.com/flight-routes/Austin-Bergstrom-AUS/Belize-City-Philip-S-W-Goldson-BZE"
-        },
-        {
-          "from": "On the ground",
-          "how": "Tropic Air and Maya Island Air fly from the international airport to the Placencia airstrip in 25 to 45 minutes, depending on whether they stop in Dangriga. The trackers disagree on how many flights a day (2 to 5 a day on one, about 9 a week on another), so a morning arrival in Belize City would help. The planes are small, so bags are limited, which matters with dive gear, and we'd ask Tropic Air for a group quote. The other way is about a 3.5-hour drive by van, skipping Belize City on the Burrell Boom road, with the Belize Zoo on the way. At the house, golf carts and taxis. Belize is an hour behind Eastern time in winter.",
-          "est": "Tropic Air round trips seen at $198 to $290 for non-holiday dates, a van for ten would need a quote",
-          "link": "https://flights.tropicair.com/en/flights-to-placencia"
-        }
-      ],
-      "houses": [
-        {
-          "name": "Mission Bay (Gecko Vacation Rentals)",
-          "detail": "Six bedrooms and 5 baths in Cocoplum near Maya Beach. The listing shows four kings, a queen and a twin-bunk room, plus a twin daybed in the top-floor suite, though its two bed lists don't match. Sleeps 12 with a cap of 10 adults, so the 8 adults and 2 kids fit. A freshwater pool by the sand (the listing also mentions an infinity pool out back), a pier with a palapa, kayaks, paddleboards and one 4-seat golf cart, walled and gated. A chef comes with the house for one full day for every two nights, groceries at cost, with extra chef days at $125. It's on three floors with stairs and the main suite on the top floor, so we'd ask which bedrooms are on the ground floor and whether the pool is fenced. About 8 miles to the village, with the Naia spa and Inky's Mini Golf a short walk. 9.8 out of 10 from 102 reviews.",
-          "price": "From $768 a night on Vrbo, but that's a one-night October quote for two adults. No holiday rate or calendar posted for the week",
-          "url": "https://www.vrbo.com/909816",
-          "verdict": "The one we'd probably call first. It's the six-bedroom we could confirm in detail, with a real bunk room, and the chef comes with it."
-        },
-        {
-          "name": "Maya Alux (Dream Exotic Rentals)",
-          "detail": "Six bedrooms: four king suites on the main floor and a two-bedroom apartment upstairs with a queen and a full-over-full bunk room. Four baths, some shared, sleeps 14. A beachfront pool, a rooftop terrace, kayaks, paddleboards, bikes and a gym, with daily maid, laundry, a 6-seat golf cart and one airport transfer included. The listing only says Placencia, so we don't know how far it is from the village. Dream Exotic says the chef is extra and Expedia says it's included.",
-          "price": "From $1,200 a night in low season, holiday rate not posted. Request only, 4 to 7 night minimum",
-          "url": "https://www.dreamexoticrentals.com/properties/LatinAmerica/Belize/Maya-Alux.htm",
-          "verdict": "Could be a good second call, once we find out where on the peninsula it actually is."
-        },
-        {
-          "name": "Island Breeze Villa, Placencia Caye (Dream Exotic Rentals)",
-          "detail": "Five bedrooms on a little island across from the village: four kings and a kids' room with four single beds, sleeps 14. A rooftop pool with a bar, a private sandy beach on the calm side for swimming and snorkeling, kayaks and paddleboards. A chef three days a week is included, food extra, plus a caretaker, maid and laundry. A shuttle boat gets to the village dock in about 2 minutes. The listings disagree on the number of bathrooms.",
-          "price": "From $750 a night in low season, holiday rate not posted. Request only",
-          "url": "https://www.dreamexoticrentals.com/properties/LatinAmerica/Belize/Island-Breeze-Villa.htm",
-          "verdict": "Closest to town of anything we found, but it's one bedroom short and every trip in is a boat ride."
-        },
-        {
-          "name": "Casa Corazon (Top Villas)",
-          "detail": "Six bedrooms including a casita, with a king, four queens and a twin-over-double bunk, 4.5 baths, sleeps 14 per Top Villas. Vacasa lists what looks like the same house as five bedrooms for 10, so the layout needs checking. An infinity pool, a private pier with a palapa and beachfront on the northern part of the peninsula, a short drive to the village and about 5 km from Maya Beach. A chef three days for a weekly stay, food extra.",
-          "price": "From $898 a night, holiday rate not posted",
-          "url": "https://www.thetopvillas.com/en_gb/destinations/caribbean/belize/placencia-peninsula/casa-corazon",
-          "verdict": "Worth asking about if the first two are taken, though it's farther from everything."
-        },
-        {
-          "name": "Conmigo Villas, Maya Beach",
-          "detail": "Six bedrooms and 6 baths in two connected units, each with its own kitchen, sleeps 20. A pool with a poolside bar, beachfront, a private pier and kayaks. A listing says a private chef is included. About 7 to 8 miles from the village.",
-          "price": "Not shown online for the week",
-          "url": "https://www.expedia.com/Placencia-Hotels-Conmigo-Villas-6-Bedroom-Beachfront-W-Pool.h107992207.Hotel-Information",
-          "verdict": "Two units side by side, so we'd be split a bit. Price and dates would take a phone call."
-        }
-      ],
-      "agenda": [
-        {
-          "day": "Sun Dec 27",
-          "all": "The earliest flights out of Norfolk, Richmond and Austin, one connection into Belize City by early afternoon, and the little plane down to Placencia. Golf carts at the house, the pool and an easy dinner.",
-          "crew": "",
-          "relax": ""
-        },
-        {
-          "day": "Mon Dec 28",
-          "all": "Dinner at the house.",
-          "crew": "A half-day of flats or reef fishing in the afternoon.",
-          "relax": "A pool and beach morning, then golf carts into the village for lunch, the Sidewalk and gelato at Tutti Frutti."
-        },
-        {
-          "day": "Tue Dec 29",
-          "all": "A private boat out to Laughing Bird Caye, snorkeling and a beach picnic, back by mid-afternoon for Taylor's nap. Bennett could snorkel in a vest and Taylor could play on the sand. First chef day.",
-          "crew": "",
-          "relax": ""
-        },
-        {
-          "day": "Wed Dec 30",
-          "all": "",
-          "crew": "A two-tank dive at the Silk Cayes for Mom and whoever is certified, with the snorkelers on the same boat. Or the Blue Hole day for the certified divers, 3.5 hours each way.",
-          "relax": "The Naia spa for whoever wants it. Kids at the pool and Inky's Mini Golf."
-        },
-        {
-          "day": "Thu Dec 31",
-          "all": "Monkey River in the morning for howler monkeys, manatees and birds, maybe a shorter private trip so it isn't too long for Taylor. New Year's Eve dinner at the house with the chef.",
-          "crew": "",
-          "relax": ""
-        },
-        {
-          "day": "Fri Jan 1",
-          "all": "A slow day, and if a norther knocked out a boat day earlier, this could be the makeup day.",
-          "crew": "Glover's Reef dives for Mom and whoever is certified, or an offshore fishing trip.",
-          "relax": "Beach and pool at the house, kayaks on the calm lagoon side, or the Sidewalk end to end with coffee at Brewed Awakenings."
-        },
-        {
-          "day": "Sat Jan 2",
-          "all": "A farewell dinner with the chef.",
-          "crew": "The Maya ruins at Nim Li Punit and Lubaantun, about two hours' drive, with lunch in Toledo. Or the Moho Caye day sail.",
-          "relax": "Che'il chocolate-making in Maya Center with the kids, and maybe a waterfall swim and the Cockscomb trails on the way."
-        },
-        {
-          "day": "Sun Jan 3",
-          "all": "A morning swim, the little plane back to Belize City and one connection home.",
-          "crew": "",
-          "relax": ""
-        }
-      ],
-      "pricing": [
-        {
-          "item": "House, seven nights",
-          "low": 7000,
-          "high": 18000,
-          "note": "Our guess, since no holiday rate is posted. Mission Bay at its $768 October rate would be about $5,400 for the week, and $1,000 or $1,500 a night would be $7,000 or $10,500. Maya Alux starts at $1,200 a night and Casa Corazon at $898"
-        },
-        {
-          "item": "International flights for ten",
-          "low": 8250,
-          "high": 12700,
-          "note": "Our guess: seven Norfolk and two Richmond seats at $850 to $1,300 (Kayak's December median from Norfolk is $829, and a December 30 to January 3 sample was $995) and one Austin seat at $600 to $1,000. Taylor needs a seat. Not quoted"
-        },
-        {
-          "item": "Small-plane hop to Placencia and back, for ten",
-          "low": 2000,
-          "high": 3500,
-          "note": "Tropic Air round trips we saw ran $198 to $290 for non-holiday dates, and holiday fares will likely be higher. A van for ten is the other way, but needs a quote"
-        },
-        {
-          "item": "Golf carts",
-          "low": 500,
-          "high": 1800,
-          "note": "Mission Bay includes one 4-seat cart, and two more 6-seat carts are $450 a week each. Barefoot Services lists a 4-seat cart at $127 a day. Taxis at night"
-        },
-        {
-          "item": "Snorkel and dive trips",
-          "low": 1800,
-          "high": 4500,
-          "note": "Laughing Bird for ten at $75 to $140 each, a Silk Caye day at about $150 a diver and $90 to $180 a snorkeler, Glover's Reef not priced yet, and the Blue Hole at about $360 a diver if anyone goes"
-        },
-        {
-          "item": "Fishing and a sailing day",
-          "low": 500,
-          "high": 2300,
-          "note": "A half-day charter at about $500 to $900 (Captain Experiences averages $851), and the private Moho Caye sail at $1,235 to $1,389"
-        },
-        {
-          "item": "Mainland days (Monkey River, chocolate, Cockscomb)",
-          "low": 1200,
-          "high": 2800,
-          "note": "Monkey River at $120 to $130 an adult, chocolate and a waterfall at $150 an adult, kids' rates on request"
-        },
-        {
-          "item": "Chef",
-          "low": 250,
-          "high": 2000,
-          "note": "Mission Bay's chef days come with the house. Extra days are $125, and the all-in food package is $75 a person per chef day, or $750 a day for ten"
-        },
-        {
-          "item": "Groceries and dining",
-          "low": 3000,
-          "high": 6000,
-          "note": "A rough allowance, including about $1,400 in chef groceries (Mission Bay bills about $45 to $50 a person per chef day, at cost) and two or three nights out. Groceries are imported, so more than at home"
-        },
-        {
-          "item": "Medevac and dive insurance",
-          "low": 800,
-          "high": 1300,
-          "note": "Medjet's short-term plan runs about $99 a person or $198 a family for 8 days, from third-party price tables, and Mom qualifies at 73. Dive accident cover for the divers adds a little"
-        },
-        {
-          "item": "Tips, taxes and fees",
-          "low": 1200,
-          "high": 3000,
-          "note": "Tips for the house staff, chef and guides at 10 to 15 percent, any lodging tax not in the quote, and park fees. Departure taxes are usually in the airfare"
-        }
-      ],
-      "links": {
-        "Activities": [
-          {
-            "label": "Splash Dive Center, Laughing Bird or Silk Caye",
-            "url": "https://caribbeanlifestyle.com/laughing-bird-or-silk-caye-splash-dive-center-placencia-belize-snorkel/"
-          },
-          {
-            "label": "Laughing Bird Caye snorkel day (Splash, $140)",
-            "url": "https://www.travelocity.com/things-to-do/placencia-snorkel-island-experience-at-laughing-bird-caye.a48950845.activity-details"
-          },
-          {
-            "label": "Silk Caye snorkel day (Splash, $180)",
-            "url": "https://www.travelocity.com/things-to-do/snorkel-the-perfect-tropical-isle-silk-caye-with-turtles-rays-and-sharks.a1213393.activity-details"
-          },
-          {
-            "label": "Seahorse Dive Shop, Placencia",
-            "url": "https://cursosdebuceo.com/es/centros/placencia/seahorse-dive-shop/18519"
-          },
-          {
-            "label": "Blue Hole dive from Placencia (certified divers)",
-            "url": "https://cursosdebuceo.com/es/cursos/placencia/seahorse-dive-shop/blue-hole-dive/164358"
-          },
-          {
-            "label": "Monkey River and manatee watch (Captain Jak's)",
-            "url": "https://www.travelocity.com/things-to-do/monkey-river-manatee-watch.a992881.activity-details"
-          },
-          {
-            "label": "Mayan chocolate and waterfall from Placencia",
-            "url": "https://www.orbitz.com/things-to-do/tour-to-mayan-chocolate-making-waterfall-from-placencia.a50828764.activity-details"
-          },
-          {
-            "label": "Private sail to Moho Caye (Barefoot Services)",
-            "url": "https://www.wetravel.com/trips/private-sailing-to-moho-caye-barefoot-services-4616541385"
-          },
-          {
-            "label": "Placencia fishing charters",
-            "url": "https://captainexperiences.com/locations/belize/placencia/flats"
-          },
-          {
-            "label": "Naia Resort and Spa (renovation listed through November 30, worth confirming it's open)",
-            "url": "https://www.scottdunn.com/us/belize/hotels/naia-resort-spa"
-          },
-          {
-            "label": "Day trips from Placencia",
-            "url": "https://chabilmarvillas.com/day-trips-from-placencia-belize.html"
-          }
-        ],
-        "Food": [
-          {
-            "label": "Placencia restaurant guide",
-            "url": "https://belizeadventure.ca/placencia-best-restaurants/"
-          },
-          {
-            "label": "Placencia restaurant listings",
-            "url": "https://www.placencia.com/business-listings/category/restaurants"
-          }
-        ],
-        "Travel": [
-          {
-            "label": "Mission Bay on Vrbo (Gecko)",
-            "url": "https://www.vrbo.com/909816"
-          },
-          {
-            "label": "Maya Alux (Dream Exotic Rentals)",
-            "url": "https://www.dreamexoticrentals.com/properties/LatinAmerica/Belize/Maya-Alux.htm"
-          },
-          {
-            "label": "Island Breeze Villa (Dream Exotic Rentals)",
-            "url": "https://www.dreamexoticrentals.com/properties/LatinAmerica/Belize/Island-Breeze-Villa.htm"
-          },
-          {
-            "label": "Casa Corazon (Top Villas)",
-            "url": "https://www.thetopvillas.com/en_gb/destinations/caribbean/belize/placencia-peninsula/casa-corazon"
-          },
-          {
-            "label": "Tropic Air flights to Placencia",
-            "url": "https://flights.tropicair.com/en/flights-to-placencia"
-          },
-          {
-            "label": "Kayak, Norfolk to Belize City fares",
-            "url": "https://www.kayak.com/flight-routes/Norfolk-ORF/Belize-City-Philip-S-W-Goldson-BZE"
-          },
-          {
-            "label": "Kayak, Richmond to Belize City fares",
-            "url": "https://www.kayak.com/flight-routes/Richmond-RIC/Belize-City-Philip-S-W-Goldson-BZE"
-          },
-          {
-            "label": "Kayak, Austin to Belize City fares",
-            "url": "https://www.kayak.com/flight-routes/Austin-Bergstrom-AUS/Belize-City-Philip-S-W-Goldson-BZE"
-          },
-          {
-            "label": "Golf cart rental (Barefoot Services)",
-            "url": "https://barefootservices.wetravel.com/trips/golf-cart-rental-barefoot-services-07612363"
-          },
-          {
-            "label": "State Department Belize travel advisory",
-            "url": "https://travel.state.gov/en/international-travel/travel-advisories/belize.html"
-          },
-          {
-            "label": "Medjet short-term memberships",
-            "url": "https://www.insuremytrip.com/travel-insurance-providers/medjet/short-term"
-          },
-          {
-            "label": "Ambergris Caye: Villa Incommunicada, six bedrooms on the reef",
-            "url": "https://www.vrbo.com/1691402"
-          }
-        ]
-      },
-      "markers": [
-        {
-          "name": "Placencia Village and the Sidewalk",
-          "lat": 16.5139,
-          "lng": -88.3667,
-          "kind": "town"
-        },
-        {
-          "name": "Placencia airstrip (PLJ), with the polyclinic nearby",
-          "lat": 16.5372,
-          "lng": -88.3611,
-          "kind": "airport"
-        },
-        {
-          "name": "Seine Bight",
-          "lat": 16.5674,
-          "lng": -88.3658,
-          "kind": "town"
-        },
-        {
-          "name": "Mission Bay area, Cocoplum, and the Naia spa (8 miles north of the village)",
-          "lat": 16.592,
-          "lng": -88.3564,
-          "kind": "house"
-        },
-        {
-          "name": "Maya Beach",
-          "lat": 16.6142,
-          "lng": -88.354,
-          "kind": "town"
-        },
-        {
-          "name": "Laughing Bird Caye National Park",
-          "lat": 16.4434,
-          "lng": -88.1973,
-          "kind": "spot"
-        },
-        {
-          "name": "Monkey River Town",
-          "lat": 16.3633,
-          "lng": -88.4853,
-          "kind": "spot"
-        },
-        {
-          "name": "Nim Li Punit Maya site",
-          "lat": 16.3167,
-          "lng": -88.8,
-          "kind": "spot"
-        },
-        {
-          "name": "Glover's Reef atoll",
-          "lat": 16.823,
-          "lng": -87.791,
-          "kind": "spot"
-        },
-        {
-          "name": "Southern Regional Hospital, Dangriga",
-          "lat": 16.9623,
-          "lng": -88.2381,
-          "kind": "spot"
-        },
-        {
-          "name": "Great Blue Hole, Lighthouse Reef (3.5 hours by boat)",
-          "lat": 17.3153,
-          "lng": -87.5344,
-          "kind": "spot"
-        },
-        {
-          "name": "The Belize Zoo",
-          "lat": 17.3549,
-          "lng": -88.5539,
-          "kind": "spot"
-        },
-        {
-          "name": "Belize City international airport (BZE), Ladyville",
-          "lat": 17.5392,
-          "lng": -88.3083,
-          "kind": "airport"
-        }
-      ],
-      "zoom": 11,
-      "glance": [
-        {
-          "pro": "The most diving and snorkeling of the five, plus jungle and Maya ruins",
-          "con": "The longest travel day, 10.5 to 13.5 hours, with a small-plane hop Mom might count as a second stop"
-        },
-        {
-          "pro": "Mission Bay comes with a chef every other day, a real bunk room and a 9.8 rating",
-          "con": "The house is 8 miles from the village on one unlit road"
-        },
-        {
-          "pro": "Warm, about 81 degrees, with calm shallow water inside the reef for the kids",
-          "con": "2026 has been a record sargassum year on the east-facing beaches where the houses sit"
-        },
-        {
-          "pro": "About $27k to $58k, overlapping Puerto Rico",
-          "con": "State Department Level 2, and worth reading the advisory ourselves"
-        },
-        {
-          "pro": "We'd never set foot in Belize City",
-          "con": "No surf, northers can cancel boat days, and every house is request-only"
-        }
-      ],
-      "compare": {
-        "Flights": "One connection to Belize City, then a small-plane hop",
-        "House": "Mission Bay, six bedrooms, chef included, no holiday rate yet",
-        "Out the door": "The village is 8 miles by golf cart",
-        "Weather": "About 81, sea 81, the odd norther"
       }
     }
   ]
