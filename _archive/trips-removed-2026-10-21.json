@@ -577,6 +577,350 @@
         ],
         "zoom": 9
       }
+    },
+    {
+      "removed_on": "2026-10-21",
+      "why": "Patrick: switch Rincón (replaced by Isla Verde, San Juan)",
+      "entry": {
+        "key": "pr",
+        "name": "Puerto Rico",
+        "place": "Rincón, with Old San Juan at each end",
+        "tag": "",
+        "lat": 18.34,
+        "lng": -67.25,
+        "pitch": "A pool house in Rincón, a surf town you can walk around, with a night in Old San Juan on the way in and on the way out so nobody ends up driving the west side in the dark with Taylor. There are nonstops from Norfolk and Richmond, real winter surf and a boat dive for anyone who wants it, and the pool and the calm side of the beach for the kids.",
+        "why": [
+          "It's the US, so US hospitals and pharmacies, dollars and phones that just work.",
+          "JetBlue announced a Sunday nonstop from Norfolk and a Tuesday, Thursday and Saturday nonstop from Richmond. Daniel would connect once from Austin.",
+          "There's a lot to do right from the house: December surf at Maria's, Domes and Sandy Beach, a two-tank boat dive at Desecheo Island, the Gozalandia waterfall, maybe an Isabela surf day.",
+          "Old San Juan on foot at each end, with El Morro, the walls and a good dinner."
+        ],
+        "catch": [
+          "December is big-wave season, so the kids would probably stick to the pool and the calm-side beaches. Reef snorkeling is more of a summer thing.",
+          "There aren't many restaurants in town, so most meals would likely be at the house, maybe with a chef for two nights.",
+          "The six-bedroom house we'd probably ask about first is about a mile from the plaza. The one that's an easy walk to town has five bedrooms.",
+          "The Norfolk nonstop doesn't fly Saturdays, and its times still need to be confirmed on jetblue.com.",
+          "Rincón has no hospital. The nearest ER, with a separate one for kids, is in Aguadilla, roughly 25 to 30 minutes away, though we haven't drive-checked that."
+        ],
+        "weather": "Dry-season tropics, with highs in the mid-80s, lows around 70, quick trade-wind showers and the sea about 80 degrees. The west coast gets winter swell.",
+        "getting_there": [
+          {
+            "from": "Norfolk (7)",
+            "how": "JetBlue nonstop to San Juan, announced for Mon, Wed, Fri and Sun (flight 929 out, 928 back). Sunday Dec 27 out and Sunday Jan 3 back fit that pattern, and Mon Dec 28 and Mon Jan 4 could work too. About 3.5 hours in the air.",
+            "est": "$600 to $1,000 a seat",
+            "link": "https://www.jetblue.com/flights-to-san-juan"
+          },
+          {
+            "from": "Richmond (2)",
+            "how": "The JetBlue nonstop only flies Tue, Thu and Sat, so Andrew and Trisha could drive to Norfolk and fly with everyone, fly Sat Dec 26 and Sat Jan 2 with an extra San Juan night, or connect once through Charlotte or Atlanta on the Sundays.",
+            "est": "$600 to $1,000 a seat",
+            "link": "https://flyrichmond.com/jetblue-announces-nonstop-route-to-san-juan-from-ric/"
+          },
+          {
+            "from": "Austin (1)",
+            "how": "One stop through Charlotte, Dallas, Atlanta or Houston. Southwest's seasonal Austin to San Juan nonstop isn't confirmed for the holidays.",
+            "est": "$600 to $1,000",
+            "link": "https://www.southwest.com/en/flights/flights-from-austin-to-san-juan"
+          },
+          {
+            "from": "On the ground",
+            "how": "Two seven-seat vehicles for the week. San Juan to Rincón is about 2.5 hours, and the idea would be to drive it in daylight both ways.",
+            "est": "$1,600 to $2,800",
+            "link": ""
+          }
+        ],
+        "houses": [
+          {
+            "name": "Casa Cooky, Corcega side",
+            "detail": "Six bedrooms as three two-bedroom suites, 6.5 baths. The whole property is walled and fenced with a code gate, and there's a private pool inside (we'd want to ask the host whether the pool has its own fence). Steps from the beach, and the plaza is about a mile down the road. Air conditioning is in the bedrooms only.",
+            "price": "Estimate $1,200 to $2,000 a night, unquoted",
+            "url": "https://airbnb.com/h/casacookyrincon",
+            "verdict": "Good fence and six bedrooms. Worth asking about first."
+          },
+          {
+            "name": "Maria's Luxury Villa, Maria's Beach",
+            "detail": "Eight bedrooms, two full kitchens, a full-size pool and two hot tubs, a generator and Starlink. It's gated and oceanfront on a surf break, so the kids would use the pool.",
+            "price": "Listed at $2,350 a night in high season in earlier research, to re-check, with a six-night holiday minimum, taxes and housekeeping included, about $14,100 for Dec 28 to Jan 3",
+            "url": "https://www.airbnb.com/rooms/3292409",
+            "verdict": "A solid setup and the only published rate we found. Maybe the second one to ask about."
+          },
+          {
+            "name": "Ensenada five-bedroom, near Puntas",
+            "detail": "Five bedrooms, including a double-plus-bunk room for the kids and a main-level bedroom with a full bath for Mom. Gated and walled, with a private pool and a backup generator. The listing says the plaza is an easy walk.",
+            "price": "Not shown without dates",
+            "url": "https://www.airbnb.com.sg/rooms/16755813",
+            "verdict": "The one we could walk to town from. Five bedrooms, so the kids would share with Kristina and Michael."
+          },
+          {
+            "name": "Rincón Beach House at Sandy Beach, Puntas",
+            "detail": "Six bedrooms in two units with two kitchens, whole-home generators and solar, a private pool, and Sandy Beach a minute's walk away. About 15 minutes by car to the plaza.",
+            "price": "About $890 to $1,030 a night off-peak, holiday rate unknown",
+            "url": "https://www.vrbo.com/3859437",
+            "verdict": "Six bedrooms right by the surf, though we'd need a car to get to town."
+          }
+        ],
+        "agenda": [
+          {
+            "day": "Sun Dec 27",
+            "all": "Fly in and sleep in Old San Juan. Dinner in the old city.",
+            "crew": "",
+            "relax": ""
+          },
+          {
+            "day": "Mon Dec 28",
+            "all": "Drive west in daylight with a grocery stop and get to the house by early afternoon. Pool, then maybe sunset at the Punta Higuera lighthouse.",
+            "crew": "",
+            "relax": ""
+          },
+          {
+            "day": "Tue Dec 29",
+            "all": "Dinner at the house.",
+            "crew": "Dawn surf at Maria's or Domes for whoever wants it, and lessons on a small-wave beach for Andrew, Daniel and Kristina.",
+            "relax": "The Corcega shallows, the pool, a long lunch, walking around town."
+          },
+          {
+            "day": "Wed Dec 30",
+            "all": "Maybe the first chef night.",
+            "crew": "A Desecheo two-tank boat dive for Mom and the certified divers if the seas cooperate. Patrick could snorkel or fish.",
+            "relax": "Massages at the house, kids in the pool."
+          },
+          {
+            "day": "Thu Dec 31",
+            "all": "Gozalandia waterfall in the morning, about an hour away, with a splash pool for the kids and a picnic. Kids eat early, then a New Year's Eve chef dinner on the terrace.",
+            "crew": "",
+            "relax": ""
+          },
+          {
+            "day": "Fri Jan 1",
+            "all": "A free day. Pool, cards, a lighthouse walk, and snorkeling at Steps if the sea is flat.",
+            "crew": "Maybe an Isabela surf run (Jobos, Shacks).",
+            "relax": "A sunset horseback ride on the beach with Bennett and Mom (we'd need to check that the stable runs on New Year's Day)."
+          },
+          {
+            "day": "Sat Jan 2",
+            "all": "Drive east. Old San Juan on foot, with El Morro, the walls and dinner. A hotel night.",
+            "crew": "",
+            "relax": ""
+          },
+          {
+            "day": "Sun Jan 3",
+            "all": "Fly home. Andrew and Trisha could take the Saturday Richmond nonstop the day before.",
+            "crew": "",
+            "relax": ""
+          }
+        ],
+        "pricing": [
+          {
+            "item": "Villa, six nights",
+            "low": 7400,
+            "high": 14000,
+            "note": "From the Casa Cooky guess up to Maria's published rate"
+          },
+          {
+            "item": "Flights, ten seats",
+            "low": 6000,
+            "high": 10000,
+            "note": "Holiday-week nonstops and one-stops, and Taylor needs a seat"
+          },
+          {
+            "item": "Old San Juan, two nights, five rooms",
+            "low": 4000,
+            "high": 7000,
+            "note": "Estimate"
+          },
+          {
+            "item": "Two seven-seat vehicles",
+            "low": 1600,
+            "high": 2800,
+            "note": "Estimate with insurance"
+          },
+          {
+            "item": "Chef, two dinners",
+            "low": 1500,
+            "high": 3200,
+            "note": "Published per-guest menus run $140 to $220, for two nights for ten"
+          },
+          {
+            "item": "Dive, lessons, horses, waterfall",
+            "low": 2500,
+            "high": 4500,
+            "note": "Estimate"
+          },
+          {
+            "item": "Groceries and dining",
+            "low": 3500,
+            "high": 5500,
+            "note": "Estimate"
+          },
+          {
+            "item": "Massages and extras",
+            "low": 500,
+            "high": 1000,
+            "note": "Estimate"
+          }
+        ],
+        "links": {
+          "Activities": [
+            {
+              "label": "Taino Divers, Desecheo Island boat dives",
+              "url": "https://www.tainodivers.com/"
+            },
+            {
+              "label": "Tropical Trail Rides, sunset beach horseback",
+              "url": "https://www.tropicaltrailrides.com/"
+            },
+            {
+              "label": "Punta Higuera lighthouse and the Rincón beaches (Discover Puerto Rico)",
+              "url": "https://www.discoverpuertorico.com/regions/west/rincon"
+            },
+            {
+              "label": "Gozalandia Falls, San Sebastián",
+              "url": "https://www.discoverpuertorico.com/profile/gozalandia-falls"
+            },
+            {
+              "label": "Rincón surf guide",
+              "url": "https://trvlcollective.com/surfing-in-rincon-puerto-rico"
+            },
+            {
+              "label": "El Morro, Old San Juan (National Park Service)",
+              "url": "https://www.nps.gov/saju/index.htm"
+            }
+          ],
+          "Food": [
+            {
+              "label": "Morton's at the Caribe Hilton, San Juan",
+              "url": "https://www.mortons.com/sanjuan/"
+            },
+            {
+              "label": "Chef Marta Pascual, private chef (Take a Chef)",
+              "url": "https://www.takeachef.com/en-en/chef/marta-pascual-marta"
+            },
+            {
+              "label": "Rincon Caterers, private chef and catering",
+              "url": "https://www.weddingwire.com/biz/rincon-caterers/72115b11e4328218.html"
+            }
+          ],
+          "Flights": [
+            {
+              "label": "JetBlue Norfolk to San Juan announcement",
+              "url": "https://www.wtvr.com/news/local-news/jetblue-puerto-rico-virginia-dec-4-2025"
+            },
+            {
+              "label": "JetBlue Richmond to San Juan announcement",
+              "url": "https://flyrichmond.com/jetblue-announces-nonstop-route-to-san-juan-from-ric/"
+            }
+          ]
+        },
+        "markers": [
+          {
+            "name": "Rincón plaza",
+            "lat": 18.3402,
+            "lng": -67.2503,
+            "kind": "town"
+          },
+          {
+            "name": "Casa Cooky area, Corcega side",
+            "lat": 18.323,
+            "lng": -67.257,
+            "kind": "house"
+          },
+          {
+            "name": "Maria's Beach, Maria's Luxury Villa",
+            "lat": 18.3566,
+            "lng": -67.2692,
+            "kind": "house"
+          },
+          {
+            "name": "Punta Higuera lighthouse, sunsets",
+            "lat": 18.3617,
+            "lng": -67.2706,
+            "kind": "spot"
+          },
+          {
+            "name": "Domes Beach",
+            "lat": 18.3642,
+            "lng": -67.27,
+            "kind": "spot"
+          },
+          {
+            "name": "Steps Beach, Tres Palmas reserve",
+            "lat": 18.3489,
+            "lng": -67.2636,
+            "kind": "spot"
+          },
+          {
+            "name": "Sandy Beach, Puntas",
+            "lat": 18.3755,
+            "lng": -67.256,
+            "kind": "spot"
+          },
+          {
+            "name": "Desecheo Island, boat dive",
+            "lat": 18.3836,
+            "lng": -67.4783,
+            "kind": "spot"
+          },
+          {
+            "name": "Gozalandia Falls",
+            "lat": 18.3609,
+            "lng": -66.9831,
+            "kind": "spot"
+          },
+          {
+            "name": "Jobos Beach, Isabela surf day",
+            "lat": 18.5133,
+            "lng": -67.0783,
+            "kind": "spot"
+          },
+          {
+            "name": "Aguadilla airport (BQN), 30 to 40 minutes",
+            "lat": 18.4949,
+            "lng": -67.1294,
+            "kind": "airport"
+          },
+          {
+            "name": "Old San Juan, first and last nights",
+            "lat": 18.4663,
+            "lng": -66.1181,
+            "kind": "town"
+          },
+          {
+            "name": "San Juan airport (SJU)",
+            "lat": 18.4394,
+            "lng": -66.0018,
+            "kind": "airport"
+          }
+        ],
+        "zoom": 9,
+        "glance": [
+          {
+            "pro": "Nonstop from Norfolk and Richmond on JetBlue, about 3.5 hours",
+            "con": "The Norfolk nonstop skips Saturdays, and the times still need confirming"
+          },
+          {
+            "pro": "US soil: dollars, phones, no border",
+            "con": "Reef snorkeling is more of a summer thing there"
+          },
+          {
+            "pro": "Real winter surf, a Desecheo boat dive, Old San Juan at each end",
+            "con": "December is big-wave season, so the kids would mostly be at the pool"
+          },
+          {
+            "pro": "The lowest band with Belize, about $27k to $48k",
+            "con": "Few restaurants, so most meals would be at the house"
+          },
+          {
+            "pro": "A pool house in a surf town you can walk around",
+            "con": "The six-bedroom house is a mile from the plaza, and San Juan is a 2.5-hour drive"
+          }
+        ],
+        "compare": {
+          "Flights": "Nonstop from Norfolk and Richmond, Daniel one stop",
+          "House": "Six bedrooms a mile from the plaza, unquoted",
+          "Out the door": "A surf town, a mile's walk or a short drive to the plaza",
+          "Weather": "Mid-80s, sea about 80, winter swell"
+        }
+      }
     }
   ]
 }
