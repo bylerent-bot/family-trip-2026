@@ -101,16 +101,7 @@
   },
   {
    "local": "img/pr-13.jpg",
-   "subject": "Puerto Rican food: shrimp mofongo",
-   "author": "The Eloquent Peasant",
-   "license": "CC BY-SA 4.0",
-   "page_url": "https://commons.wikimedia.org/wiki/File:Shrimp_mofongo_from_Rompeolas_restaurant_in_Aguadilla,_Puerto_Rico.jpg",
-   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shrimp_mofongo_from_Rompeolas_restaurant_in_Aguadilla%2C_Puerto_Rico.jpg/1920px-Shrimp_mofongo_from_Rompeolas_restaurant_in_Aguadilla%2C_Puerto_Rico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "thumb": "img/thumb/pr-13.jpg"
-  },
-  {
-   "local": "img/pr-13.jpg",
-   "subject": "Luquillo Beach (general beach view)",
+   "subject": "Luquillo Beach",
    "author": "Güldem Üstün",
    "license": "CC BY 2.0",
    "page_url": "https://commons.wikimedia.org/wiki/File:Luquillo_Beach_in_Puerto_Rico.jpg",
@@ -128,21 +119,12 @@
   },
   {
    "local": "img/pr-15.jpg",
-   "subject": "Luquillo beach at sunset (public domain)",
+   "subject": "Luquillo beach at sunset",
    "author": "Pavelsteidl",
    "license": "Public domain",
    "page_url": "https://commons.wikimedia.org/wiki/File:Una_playa_en_Luquillo.JPG",
    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Una_playa_en_Luquillo.JPG/1920px-Una_playa_en_Luquillo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "thumb": "img/thumb/pr-15.jpg"
-  },
-  {
-   "local": "img/pr-16.jpg",
-   "subject": "Luquillo kiosks menu board (portrait; weak substitute, no kiosk row photo found)",
-   "author": "Xemenendura",
-   "license": "CC BY-SA 3.0",
-   "page_url": "https://commons.wikimedia.org/wiki/File:Carta_kioskos_de_Luquillo.jpg",
-   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Carta_kioskos_de_Luquillo.jpg/1920px-Carta_kioskos_de_Luquillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "thumb": "img/thumb/pr-16.jpg"
   },
   {
    "local": "img/pr-17.jpg",
@@ -200,12 +182,21 @@
   },
   {
    "local": "img/pr-23.jpg",
-   "subject": "Laguna Grande, Fajardo (bio bay lagoon, daytime view)",
+   "subject": "Laguna Grande, Fajardo, the bio bay by day",
    "author": "Bjoertvedt",
    "license": "CC BY-SA 4.0",
    "page_url": "https://commons.wikimedia.org/wiki/File:Las_Cabezas_de_San_Juan_PR_Fajardo_IMG_2385_Laguna_Grande.JPG",
    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Las_Cabezas_de_San_Juan_PR_Fajardo_IMG_2385_Laguna_Grande.JPG/1920px-Las_Cabezas_de_San_Juan_PR_Fajardo_IMG_2385_Laguna_Grande.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "thumb": "img/thumb/pr-23.jpg"
+  },
+  {
+   "local": "img/pr-24.jpg",
+   "subject": "Puerto Rican food: shrimp mofongo",
+   "author": "The Eloquent Peasant",
+   "license": "CC BY-SA 4.0",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Shrimp_mofongo_from_Rompeolas_restaurant_in_Aguadilla,_Puerto_Rico.jpg",
+   "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shrimp_mofongo_from_Rompeolas_restaurant_in_Aguadilla%2C_Puerto_Rico.jpg/1920px-Shrimp_mofongo_from_Rompeolas_restaurant_in_Aguadilla%2C_Puerto_Rico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "thumb": "img/thumb/pr-24.jpg"
   }
  ],
  "ami": [
