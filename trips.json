@@ -344,7 +344,36 @@
           "kind": "airport"
         }
       ],
-      "zoom": 9
+      "zoom": 9,
+      "glance": [
+        {
+          "pro": "Nonstop from Norfolk and Richmond on JetBlue, about 3.5 hours",
+          "con": "The Norfolk nonstop skips Saturdays, and the times still need confirming"
+        },
+        {
+          "pro": "US soil: hospitals, pharmacies, dollars, phones",
+          "con": "No hospital in Rincón. The ER is in Aguadilla, 25 to 30 minutes away"
+        },
+        {
+          "pro": "Real winter surf, a Desecheo boat dive, Old San Juan at each end",
+          "con": "December is big-wave season, so the kids would mostly be at the pool"
+        },
+        {
+          "pro": "The lowest band with Belize, about $27k to $48k",
+          "con": "Few restaurants, so most meals would be at the house"
+        },
+        {
+          "pro": "A pool house in a surf town you can walk around",
+          "con": "The six-bedroom house is a mile from the plaza, and San Juan is a 2.5-hour drive"
+        }
+      ],
+      "compare": {
+        "Flights": "Nonstop from Norfolk and Richmond, Daniel one stop",
+        "House": "Six bedrooms a mile from the plaza, unquoted",
+        "Out the door": "A surf town, a mile's walk or a short drive to the plaza",
+        "Medical": "US ER 25 to 30 minutes away",
+        "Weather": "Mid-80s, sea about 80, winter swell"
+      }
     },
     {
       "key": "pc",
@@ -629,7 +658,36 @@
           "kind": "airport"
         }
       ],
-      "zoom": 10
+      "zoom": 10,
+      "glance": [
+        {
+          "pro": "Walk out the door onto Main Street, with a house three minutes away that has two kitchens and a hot tub",
+          "con": "The highest band by a lot, about $60k to $95k"
+        },
+        {
+          "pro": "The most skiing of the five, plus the Olympic Park bobsled, tubing and skating",
+          "con": "Half of us don't ski or ride"
+        },
+        {
+          "pro": "Daniel flies nonstop from Austin",
+          "con": "One stop for Norfolk and Richmond"
+        },
+        {
+          "pro": "A spa and a real village for the non-skiers",
+          "con": "Old Town sits near 7,000 feet"
+        },
+        {
+          "pro": "Two Old Town six-bedrooms found, both with hot tubs",
+          "con": "Neither is quoted, and a holiday-week house there could run $35k to $55k on its own"
+        }
+      ],
+      "compare": {
+        "Flights": "One stop from Norfolk and Richmond, Daniel nonstop",
+        "House": "Six bedrooms in Old Town with two kitchens and a hot tub, unquoted",
+        "Out the door": "Main Street three minutes on foot",
+        "Medical": "US hospitals",
+        "Weather": "Highs in the 20s and 30s, near 7,000 feet"
+      }
     },
     {
       "key": "lp",
@@ -984,7 +1042,36 @@
           "kind": "airport"
         }
       ],
-      "zoom": 9
+      "zoom": 9,
+      "glance": [
+        {
+          "pro": "The February base, which we know and liked, with a walkable village",
+          "con": "The bobsled ride is unavailable, and the skeleton is 13 and up"
+        },
+        {
+          "pro": "Whiteface is 20 minutes away and everyone skied it",
+          "con": "The walkable six-bedroom hot-tub houses show booked"
+        },
+        {
+          "pro": "A drive, not a flight day",
+          "con": "10 to 11 hours each way, and winter roads can add more"
+        },
+        {
+          "pro": "The lowest band of the snow options, about $28k to $36k",
+          "con": "The one house we know is open is a 30-minute walk to town"
+        },
+        {
+          "pro": "Oval skating, dog sleds and the Wild Center for the kids",
+          "con": "Highs near 28 and nights near zero"
+        }
+      ],
+      "compare": {
+        "Flights": "A 10 to 11 hour drive, Daniel flies to Albany",
+        "House": "Cliff View Loj open at about $19k, the walkable ones booked",
+        "Out the door": "Main Street, a 30-minute walk from the open house",
+        "Medical": "US hospitals",
+        "Weather": "Highs near 28, nights near zero"
+      }
     },
     {
       "key": "mt",
@@ -1324,7 +1411,36 @@
           "kind": "airport"
         }
       ],
-      "zoom": 9
+      "zoom": 9,
+      "glance": [
+        {
+          "pro": "A car-free village at the lift base, lit up at night",
+          "con": "90 minutes to two hours of winter driving after the flight, plus a border"
+        },
+        {
+          "pro": "A six-bedroom house with a private hot tub is open and priced for the week",
+          "con": "The house is a shuttle ride from the village, not a walk"
+        },
+        {
+          "pro": "Low altitude, the Ikon pass, the Scandinave spa, the Aquaclub, dog sledding",
+          "con": "No hospital in town. The ER is about 40 minutes away"
+        },
+        {
+          "pro": "One connection to Montreal from every household",
+          "con": "Nights near 5 degrees"
+        },
+        {
+          "pro": "Real restaurants on foot in the village",
+          "con": "About $45k to $64k, and the Vrbo full-refund window on the house ends October 28"
+        }
+      ],
+      "compare": {
+        "Flights": "One connection to Montreal, then 90 minutes to two hours of winter driving",
+        "House": "Panache 784, six bedrooms, private hot tub, open and priced",
+        "Out the door": "The village by shuttle",
+        "Medical": "ER about 40 minutes away, Canadian hospitals",
+        "Weather": "Highs in the 20s, nights near 5"
+      }
     },
     {
       "key": "bz",
@@ -1732,7 +1848,36 @@
           "kind": "airport"
         }
       ],
-      "zoom": 11
+      "zoom": 11,
+      "glance": [
+        {
+          "pro": "The most diving and snorkeling of the five, plus jungle and Maya ruins",
+          "con": "The longest travel day, 10.5 to 13.5 hours, with a small-plane hop Mom might count as a second stop"
+        },
+        {
+          "pro": "Mission Bay comes with a chef every other day, a real bunk room and a 9.8 rating",
+          "con": "The house is 8 miles from the village on one unlit road"
+        },
+        {
+          "pro": "Warm, about 81 degrees, with calm shallow water inside the reef for the kids",
+          "con": "The thinnest medical cover: a polyclinic 8 miles away, a hospital 1 to 1.5 hours away, anything serious by air"
+        },
+        {
+          "pro": "About $27k to $58k, overlapping Puerto Rico",
+          "con": "State Department Level 2, and worth reading the advisory ourselves"
+        },
+        {
+          "pro": "We'd never set foot in Belize City",
+          "con": "No surf, northers can cancel boat days, and every house is request-only"
+        }
+      ],
+      "compare": {
+        "Flights": "One connection to Belize City, then a small-plane hop",
+        "House": "Mission Bay, six bedrooms, chef included, no holiday rate yet",
+        "Out the door": "The village is 8 miles by golf cart",
+        "Medical": "Polyclinic 8 miles, hospital 1 to 1.5 hours, serious care by air",
+        "Weather": "About 81, sea 81, the odd norther"
+      }
     }
   ]
 }

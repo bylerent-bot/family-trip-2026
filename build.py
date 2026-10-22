@@ -40,11 +40,14 @@ def section(t):
     pr += f'<tr class="total"><td>Rough total for ten</td><td class="num">{money(low)}</td><td class="num">{money(high)}</td><td class="note">About {money(low/10)} to {money(high/10)} a head, kids included</td></tr>'
     links = ''.join(f'<div><h4>{E(g)}</h4><ul>' + ''.join(f'<li><a href="{E(l["url"])}" rel="noopener">{E(l["label"])}</a></li>' for l in ls) + '</ul></div>' for g, ls in t['links'].items())
     markers = ''.join(f'<li><span class="dot {E(m["kind"])}"></span>{E(m["name"])}</li>' for m in t['markers'])
+    glance = ''.join(f'<tr><td>{E(g["pro"])}</td><td>{E(g["con"])}</td></tr>' for g in t.get('glance', []))
+    glance_html = f'<h3>Pros and cons, quickly</h3><table class="glance"><thead><tr><th>Pros</th><th>Cons</th></tr></thead><tbody>{glance}</tbody></table>' if glance else ''
     return f'''
 <section id="{key}" class="trip" style="--acc:{acc}">
   {hero_html}{hero_credit}
   <div class="wrap">
     <p class="pitch">{E(t['pitch'])}</p>
+    {glance_html}
     <div class="two">
       <div><h3>What's nice about it</h3><ul>{why}</ul></div>
       <div><h3>The catches</h3><ul>{catch}</ul></div>
@@ -81,6 +84,29 @@ credits = ''
 for t in data['trips']:
     for p in photos.get(t['key'], []):
         credits += f'<li>{credit(p)}</li>'
+
+
+# side-by-side table
+dims = ['Flights', 'House', 'Out the door', 'Medical', 'Weather', 'Rough cost for ten']
+def cell(t, dim):
+    if dim == 'Rough cost for ten':
+        lo = sum(p['low'] for p in t['pricing']); hi = sum(p['high'] for p in t['pricing'])
+        return f'{money(lo)} to {money(hi)}'
+    return t.get('compare', {}).get(dim, '')
+compare = '<thead><tr><th></th>' + ''.join(f'<th><span class="sw" style="background:{ACCENT[t["key"]]}"></span>{E(t["name"])}</th>' for t in data['trips']) + '</tr></thead><tbody>'
+compare += ''.join('<tr><th>' + E(dim) + '</th>' + ''.join(f'<td>{E(cell(t, dim))}</td>' for t in data['trips']) + '</tr>' for dim in dims) + '</tbody>'
+# cost range chart (one series, one hue; the table above carries the same numbers)
+rows = [(t['name'], sum(p['low'] for p in t['pricing']), sum(p['high'] for p in t['pricing'])) for t in data['trips']]
+XMAX = 100000; L, R, TOP, BAND, BAR = 130, 110, 28, 36, 18
+W = 720; PW = W - L - R; H = TOP + BAND * len(rows) + 30
+sx = lambda v: L + PW * v / XMAX
+k = lambda v: f'${int(round(v/1000))}k'
+grid = ''.join(f'<line x1="{sx(v):.1f}" y1="{TOP-8}" x2="{sx(v):.1f}" y2="{TOP+BAND*len(rows)}" stroke="#e6e0d6" stroke-width="1"/><text x="{sx(v):.1f}" y="{TOP+BAND*len(rows)+18}" text-anchor="middle" class="tick">{k(v)}</text>' for v in range(0, XMAX+1, 25000))
+bars = ''
+for i, (name, lo, hi) in enumerate(rows):
+    y = TOP + BAND * i + (BAND - BAR) / 2
+    bars += f'<g class="bar"><title>{E(name)}: {money(lo)} to {money(hi)} for ten</title><rect x="{L-6}" y="{TOP+BAND*i}" width="{W-L+6}" height="{BAND}" fill="transparent"/><text x="{L-10}" y="{y+BAR/2+5}" text-anchor="end" class="lab">{E(name)}</text><rect x="{sx(lo):.1f}" y="{y}" width="{max(sx(hi)-sx(lo), 4):.1f}" height="{BAR}" rx="4" fill="#0f7c8c"/><text x="{sx(hi)+8:.1f}" y="{y+BAR/2+5}" class="val">{k(lo)} to {k(hi)}</text></g>'
+chart = f'<svg viewBox="0 0 {W} {H}" width="100%" role="img" aria-label="Rough cost for ten, low to high, by place" class="chart">{grid}{bars}</svg>'
 
 page = f'''<!doctype html>
 <html lang="en">
@@ -142,6 +168,9 @@ thead th{{background:#f1ece3;border-top:none;font-weight:600}} tbody th{{font-we
 footer{{margin:60px 0 40px;color:var(--muted);font-size:.85rem}} footer ul{{padding-left:1.1em}}
 #map-overview{{height:460px}}
 .party{{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 20px;margin:20px 0}} .party ul{{padding-left:1.1em;margin:.4em 0}} .party li{{margin:.35em 0}}
+.glance th,.glance td{{width:50%}} .glance thead th:first-child{{color:#2f7d3a}} .glance thead th:last-child{{color:#b03a2e}}
+.compare{{min-width:760px}} .compare th,.compare td{{font-size:.9rem;vertical-align:top}} .compare tbody th{{white-space:normal;width:120px;position:sticky;left:0;background:#fbf9f5;z-index:1}} .compare thead th:first-child{{position:sticky;left:0;background:#f1ece3;z-index:2}} .sw{{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:1px}}
+.chartwrap{{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px 6px}} .chart{{display:block;max-width:760px;font-family:Inter,system-ui,sans-serif}} .chart .lab{{font-size:13px;fill:var(--ink);font-weight:500}} .chart .val{{font-size:12px;fill:var(--muted)}} .chart .tick{{font-size:11px;fill:var(--muted)}} .chart .bar:hover rect:last-of-type{{fill:#0a5f6c}}
 </style>
 </head>
 <body>
@@ -155,6 +184,10 @@ footer{{margin:60px 0 40px;color:var(--muted);font-size:.85rem}} footer ul{{padd
 <section id="overview" class="wrap">
   <h3>Places we're looking at</h3>
   <div class="ocards">{cards}</div>
+  <h3>Side by side</h3>
+  <div class="scroll"><table class="compare">{compare}</table></div>
+  <h3>Rough cost for ten, low to high</h3>
+  <div class="chartwrap">{chart}<p class="small">Each bar runs from the low guess to the high guess for all ten of us for the week. The house is the biggest unknown in every one.</p></div>
   <h3>Where they are, from home</h3>
   <div id="map-overview" class="map"></div>
   <p class="small">Dashed lines run from Norfolk. Richmond and Austin would fly their own routings. Click a pin for the name.</p>
