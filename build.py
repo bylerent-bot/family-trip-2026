@@ -170,7 +170,7 @@ footer{{margin:60px 0 40px;color:var(--muted);font-size:.85rem}} footer ul{{padd
 .party{{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 20px;margin:20px 0}} .party ul{{padding-left:1.1em;margin:.4em 0}} .party li{{margin:.35em 0}}
 .glance th,.glance td{{width:50%}} .glance thead th:first-child{{color:#2f7d3a}} .glance thead th:last-child{{color:#b03a2e}}
 .compare{{min-width:760px}} .compare th,.compare td{{font-size:.9rem;vertical-align:top}} .compare tbody th{{white-space:normal;width:120px;position:sticky;left:0;background:#fbf9f5;z-index:1}} .compare thead th:first-child{{position:sticky;left:0;background:#f1ece3;z-index:2}} .sw{{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:1px}}
-.chartwrap{{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px 6px}} .chart{{display:block;max-width:760px;font-family:Inter,system-ui,sans-serif}} .chart .lab{{font-size:13px;fill:var(--ink);font-weight:500}} .chart .val{{font-size:12px;fill:var(--muted)}} .chart .tick{{font-size:11px;fill:var(--muted)}} .chart .bar:hover rect:last-of-type{{fill:#0a5f6c}}
+.chartwrap{{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px 6px}} .chart{{display:block;min-width:560px;max-width:760px;font-family:Inter,system-ui,sans-serif}} .chart .lab{{font-size:13px;fill:var(--ink);font-weight:500}} .chart .val{{font-size:12px;fill:var(--muted)}} .chart .tick{{font-size:11px;fill:var(--muted)}} .chart .bar:hover rect:last-of-type{{fill:#0a5f6c}}
 </style>
 </head>
 <body>
@@ -187,7 +187,7 @@ footer{{margin:60px 0 40px;color:var(--muted);font-size:.85rem}} footer ul{{padd
   <h3>Side by side</h3>
   <div class="scroll"><table class="compare">{compare}</table></div>
   <h3>Rough cost for ten, low to high</h3>
-  <div class="chartwrap">{chart}<p class="small">Each bar runs from the low guess to the high guess for all ten of us for the week. The house is the biggest unknown in every one.</p></div>
+  <div class="chartwrap"><div class="scroll">{chart}</div><p class="small">Each bar runs from the low guess to the high guess for all ten of us for the week. The house is the biggest unknown in every one.</p></div>
   <h3>Where they are, from home</h3>
   <div id="map-overview" class="map"></div>
   <p class="small">Dashed lines run from Norfolk. Richmond and Austin would fly their own routings. Click a pin for the name.</p>
