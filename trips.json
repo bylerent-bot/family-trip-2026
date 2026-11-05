@@ -1,8 +1,8 @@
 {
   "site": {
     "title": "The Week After Christmas",
-    "subtitle": "Five places we're kicking around for the week after Christmas. Sunday December 27, 2026 to Sunday January 3, 2027.",
-    "built": "October 21, 2026",
+    "subtitle": "Six places we're kicking around for the week after Christmas. Sunday December 27, 2026 to Sunday January 3, 2027.",
+    "built": "October 21, 2026, with Costa Rica added November 5, 2026",
     "disclaimer": "These are rough ideas. Nothing is booked or decided. Prices are rough guesses for ten of us at holiday-week rates unless they say published, and the flight days are what the airlines announced, so they still need checking for our dates.",
     "party": "Mom, Patrick and Sara, Andrew and Trisha, Kristina and Michael with Bennett (7) and Taylor (3), and Daniel. Seven of us would fly from Norfolk, two from Richmond and one from Austin.",
     "rules": [
@@ -923,6 +923,403 @@
         "House": "Six bedrooms with a pool, 3 minutes from the sand, unquoted",
         "Out the door": "A hotel and restaurant avenue a few minutes' walk away",
         "Weather": "Around 83, sea about 81, winter swell"
+      }
+    },
+    {
+      "key": "cr",
+      "name": "Costa Rica",
+      "place": "Playa Hermosa, on the Gulf of Papagayo in the northwest",
+      "tag": "",
+      "lat": 10.576,
+      "lng": -85.678,
+      "pitch": "A quiet, calm bay in Costa Rica's dry northwest, 35 minutes from the Liberia airport, with the town of Coco and its working waterfront 10 to 15 minutes away by car. The idea would be a six-bedroom house right on the sand, with the whole lot fenced, its own gate onto the beach and a pool (the pool itself has no fence), and a few beach restaurants along the strip. Mom and whoever is certified could dive with the giant mantas at the Catalina Islands, which are in season from December, the surfers could take a boat up to Witch's Rock, and the kids would have a calm, shallow bay in the mornings before the afternoon wind comes up. It's a beach strip rather than a town, though, so groceries and most dinners mean a drive into Coco.",
+      "why": [
+        "A short arrival day: one connection into Liberia, then a straight drive to the house with a grocery stop in Coco on the way.",
+        "Villa Daiquiri, the house we'd ask about first, is one six-bedroom house on the sand with the lot fenced, a gate straight onto the beach, a crib, a high chair and a playground. It's rated 10 out of 10 across 49 reviews.",
+        "Catalina Islands manta diving leaves from Coco, and December through April is manta season. Witch's Rock and Ollie's Point are a boat day from the same harbor.",
+        "It's the dry season: Liberia's December averages are highs around 90, nights around 70 and about half an inch of rain for the whole month, with January drier still.",
+        "A day-trip menu for the non-surfers: the Llanos de Cortés waterfall with its sandy pool, about an hour away by our estimate, the Rincón de la Vieja mud pots, the Guaitil pottery village, Liberia's white city, and dolphin and turtle boats out of Coco.",
+        "If being in the town itself matters more than a quiet bay, Casa de Lys is a second six-bedroom house on the Coco beachfront, a 3-minute walk from the town beach, with the listing putting the town's bars and restaurants minutes away, though we haven't checked how many are on foot.",
+        "Costa Rica is on Central time, so an hour behind Virginia and the same as Austin that week."
+      ],
+      "catch": [
+        "One connection for everyone. United flies Dulles to Liberia every day from Dec 17 to Jan 4, so Norfolk and Richmond would go through Dulles; Austin connects through Houston or Dallas. Each hub has one Liberia flight a day, so a missed connection costs a day.",
+        "The State Department has Costa Rica at Level 2, Exercise Increased Caution, for crime, issued April 2, 2026, and it names no region. The beach towns to the south, around Tamarindo, had gang shootings in 2026 aimed at locals rather than tourists, and armed break-ins at occupied rental houses at night in 2025, one of them fatal, and the police and the US Embassy have warned renters about those break-ins. We found no 2026 gang killing at Hermosa itself. Coco, 10 to 15 minutes away, had a shooting death around the end of February, a double homicide in nearby Sardinal in May, a house at Playa El Coco burgled twice in July, and a robbery killing of a resident in his condo in September.",
+        "So we'd want the house's security settled in writing before any deposit. The Villa Daiquiri listing says the whole lot is fenced, but the host says there's no smoke or carbon monoxide detector and the listing mentions no alarm, so the questions are an alarm or a night guard, and the gate.",
+        "There's an active chikungunya outbreak (a mosquito-borne virus) in this part of Costa Rica, with a CDC Level 2 travel notice that's worth reading before anyone books. There's a vaccine for adults, and the adults would see a travel clinic first.",
+        "The nearest hospitals are in Liberia, about 35 to 45 minutes away by our estimate, and we couldn't confirm a children's emergency room at any of them.",
+        "The pool at the house has no fence, so the kids would need a grownup at the water.",
+        "We found no gluten-free bakery or dedicated kitchen in Coco or Hermosa. Two Coco restaurants are described by gluten-free reviewers as careful, and we'd call ahead. We also found no Pilates reformer studio. Vrbo wouldn't show us a calendar for the week, so we don't know yet whether the house is free.",
+        "Passports for all ten, and Costa Rica requires its own liability insurance on rental cars, about $15 to $25 a car a day on top of the rate."
+      ],
+      "weather": "Dry season in Guanacaste. Liberia, the nearest weather station, averages highs around 90 and nights around 70 in December, with about half an inch of rain for the month and almost none in January. The sea is warm and calmest in the mornings, and the Papagayo wind builds through the afternoon and chops the bay, so mornings would be the time to swim and the afternoons the time for the pool, the hammocks and the boats.",
+      "notes": [
+        {
+          "title": "What about Sámara?",
+          "paragraphs": [
+            "Sámara, about two to two and a half hours from Liberia by our estimate, on the Nicoya side, has a calm sand-bottom bay behind an offshore reef and a little island, with a village of a few blocks right on the sand, and a week there would run about $27,000 to $45,000 for ten, our guess.",
+            "The catch is the house. The one we'd want, Casa Pacifica, is gated with an evening guard and rated 9.8 from 203 reviews, but it has four bedrooms and sleeps ten, so six bedrooms would mean renting its separate casita for the same dates and sleeping in two buildings. The restaurants are a short drive rather than a walk, and the Sámara and Nosara area has had a run of gang killings this year, mostly around Nosara to the north."
+          ]
+        }
+      ],
+      "getting_there": [
+        {
+          "from": "Norfolk (7)",
+          "how": "No nonstop. United through Dulles, where the Dulles to Liberia nonstop runs daily Dec 17 to Jan 4, so Sunday Dec 27 out and Sunday Jan 3 back both work. Delta through Atlanta and American through Charlotte are the backups. About 9 to 11 hours door to door, our guess.",
+          "est": "$700 to $1,300 a seat, our guess",
+          "link": "https://deeparrival.com/news/united-dulles-liberia-nonstop-holiday-2026/"
+        },
+        {
+          "from": "Richmond (2)",
+          "how": "The same shape: United through Dulles, Delta through Atlanta or American through Charlotte. About 9 to 11 hours, our guess.",
+          "est": "$700 to $1,300 a seat, our guess",
+          "link": "https://deeparrival.com/news/united-dulles-liberia-nonstop-holiday-2026/"
+        },
+        {
+          "from": "Austin (1)",
+          "how": "No nonstop this winter (Southwest's own Austin to Liberia flight doesn't start until June 2027). United through Houston, where one sample itinerary is under six hours, or American through Dallas. About 7 to 9 hours, our guess.",
+          "est": "$700 to $1,300, our guess",
+          "link": ""
+        },
+        {
+          "from": "On the ground",
+          "how": "About 35 minutes from Liberia to Playa Hermosa by road. Two seven-seat SUVs or minivans from the airport desks with Costa Rica's required insurance and two car seats, booked ahead for the holiday week, or a van transfer from the house manager. Coco is 10 to 15 minutes from the house, Liberia about 40, the Llanos de Cortés waterfall about an hour and Rincón de la Vieja about an hour and a half. Those drive times are our estimates.",
+          "est": "$1,500 to $3,000 for the week",
+          "link": ""
+        }
+      ],
+      "houses": [
+        {
+          "name": "Villa Daiquiri, Playa Hermosa (Vrbo)",
+          "detail": "Six bedrooms and 6.5 baths, sleeps 16: three king suites on the ground floor, and upstairs a king suite with a jetted tub, a bunk room with a full and a twin, and a queen room, plus a crib. Right on Playa Hermosa with a gate onto the sand, a fenced and gated lot, a pool with no barrier, a playground, a high chair and kids' dinnerware, air conditioning, and cleaning three days a week. It was the Bacardi family's compound once. A management company runs it with a concierge for chef services, transportation and tours. 10 out of 10 from 49 reviews, none that we read mentioning a break-in. Renters have to be 26 or over.",
+          "price": "From $1,359 a night before fees on Vrbo. Our guess for the holiday week is $1,800 to $2,200 a night before fees. The full math is in the pricing table",
+          "url": "https://www.vrbo.com/2446450",
+          "verdict": "The one we'd ask about first. The questions for the manager are the holiday rate and minimum stay, a pool fence or gate, and an alarm or a night guard."
+        },
+        {
+          "name": "Casa de Lys, Playas del Coco (Vrbo)",
+          "detail": "Six bedrooms and 5 baths, sleeps 10: a king master that's a one-bedroom apartment on the main floor with its own living room and kitchen, two more king suites, two queens sharing a bath, and a bunk room with its own bath. On the Coco beachfront with direct access to the sand, a gated lot, an infinity-style pool, a covered terrace with a grill, air conditioning throughout, secure parking, and use of a yoga pavilion and pickleball and tennis courts. The town beach is a 3-minute walk, Playa Hermosa an 11-minute drive and the airport about 39 minutes. Zindis Group manages it, with 24/7 guest support and a concierge. 10 out of 10 from 20 reviews, though one July 2026 guest couldn't sleep for a neighbor's rooster from 3 to 7 in the morning.",
+          "price": "No nightly rate showed on the page we could open, so it needs an inquiry",
+          "url": "https://www.vrbo.com/3148455",
+          "verdict": "Worth asking about if being in the town itself matters more than a quiet bay. We haven't looked into it beyond the listing, and Coco had a shooting death around the end of February and a robbery killing of a resident in his condo in September 2026. Sleeps exactly ten, so no spare bed, and no fence is mentioned around the pool."
+        }
+      ],
+      "agenda": [
+        {
+          "day": "Sun Dec 27",
+          "all": "Everyone through Dulles, Atlanta or Charlotte into Liberia by early afternoon, Daniel through Houston or Dallas. Two cars, a grocery stop in Coco on the way, and about 35 minutes to Hermosa. The pool, a first swim out the beach gate, and dinner at Roberto's on the beach strip.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Mon Dec 28",
+          "all": "Dinner at the house, cooked from the Coco groceries.",
+          "crew": "A dawn surf check and a stop at the Coco dive shops to book the Catalinas and the Witch's Rock boat.",
+          "relax": "Wading at Hermosa in the morning before the wind comes up, naps, and a Coco afternoon for the waterfront and ice cream."
+        },
+        {
+          "day": "Tue Dec 29",
+          "all": "The first chef night at the house, with the catch if the boat brings one.",
+          "crew": "A two-tank Catalina Islands dive from Coco for Mom and whoever is certified, with the mantas if they're in.",
+          "relax": "A beach morning, the pool, and a quiet afternoon at the house."
+        },
+        {
+          "day": "Wed Dec 30",
+          "all": "Dinner out in Coco.",
+          "crew": "The Witch's Rock and Ollie's Point boat from Coco for the surfers. A beach run or a Coco gym pass for whoever wants one.",
+          "relax": "Guaitil pottery village and Liberia's white city, about an hour each way."
+        },
+        {
+          "day": "Thu Dec 31",
+          "all": "The Llanos de Cortés waterfall, a wide sandy-bottomed pool about an hour away, with a picnic. Pool and hammocks in the afternoon, then New Year's Eve at the house: the second chef night and the beach at midnight.",
+          "crew": "",
+          "relax": ""
+        },
+        {
+          "day": "Fri Jan 1",
+          "all": "Dinner on the sand at La Casita del Marisco.",
+          "crew": "Rincón de la Vieja's mud pots and fumaroles, about an hour and a half away, trails only.",
+          "relax": "A slow day. A massage at the house for whoever wants one, and the dolphin and turtle boat out of Coco for the kids with a grownup."
+        },
+        {
+          "day": "Sat Jan 2",
+          "all": "Packing and a last dinner at the house.",
+          "crew": "A wing day up at Bahía Salinas for Patrick, or a half day of fishing from Coco.",
+          "relax": "The last long beach morning and the Hermosa sunset walk."
+        },
+        {
+          "day": "Sun Jan 3",
+          "all": "About 35 minutes to the airport for the Dulles, Atlanta and Charlotte flights, Daniel on the Houston or Dallas one.",
+          "crew": "",
+          "relax": ""
+        }
+      ],
+      "pricing": [
+        {
+          "item": "House, seven nights",
+          "low": 13000,
+          "high": 21000,
+          "note": "Our guess, and the biggest unknown. Villa Daiquiri lists from $1,359 a night before fees, which is about $9,500 for seven nights. With cleaning, service fees and Costa Rica's 13 percent tax that is roughly $12,500 to $13,000 (our arithmetic, since the fee schedule isn't posted). If the holiday rate runs 1.3 to 1.6 times the listed one, it's $16,000 to $21,000. No holiday rate, minimum stay or calendar was posted for the week"
+        },
+        {
+          "item": "Flights for ten",
+          "low": 7000,
+          "high": 13000,
+          "note": "Our guess at $700 to $1,300 a seat for all ten, Taylor included: seven from Norfolk and two from Richmond through Dulles, Atlanta or Charlotte, and Daniel through Houston or Dallas. Nothing quoted"
+        },
+        {
+          "item": "Two seven-seat vehicles",
+          "low": 1500,
+          "high": 3000,
+          "note": "Our guess for two SUVs or minivans from the Liberia airport desks for the week, with Costa Rica's required liability insurance (about $15 to $25 a car a day on top of the rate) and two car seats"
+        },
+        {
+          "item": "Dive",
+          "low": 700,
+          "high": 1500,
+          "note": "Two-tank Catalina Islands trips from Coco should run about $165 a diver plus a $17 park fee, our estimate with nothing quoted, for Mom and whoever is certified on one or two trips. Gear rental and tips are extra"
+        },
+        {
+          "item": "Boats and day trips",
+          "low": 2300,
+          "high": 5500,
+          "note": "A boat to Witch's Rock and Ollie's Point for the surfers, the dolphin and turtle boat for the kids, maybe a half day of fishing or a wing session, and the small park fees at the waterfall and the volcano. Our guess, nothing quoted"
+        },
+        {
+          "item": "Private chef, two dinners",
+          "low": 2500,
+          "high": 3000,
+          "note": "The one priced chef we found is a Tamarindo tapas service at about $120 a guest with a $447 minimum, so a ten-person night would run about $1,200 before groceries, call it $2,500 for two nights, if a Hermosa chef charges the same. The Take a Chef website lists more than 20 chefs for Playa Hermosa, though some may be at the other Playa Hermosa, near Jacó. We'd want a written menu that spells out the gluten-free and nut allergy handling"
+        },
+        {
+          "item": "Groceries and dining out",
+          "low": 4000,
+          "high": 7000,
+          "note": "A rough allowance for ten over seven days, with three or four dinners out in Coco or on the Hermosa sand"
+        },
+        {
+          "item": "Travel clinic and insurance",
+          "low": 2800,
+          "high": 4500,
+          "note": "Our guess for the travel-clinic visits the CDC notice calls for, about $2,000 to $3,000 for the adults, plus travel insurance with medical evacuation for ten, about $800 to $1,500"
+        },
+        {
+          "item": "Tips and fees",
+          "low": 800,
+          "high": 1800,
+          "note": "Our guess, nothing quoted: tips for the boat and dive crews, the house staff and the chef, plus parking and the odd park entry"
+        }
+      ],
+      "links": {
+        "Activities": [
+          {
+            "label": "Rich Coast Diving, Coco (Catalina and Bat Islands)",
+            "url": "https://www.richcoastdiving.com/"
+          },
+          {
+            "label": "Deep Blue Diving, Coco",
+            "url": "https://www.deepblue-diving.com/"
+          },
+          {
+            "label": "Summer Salt Dive Center, Coco",
+            "url": "https://www.summer-salt.com/"
+          },
+          {
+            "label": "Santa Rosa National Park, home of Witch's Rock and Ollie's Point (Wikipedia)",
+            "url": "https://en.wikipedia.org/wiki/Santa_Rosa_National_Park"
+          },
+          {
+            "label": "Llanos de Cortés waterfall (Costa Rica Vibes)",
+            "url": "https://www.costaricavibes.com/llanos-de-cortez-waterfall/"
+          },
+          {
+            "label": "Rincón de la Vieja (Two Weeks in Costa Rica)",
+            "url": "https://www.twoweeksincostarica.com/rincon-de-la-vieja/"
+          },
+          {
+            "label": "Guaitil pottery village (Wikipedia)",
+            "url": "https://en.wikipedia.org/wiki/Guaitil"
+          },
+          {
+            "label": "Playa Hermosa guide (Two Weeks in Costa Rica)",
+            "url": "https://www.twoweeksincostarica.com/playa-hermosa-guanacaste/"
+          },
+          {
+            "label": "Playa Hermosa guide (Costa Rica Vibes)",
+            "url": "https://www.costaricavibes.com/?p=19098"
+          },
+          {
+            "label": "Playas del Coco guide (Two Weeks in Costa Rica)",
+            "url": "https://www.twoweeksincostarica.com/playas-del-coco/"
+          }
+        ],
+        "Food": [
+          {
+            "label": "Take a Chef, chefs listed for Playa Hermosa (some may be the other Playa Hermosa, near Jacó)",
+            "url": "https://www.takeachef.com/es-cr/chef-privado/playa-hermosa"
+          },
+          {
+            "label": "Kaixo Restaurante, Coco, gluten-free reviews (Find Me Gluten Free)",
+            "url": "https://www.findmeglutenfree.com/biz/kaixo-restaurante-and-showroom/4722286870659072"
+          }
+        ],
+        "Travel": [
+          {
+            "label": "Villa Daiquiri on Vrbo",
+            "url": "https://www.vrbo.com/2446450"
+          },
+          {
+            "label": "Casa de Lys on Vrbo",
+            "url": "https://www.vrbo.com/3148455"
+          },
+          {
+            "label": "United's Dulles to Liberia holiday nonstop (Deep Arrival)",
+            "url": "https://deeparrival.com/news/united-dulles-liberia-nonstop-holiday-2026/"
+          },
+          {
+            "label": "State Department Costa Rica travel advisory",
+            "url": "https://travel.state.gov/en/international-travel/travel-advisories/costa-rica.html"
+          },
+          {
+            "label": "CDC travel notice, chikungunya in Costa Rica",
+            "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-costa-rica"
+          },
+          {
+            "label": "UK travel advice for Costa Rica, safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/costa-rica/safety-and-security"
+          },
+          {
+            "label": "Medjet short-term memberships",
+            "url": "https://www.insuremytrip.com/travel-insurance-providers/medjet/short-term"
+          }
+        ]
+      },
+      "markers": [
+        {
+          "name": "Villa Daiquiri area, Playa Hermosa (roughly, no exact address posted)",
+          "lat": 10.5775,
+          "lng": -85.677,
+          "kind": "house"
+        },
+        {
+          "name": "Playa Hermosa, the bay",
+          "lat": 10.5756,
+          "lng": -85.6784,
+          "kind": "spot"
+        },
+        {
+          "name": "Casa de Lys area, on the Coco beachfront (roughly)",
+          "lat": 10.55,
+          "lng": -85.7,
+          "kind": "house"
+        },
+        {
+          "name": "Playas del Coco, the town and the waterfront",
+          "lat": 10.5514,
+          "lng": -85.698,
+          "kind": "town"
+        },
+        {
+          "name": "Pacifico Village shops, Coco (Numu and the supermarket)",
+          "lat": 10.5462,
+          "lng": -85.6932,
+          "kind": "town"
+        },
+        {
+          "name": "Playa Panamá, the next bay north",
+          "lat": 10.5926,
+          "lng": -85.65,
+          "kind": "spot"
+        },
+        {
+          "name": "Playa Ocotal",
+          "lat": 10.5464,
+          "lng": -85.721,
+          "kind": "spot"
+        },
+        {
+          "name": "Catalina Islands, the manta dive",
+          "lat": 10.481,
+          "lng": -85.8712,
+          "kind": "spot"
+        },
+        {
+          "name": "Witch's Rock (Roca Bruja), Playa Naranjo",
+          "lat": 10.7922,
+          "lng": -85.6833,
+          "kind": "spot"
+        },
+        {
+          "name": "Ollie's Point, Potrero Grande",
+          "lat": 10.8479,
+          "lng": -85.7891,
+          "kind": "spot"
+        },
+        {
+          "name": "Bahía Salinas, Playa Copal, the wind beach",
+          "lat": 11.0292,
+          "lng": -85.7056,
+          "kind": "spot"
+        },
+        {
+          "name": "Llanos de Cortés waterfall",
+          "lat": 10.5243,
+          "lng": -85.2986,
+          "kind": "spot"
+        },
+        {
+          "name": "Rincón de la Vieja, Las Pailas trails and mud pots",
+          "lat": 10.773,
+          "lng": -85.345,
+          "kind": "spot"
+        },
+        {
+          "name": "Guaitil pottery village",
+          "lat": 10.268,
+          "lng": -85.5104,
+          "kind": "spot"
+        },
+        {
+          "name": "Liberia, the white city",
+          "lat": 10.6333,
+          "lng": -85.4333,
+          "kind": "town"
+        },
+        {
+          "name": "Liberia airport (LIR)",
+          "lat": 10.5931,
+          "lng": -85.5456,
+          "kind": "airport"
+        }
+      ],
+      "zoom": 10,
+      "glance": [
+        {
+          "pro": "A six-bedroom house on calm sand, with the whole lot fenced and its own beach gate",
+          "con": "No fence around the pool, and the house hasn't been quoted for the week"
+        },
+        {
+          "pro": "About 35 minutes from the airport to the house",
+          "con": "One connection for all ten seats, with one Liberia flight a day per hub, and passports for everyone"
+        },
+        {
+          "pro": "Manta diving at the Catalinas and a surf boat to Witch's Rock, both from Coco",
+          "con": "Hermosa is a beach strip, not a town, so dinners and groceries mean a 10 to 15 minute drive to Coco"
+        },
+        {
+          "pro": "Dry season: sunny, highs around 90 in Liberia, with almost no rain",
+          "con": "The afternoon wind chops the bay, so swims are morning swims"
+        },
+        {
+          "pro": "About $35k to $60k for ten, our guess",
+          "con": "State Department Level 2 for crime, so we'd read the advisory ourselves"
+        }
+      ],
+      "compare": {
+        "Flights": "One connection for everyone, through Dulles, Atlanta or Charlotte, Daniel through Houston or Dallas",
+        "House": "Villa Daiquiri, six bedrooms on the sand with a fence and a beach gate, no holiday rate yet",
+        "Out the door": "The beach through the gate and a few restaurants on the sand; Coco is a 10 to 15 minute drive",
+        "Weather": "Highs around 90, warm sea, dry, windy afternoons"
       }
     },
     {
